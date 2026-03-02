@@ -9,7 +9,9 @@ const COURSE_URL =
   "https://plus.pearson.com/courses/mancuso86168/products/BRNT-6MS7SLXU3D/pages/31c89f60-eac2-11ed-8aa5-635cfb2303b0";
 const OUTPUT_DIR = "./output";
 const SCREENSHOTS_DIR = "./output/screenshots";
+const IMAGES_DIR = "./output/images";
 let screenshotCounter = 0;
+let imageCounter = 0;
 
 // Chapter 14 pages: 269-293
 const START_PAGE = 269;
@@ -174,16 +176,57 @@ async function extractPageContent(page) {
   // Content is inside #contentIframe — access its document
   const content = await page.evaluate(() => {
     const iframe = document.querySelector("#contentIframe");
-    if (!iframe) return { md: "", raw: "", debug: "no #contentIframe found" };
+    if (!iframe) return { md: "", raw: "", images: [], debug: "no #contentIframe found" };
 
     let doc;
     try {
       doc = iframe.contentDocument || iframe.contentWindow?.document;
     } catch (e) {
-      return { md: "", raw: "", debug: "cross-origin iframe: " + e.message };
+      return { md: "", raw: "", images: [], debug: "cross-origin iframe: " + e.message };
     }
 
-    if (!doc || !doc.body) return { md: "", raw: "", debug: "iframe has no body" };
+    if (!doc || !doc.body) return { md: "", raw: "", images: [], debug: "iframe has no body" };
+
+    const images = [];
+
+    // Helper for table conversion — build proper markdown table
+    function tableToMd(tableNode) {
+      const rows = tableNode.querySelectorAll("tr");
+      if (rows.length === 0) return "";
+
+      const tableData = [];
+      for (const row of rows) {
+        const cells = row.querySelectorAll("th, td");
+        const rowData = [];
+        for (const cell of cells) {
+          const text = cell.innerText?.trim().replace(/\n/g, " ") || "";
+          const isHeader = cell.tagName === "TH";
+          rowData.push({ text, isHeader });
+        }
+        tableData.push(rowData);
+      }
+
+      if (tableData.length === 0) return "";
+
+      // Find max columns
+      const maxCols = Math.max(...tableData.map((r) => r.length));
+      let md = "\n";
+
+      // First row as header
+      const headerRow = tableData[0];
+      md += "| " + headerRow.map((c) => c.text).join(" | ") + " |\n";
+      md += "| " + headerRow.map(() => "---").join(" | ") + " |\n";
+
+      // Remaining rows
+      for (let i = 1; i < tableData.length; i++) {
+        const row = tableData[i];
+        // Pad row to maxCols
+        while (row.length < maxCols) row.push({ text: "", isHeader: false });
+        md += "| " + row.map((c) => c.text).join(" | ") + " |\n";
+      }
+
+      return md + "\n";
+    }
 
     function nodeToMd(node) {
       if (node.nodeType === Node.TEXT_NODE) return node.textContent;
@@ -191,6 +234,9 @@ async function extractPageContent(page) {
 
       const tag = node.tagName.toLowerCase();
       if (["script", "style", "noscript", "svg", "button", "nav"].includes(tag)) return "";
+
+      // Handle tables specially
+      if (tag === "table") return tableToMd(node);
 
       const children = Array.from(node.childNodes).map((c) => nodeToMd(c)).join("");
       const trimmed = children.trim();
@@ -210,20 +256,24 @@ async function extractPageContent(page) {
         case "ol": return `\n${children}\n`;
         case "li": return `- ${trimmed}\n`;
         case "blockquote": return `\n> ${trimmed}\n\n`;
-        case "table": return `\n${children}\n`;
-        case "thead": case "tbody": return children;
-        case "tr": return `| ${children}\n`;
-        case "th": return ` **${trimmed}** |`;
-        case "td": return ` ${trimmed} |`;
         case "figure": return `\n${children}\n`;
         case "figcaption": return `\n*${trimmed}*\n`;
         case "img": {
           const alt = node.getAttribute("alt") || "image";
+          const src = node.getAttribute("src") || node.getAttribute("data-src") || "";
+          // Collect image info for downloading
+          if (src) {
+            const imgIndex = images.length;
+            images.push({ alt, src });
+            return `\n![${alt}](images/img_${imgIndex}.jpg)\n`;
+          }
           return `\n![${alt}]\n`;
         }
         case "span": return children;
         case "div": return trimmed ? `\n${children}\n` : children;
         case "section": return `\n${children}\n`;
+        // Skip table sub-elements (handled by tableToMd)
+        case "thead": case "tbody": case "tr": case "th": case "td": return "";
         default: return children;
       }
     }
@@ -231,10 +281,53 @@ async function extractPageContent(page) {
     const md = nodeToMd(doc.body);
     const raw = doc.body.innerText;
 
-    return { md, raw, debug: "ok" };
+    return { md, raw, images, debug: "ok" };
   });
 
   return content;
+}
+
+async function downloadImages(page, images, pageNum) {
+  // Download images from the iframe's context
+  const downloaded = [];
+  for (let i = 0; i < images.length; i++) {
+    const img = images[i];
+    if (!img.src) continue;
+
+    try {
+      // Resolve relative URLs using the iframe's base URL
+      const imageBuffer = await page.evaluate(async (src) => {
+        const iframe = document.querySelector("#contentIframe");
+        const doc = iframe?.contentDocument || iframe?.contentWindow?.document;
+        if (!doc) return null;
+
+        // Resolve URL relative to iframe
+        const baseUrl = doc.baseURI || iframe.src;
+        const fullUrl = new URL(src, baseUrl).href;
+
+        try {
+          const response = await fetch(fullUrl);
+          if (!response.ok) return null;
+          const blob = await response.blob();
+          const arrayBuffer = await blob.arrayBuffer();
+          return Array.from(new Uint8Array(arrayBuffer));
+        } catch (e) {
+          return null;
+        }
+      }, img.src);
+
+      if (imageBuffer) {
+        const ext = img.src.match(/\.(png|jpg|jpeg|gif|webp|svg)/i)?.[1] || "jpg";
+        const filename = `img_p${pageNum}_${i}.${ext}`;
+        const filepath = path.join(IMAGES_DIR, filename);
+        await fs.writeFile(filepath, Buffer.from(imageBuffer));
+        downloaded.push({ index: i, filename, alt: img.alt });
+      }
+    } catch (e) {
+      // Skip failed downloads silently
+    }
+  }
+  return downloaded;
 }
 
 function sanitizeFilename(name) {
@@ -244,6 +337,7 @@ function sanitizeFilename(name) {
 async function main() {
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
   await fs.mkdir(SCREENSHOTS_DIR, { recursive: true });
+  await fs.mkdir(IMAGES_DIR, { recursive: true });
 
   const browser = await puppeteer.launch({
     headless: false,
@@ -291,12 +385,19 @@ async function main() {
 
       const content = await extractPageContent(page);
       // Use markdown if available, fall back to raw text
-      const text = (content.md || "").replace(/\n{3,}/g, "\n\n").replace(/[ \t]+$/gm, "").trim();
+      let text = (content.md || "").replace(/\n{3,}/g, "\n\n").replace(/[ \t]+$/gm, "").trim();
       const rawText = (content.raw || "").trim();
       const finalText = text.length > 20 ? text : rawText;
 
+      // Download images from this page
+      if (content.images && content.images.length > 0) {
+        const downloaded = await downloadImages(page, content.images, p);
+        console.log(`  Page ${p}: ${finalText.length} chars, ${downloaded.length}/${content.images.length} images`);
+      } else {
+        console.log(`  Page ${p}: ${finalText.length} chars`);
+      }
+
       allPages.push({ page: p, content: finalText });
-      console.log(`  Page ${p}: ${finalText.length} chars`);
 
       if (p === START_PAGE || p % 5 === 0) {
         await screenshot(page, `page_${p}`);
