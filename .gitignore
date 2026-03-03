@@ -1,4 +1,4 @@
 node_modules/
 .env
-output/screenshots/
-output/_debug_*
+output/
+scraper/node_modules/

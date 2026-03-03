@@ -1,0 +1,20 @@
+{
+  "name": "textbook-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "imapflow": "^1.2.10",
+    "mailparser": "^3.9.3",
+    "md-to-pdf": "^5.2.5",
+    "puppeteer": "^24.37.5"
+  }
+}
