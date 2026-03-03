@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 354 -->
-![Group of human chromosomes. Two pairs of chromosomes have two yellow spots on each pair, marking specific genes.](../images/img_0.jpg)
+![Group of human chromosomes. Two pairs of chromosomes have two yellow spots on each pair, marking specific genes.](../images/img_p354_0.jpeg)
 
 
 # **Chapter 15**
@@ -19,7 +19,7 @@
 The four yellow dots mark the locations of a specific gene, tagged with a fluorescent yellow dye, on a pair of homologous chromosomes. The chromosomes have duplicated, so each chromosome has two sister chromatids, each with a copy of the gene. This provides a visual demonstration that genes—Mendel’s “factors”—are segments of DNA located along chromosomes.
 
 
-![What is the relationship between genes and chromosomes?](../images/img_1.jpg)
+![What is the relationship between genes and chromosomes?](../images/img_p354_1.jpeg)
 
 
 Genes are located on chromosomes. In diploid cells, chromosomes and genes are present in pairs. Chromosomes duplicate before cell division. Each duplicated chromosome has two copies of each allele, one on each sister chromatid. Genes are passed on as discrete units. Each chromosome has one version of a gene (one allele). A maternal cell and a paternal cell each have chromosomes. The cells go through meiosis 1 and 2, resulting in a cell with an egg and a sperm. Through fertilization, offspring inherit one allele from each parent. The offspring has a pair of homologous chromosomes. Homologous chromosomes each have one allele of a given gene at the same locus.
@@ -34,7 +34,7 @@ Genes are located on chromosomes. In diploid cells, chromosomes and genes are pr
 - ******15.5********Some inheritance patterns are exceptions to standard Mendelian inheritance******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p354_2.png)
 
 
 Segregation and independent assortment of linear chromosomes result in genetic variation **(BIG IDEA 3)**, which is structural and functional evidence that supports the relatedness of all eukaryotes **(BIG IDEA 1)**. The unique patterns of inheritance involving Barr bodies are produced by the interaction of RNA and the X chromosome **(BIG IDEA 4)**.
@@ -45,7 +45,7 @@ Segregation and independent assortment of linear chromosomes result in genetic v
 **Draw chromosomes:** As you work on the figure legend questions in this chapter, draw the chromosomes for the crosses described in the questions. Below is a starting sketch for the What If? question that follows Figure 15.3. (Here you are including sex chromosomes to keep track of the offspring.)
 
 
-![A beginning sketch.](../images/img_3.jpg)
+![A beginning sketch.](../images/img_p354_3.jpeg)
 
 
 P generation has male and female chromosomes. The female chromosomes have alleles for W superscript plus on each, and the male chromosomes have alleles for w on each. X and X from the female leads to eggs with a w plus allele and an X chromosome. For the male, X and Y split into a chromosome with a w allele and an X chromosome, and a chromosome with a w allele and a Y chromosome.

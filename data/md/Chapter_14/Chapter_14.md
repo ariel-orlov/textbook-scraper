@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 269 -->
-![Flowers are a pinkish-purple.](../images/img_0.jpg)
+![Flowers are a pinkish-purple.](../images/img_p269_0.jpeg)
 
 
 # **Chapter ﻿14**
@@ -19,7 +19,7 @@
 Flower color was one of the many characteristics of pea plants studied by Gregor Mendel. By breeding pea plants over many generations and carefully counting the types of offspring, Mendel developed a theory of inheritance that is the basis of modern genetics.
 
 
-![How are traits, such as the purple or white color of flowers, transmitted from parents to offspring? Alternative versions of a gene (alleles) account for different traits.](../images/img_1.jpg)
+![How are traits, such as the purple or white color of flowers, transmitted from parents to offspring? Alternative versions of a gene (alleles) account for different traits.](../images/img_p269_1.jpeg)
 
 
 Each parent cell has two alleles for each character, such as flower color. Here, the alleles are identical in each parent flower. The two alleles segregate (separate) during gamete formation, ending up in different gametes (Law of Segregation). Offspring inherit one allele from each parent. When the two alleles are different, one allele (here, purple) determines the appearance. When offspring reproduce, the same principle applies: The alleles segregate, ending up in different gametes.
@@ -33,7 +33,7 @@ Each parent cell has two alleles for each character, such as flower color. Here,
 - 14.4﻿**Many human traits follow Mendelian patterns of inheritance**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p269_2.png)
 
 
 The meticulous work of Mendel and others in the 19th century provided evidence for a particulate mechanism of inheritance that led to our current understanding of the chromosomal basis of inheritance of genes from parent to offspring **(BIG IDEA 3)** and provided structural and functional evidence to support the relatedness of all domains **(BIG IDEA 1)**.
@@ -44,7 +44,7 @@ The meticulous work of Mendel and others in the 19th century provided evidence f
 **Solving genetics problems:** In Figure 14.5, you’ll learn how to predict the offspring of a genetic cross with a Punnett square, like the example shown below. For crosses shown in other figures, cover up the Punnett square and draw your own. Also, check out the Tips for Genetics Problems at the end of the chapter.
 
 
-![A Punnett square has rows for Eggs: uppercase P and lowercase p. It has columns for sperm: uppercase P and lowercase p.](../images/img_3.jpg)
+![A Punnett square has rows for Eggs: uppercase P and lowercase p. It has columns for sperm: uppercase P and lowercase p.](../images/img_p269_3.jpeg)
 
 
 A Punnett square illustrates the inheritance of alleles uppercase P and lowercase p, by depicting a square divided into 4 equal square sections. There are 2 rows and 2 columns forming 4 cells. To the left of the two rows is labeled Eggs, where the gamete with uppercase P (encircled) is placed near row 1 and the gamete with lowercase p (encircled) is placed near row 2. Above the columns is labeled sperm where the gamete with uppercase P (encircled) is placed near column 1 and the gamete with uppercase P (encircled) is placed near column 2. Top left quadrant is labeled by uppercase P uppercase P, top right quadrant is labeled uppercase p lowercase p, bottom left quadrant is labeled uppercase P lowercase p, and bottom right quadrant is labeled lowercase p lowercase p.

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 1080 -->
-![An immune cell engulfs a cluster of rod-shaped bacteria.](../images/img_0.jpg)
+![An immune cell engulfs a cluster of rod-shaped bacteria.](../images/img_p1080_0.jpeg)
 
 
 # **Chapter 43**
@@ -19,7 +19,7 @@
 Dedicated immune cells in most animals specifically interact with and attack pathogens, disease-causing agents such as bacteria or viruses. Here, an immune cell called a macrophage (brown) is engulfing bacteria (green).
 
 
-![How do immune cells recognize pathogens?](../images/img_1.jpg)
+![How do immune cells recognize pathogens?](../images/img_p1080_1.jpeg)
 
 
 Innate recognition: Each of a small set of receptors recognizes a molecule absent from animals, but common to a type of pathogen, as shown in 3 examples. In a virus: d s R N A (nucleic acid in genome. In a bacterium: flagellin (protein in flagella). In a fungus: mannan (oligosaccharide in cell wall).
@@ -36,7 +36,7 @@ Adaptive recognition. Each of a vast number of receptors is specific for a parti
 - 43.4﻿**Disruptions in immune system function can elicit or exacerbate disease**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p1080_2.png)
 
 
 To ensure survival **(BIG IDEA 1)** and the maintenance of dynamic homeostasis, plants and animals have a variety of chemical defenses that rely on cell-to-cell communication (**BIG IDEA 3)** and, in some cases, competition for antigen-binding sites **(BIG IDEA 4)**.
@@ -47,7 +47,7 @@ To ensure survival **(BIG IDEA 1)** and the maintenance of dynamic homeostasis, 
 **Make a table:** As you study innate and adaptive immunity, compare and contrast these two forms of immune defense by continuing to fill in this table.
 
 
-![A partially filled table has columns for defense mechanism, key role in innate or adaptive defenses, effect on the pathogen, and example of cell involved.](../images/img_3.jpg)
+![A partially filled table has columns for defense mechanism, key role in innate or adaptive defenses, effect on the pathogen, and example of cell involved.](../images/img_p1080_3.jpeg)
 
 
 | Defense mechanism | Key role in innate defense | Key role in adaptive defense | Effect on pathogen | Example of cell involved |

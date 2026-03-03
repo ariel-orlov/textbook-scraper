@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 306 -->
-![Two children have similar features to their parents, including bone structure, eye shape, and skin color.](../images/img_0.jpg)
+![Two children have similar features to their parents, including bone structure, eye shape, and skin color.](../images/img_p306_0.jpeg)
 
 
 # **Chapter 13**
@@ -19,7 +19,7 @@
 The family members shown in this photo have some similar features. Offspring resemble their parents more than they do unrelated individuals.
 
 
-![What biological mechanisms account for the resemblance between offspring and their parents?](../images/img_1.jpg)
+![What biological mechanisms account for the resemblance between offspring and their parents?](../images/img_p306_1.jpeg)
 
 
 Meiosis is a special type of cell division that produces cells with half the chromosomes of the parent cell. It occurs only in specialized cells, such as the cells of the testes and ovaries in humans. Humans have 45 chromosomes. Here, each parent cell shows only one pair of homologous chromosomes (homologs). (They carry genes for the same characters.) Chromosomes are duplicated before meiosis begins. Meiosis 1: Homologs are separated. Meiosis 2: sister chromatids are separated. The chromosome in each sperm is one of a pair of homologs, and the chromosome in each egg is one of a pair of homologs. Fertilization unites sperm and egg, re-establishing pairs of homologous chromosomes, with both paternal and maternal genes.
@@ -33,7 +33,7 @@ Meiosis is a special type of cell division that produces cells with half the chr
 - ******13.4********Genetic variation produced in sexual life cycles contributes to evolution******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p306_2.png)
 
 
 Meiosis followed by fertilization ensures genetic diversity in sexually reproducing organisms **(BIG IDEA 3)** and provides genetic variation that plays a role in natural selection **(BIG IDEA 1)**. This cellular process is driven by the interaction of subcellular components **(BIG IDEA 4)** and uses energy that is required for the growth and reproduction of living systems **(BIG IDEA 2)**.
@@ -44,7 +44,7 @@ Meiosis followed by fertilization ensures genetic diversity in sexually reproduc
 **Make a visual study guide:**Figure 13.1 presents the events of meiosis as a simplified diagram. As you learn more about meiosis, draw a detailed diagram of the stages of meiosis, starting with the sketch below. Include explanatory labels. Compare your visual study guides of mitosis (from Chapter 12) and meiosis, listing similarities and differences.
 
 
-![A simplified diagram of meiosis is captioned, Cell ready to start meiosis (chromosomes have been duplicated).](../images/img_3.jpg)
+![A simplified diagram of meiosis is captioned, Cell ready to start meiosis (chromosomes have been duplicated).](../images/img_p306_3.jpeg)
 
 
 ## Get Ready for This Chapter

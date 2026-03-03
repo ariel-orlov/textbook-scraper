@@ -8,7 +8,7 @@
 # Chapter 8 Review
 
 
-![A termite mound is covered in glowing green spots.](../images/img_0.jpg)
+![A termite mound is covered in glowing green spots.](../images/img_p203_0.jpeg)
 
 
 An image depicting a phenomenon known as bioluminescence, where organisms convert chemical energy to light energy. Pyrophorus nyctophanus, the click beetle, uses bioluminescence in its larval stages to attract termites from the termite mound for its food.
@@ -17,7 +17,7 @@ An image depicting a phenomenon known as bioluminescence, where organisms conver
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p203_1.png)
 
 
 Virtually all aerobic organisms share some similar enzymes, such as those involved in carbohydrate metabolism and in hydrogen peroxide degradation. How is it possible to have specific shared functions in enzymes when organisms and their internal and external environments vary so much? **(BIG IDEAS 1 & 4)**
@@ -52,7 +52,7 @@ Virtually all aerobic organisms share some similar enzymes, such as those involv
 - ******Enzymes** lower the EA barrier:
 
 
-![Graph showing course of reaction with and without enzyme. E sub A without enzyme is shown to be approximately twice as large as E sub A with enzyme.](../images/img_2.jpg)
+![Graph showing course of reaction with and without enzyme. E sub A without enzyme is shown to be approximately twice as large as E sub A with enzyme.](../images/img_p203_2.jpeg)
 
 
 Free energy is on the y-axis and Progress of the reaction is on the x-axis. E sub A without enzyme is shown to be approximately twice as large as E sub A with enzyme. Delta G is unaffected by enzyme.

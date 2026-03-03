@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 869 -->
-![A tree in a field.](../images/img_0.jpg)
+![A tree in a field.](../images/img_p869_0.jpeg)
 
 
 # **Chapter 35**
@@ -19,7 +19,7 @@
 There is beauty to behold at every level of plant organization: Every cell, every tissue, and every organ has a function, and the structure of each has been molded by natural selection.
 
 
-![A chart asks, how does structure fit function in vascular plants?](../images/img_1.jpg)
+![A chart asks, how does structure fit function in vascular plants?](../images/img_p869_1.jpeg)
 
 
 An illustration shows a plant with roots, a transverse section of a leaf, a green, chloroplast filled, plant cell, a tube representing xylem, and a part of the root with root hairs.
@@ -43,7 +43,7 @@ At the cellular level. Photosynthetic cells are packed with chloroplasts that co
 - ******35.5********Growth, morphogenesis, and cell differentiation produce the plant body******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p869_2.png)
 
 
 Interactions within biological systems lead to the complex properties of the cells, tissues, and organs of plants **(BIG IDEA 4)**—some of these are controlled by environmental factors as plants use feedback mechanisms to grow, differentiate cells, and develop **(BIG IDEA 2)**.
@@ -54,7 +54,7 @@ Interactions within biological systems lead to the complex properties of the cel
 **Make a table:** To help keep track of what different plant cells do, make the following table:
 
 
-![A table has the following column headings: Type of plant cell, What it does, and How structure fits function.](../images/img_3.jpg)
+![A table has the following column headings: Type of plant cell, What it does, and How structure fits function.](../images/img_p869_3.jpeg)
 
 
 Chapters 29 and 30 provided an overview of plant diversity, including both nonvascular and vascular plants. In this chapter and throughout Unit Six, we’ll focus on vascular plants, especially angiosperms because flowering plants are the primary producers in many terrestrial ecosystems and are of great agricultural importance. This chapter mainly explores nonreproductive growth—roots, stems, and leaves—and focuses primarily on the two main groups of angiosperms: eudicots and monocots (see Figure 30.16). Later, in Chapter 38, we’ll examine angiosperm reproductive growth: flowers, seeds, and fruits.

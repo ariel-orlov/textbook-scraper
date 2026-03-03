@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 391 -->
-![Four albino donkeys with one brown donkey.](../images/img_0.jpg)
+![Four albino donkeys with one brown donkey.](../images/img_p391_0.jpeg)
 
 
 # **Chapter ﻿17**
@@ -19,7 +19,7 @@
 A population of albino donkeys grazes on vegetation on the hillsides of Asinara, an Italian island. Several centuries ago, a recessive mutation that disables pigment synthesis arose in the DNA of one donkey and was passed down through the generations. Inbreeding has resulted in a large number of homozygous albino donkeys living on the island today.
 
 
-![How can one change in D N A result in such a dramatic change in appearance?](../images/img_1.jpg)
+![How can one change in D N A result in such a dramatic change in appearance?](../images/img_p391_1.jpeg)
 
 
 Proteins are the link between genotype and phenotype. Gene expression is the process by which D N A directs the synthesis of proteins. Begin with a genotype (D N A) with a gene for pigmentation. Transcription and then translation occur with m R N A. The result is a protein that is an enzyme required for pigment synthesis. The phenotype is a brown pigment. If the gene for pigmentation has a mutation, the protein, which is an enzyme required for pigment synthesis, does not work. The result is no pigment. A brown donkey is depicted for gene expression of the gene for pigmentation and an albino donkey is depicted for the phenotype with no pigment.
@@ -34,7 +34,7 @@ Proteins are the link between genotype and phenotype. Gene expression is the pro
 - 17.5﻿**Mutations of one or a few nucleotides can affect protein structure and function**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p391_2.png)
 
 
 The highly conserved processes of gene transcription and translation **(BIG IDEA 3)** shared by all domains **(BIG IDEA 1)** result from molecular interactions that include specific enzymes **(BIG IDEA 4)**.
@@ -45,7 +45,7 @@ The highly conserved processes of gene transcription and translation **(BIG IDEA
 **Make a visual study guide:** Sketch the process shown below, and add labels and details as you read the chapter. (In this exercise, assume all processes take place in a eukaryotic cell.)
 
 
-![The process of transcription and translation is partially drawn.](../images/img_3.jpg)
+![The process of transcription and translation is partially drawn.](../images/img_p391_3.jpeg)
 
 
 A drawing of a rectangular cell with a double membrane-bound nucleus is shown. A double helix of D N A is drawn inside the nucleus, with an arrow pointing to a ribbon-like structure with dark and light areas. Another arrow from this structure points to a shorter ribbon with no light areas. An arrow moves through a pore in the nuclear membrane and shows this ribbon sitting between two elliptical structures to form a string of beads, representing a protein.

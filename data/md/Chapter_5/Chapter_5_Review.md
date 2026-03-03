@@ -8,13 +8,13 @@
 # Chapter 5 Review
 
 
-![Model of protein shows a large and complex three-dimensional structure with variation in different regions of the molecule.](../images/img_0.jpg)
+![Model of protein shows a large and complex three-dimensional structure with variation in different regions of the molecule.](../images/img_p117_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p117_1.png)
 
 
 How do the sequence and subcomponents of a biological polymer determine its properties? **(BIG IDEA 4)**
@@ -35,7 +35,7 @@ How do the sequence and subcomponents of a biological polymer determine its prop
 #### Components
 
 
-![A monosaccharide as a hexagonal molecule is shown as a monomer in carbohydrates.](../images/img_2.jpg)
+![A monosaccharide as a hexagonal molecule is shown as a monomer in carbohydrates.](../images/img_p117_2.jpeg)
 
 
 Abbreviated ring structure. Each unlabeled corner represents a carbon. The ring’s thicker edge indicates that you are looking at the ring edge-on; the components attached to the ring lie above or below the plane of the ring. The ring form of glucose is drawn using an edge-on view of a hexagon. The points of the hexagon are on the right and left, and the carbons are numbered starting with the carbon on the far right, which was the aldehyde carbon in the linear form of the sugar. Each carbon is bonded to an O H and a hydrogen, one above the ring, and the other below it. Carbons 2 and 3 are on the near side of the hexagon, carbon 4 is the left point, and carbon 5 is on the far side. The oxygen of carbon 5 completes the hexagon, as it is bonded to carbon 1. Carbon 6, which is a C H 2 O H is bonded to carbon 5 and drawn above the ring. In glucose, the O H groups are below the ring on carbons 1, 2 and 4, and above the ring on carbon 3. The O H on carbon 1 can be either below or above the ring, depending on whether the ring is in the alpha or beta form, respectively.
@@ -73,13 +73,13 @@ Fuel; carbon sources that can be converted to other molecules or combined into p
 #### Components
 
 
-![A lipid monomer is shown as glycerol with three fatty acids attached.](../images/img_3.jpg)
+![A lipid monomer is shown as glycerol with three fatty acids attached.](../images/img_p117_3.jpeg)
 
 
-![A phospholipid is shown with a globular head with phosphate and two fatty acid tails.](../images/img_4.jpg)
+![A phospholipid is shown with a globular head with phosphate and two fatty acid tails.](../images/img_p117_4.jpeg)
 
 
-![A four ring steroid is shown as a component of lipids.](../images/img_5.jpg)
+![A four ring steroid is shown as a component of lipids.](../images/img_p117_5.jpeg)
 
 
 #### Examples
@@ -95,16 +95,16 @@ Fuel; carbon sources that can be converted to other molecules or combined into p
 Important energy source
 
 
-![A slab of butter on a steel tray.](../images/img_6.jpg)
+![A slab of butter on a steel tray.](../images/img_p117_6.jpeg)
 
 
-![A glass jar of olive oil with some green and black olives scattered near its base.](../images/img_7.jpg)
+![A glass jar of olive oil with some green and black olives scattered near its base.](../images/img_p117_7.jpeg)
 
 
 Lipid bilayers of membranes
 
 
-![A lipid bilayer is shown made up of phospholipids with hydrophilic globular heads and hydrophobic fatty acid tails.](../images/img_8.jpg)
+![A lipid bilayer is shown made up of phospholipids with hydrophilic globular heads and hydrophobic fatty acid tails.](../images/img_p117_8.jpeg)
 
 
 - Component of cell membranes (cholesterol)
@@ -120,7 +120,7 @@ Lipid bilayers of membranes
 #### Components
 
 
-![The structure of an amino acid with an alpha carbon attached to an R group, an amino group and a carboxylic acid group is shown.](../images/img_9.jpg)
+![The structure of an amino acid with an alpha carbon attached to an R group, an amino group and a carboxylic acid group is shown.](../images/img_p117_9.jpeg)
 
 
 #### Examples
@@ -154,7 +154,7 @@ Lipid bilayers of membranes
 #### Components
 
 
-![A nucleotide monomer, with a pentagonal sugar molecule, attached to a ringed nitrogenous base and a spherical phosphate group is shown.](../images/img_10.jpg)
+![A nucleotide monomer, with a pentagonal sugar molecule, attached to a ringed nitrogenous base and a spherical phosphate group is shown.](../images/img_p117_10.jpeg)
 
 
 #### Examples
@@ -162,7 +162,7 @@ Lipid bilayers of membranes
 **DNA:**
 
 
-![A double helical structure is shown.](../images/img_11.jpg)
+![A double helical structure is shown.](../images/img_p117_11.jpeg)
 
 
 - Sugar=deoxyribose
@@ -172,7 +172,7 @@ Lipid bilayers of membranes
 **RNA:**
 
 
-![A single helix is shown.](../images/img_12.jpg)
+![A single helix is shown.](../images/img_p117_12.jpeg)
 
 
 - Sugar=ribose

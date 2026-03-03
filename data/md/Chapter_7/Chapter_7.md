@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 160 -->
-![Vesicles fuse with a membrane.](../images/img_0.jpg)
+![Vesicles fuse with a membrane.](../images/img_p160_0.jpeg)
 
 
 # **Chapter 7**********
@@ -19,7 +19,7 @@
 **Successful learning relies on communication between brain cells.** Here, the vesicles fusing with the plasma membrane of the top cell release molecules (yellow) that bind to membrane proteins (light green) on the surface of the bottom cell, triggering the proteins to change shape. The plasma membrane that surrounds each cell regulates its exchanges with its environment and surrounding cells.
 
 
-![How does the plasma membrane regulate inbound and outbound traffic?](../images/img_1.jpg)
+![How does the plasma membrane regulate inbound and outbound traffic?](../images/img_p160_1.jpeg)
 
 
 A cell is given. The cell has a plasma membrane. Inside are vesicles. Exocytosis: large molecules are secreted when a vesicle fuses with the plasma membrane. Bulk transport moves large molecules. Endocytosis: large molecules are taken in when the plasma membrane pinches inward, forming a vesicle. Active transport of small molecules requires energy and a transport protein. Passive transport of small molecules doesn’t require energy. It may involve transport proteins.
@@ -34,7 +34,7 @@ A cell is given. The cell has a plasma membrane. Inside are vesicles. Exocytosis
 - ******7.5********Bulk transport across the plasma membrane occurs by exocytosis and endocytosis******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p160_2.png)
 
 
 The plasma membrane is a structure conserved across domains **(BIG IDEA 1)** yet highly specialized to species and their internal and external environments **(BIG IDEA 2).** The plasma membrane’s emergent properties **(BIG IDEA 3)** regulate the complex interactions of cells **(BIG IDEA 4).**
@@ -45,7 +45,7 @@ The plasma membrane is a structure conserved across domains **(BIG IDEA 1)** yet
 **Make a visual study guide:** Draw a plasma membrane (two lines) all the way down a piece of paper (or digitally). Label the cytoplasm and the extracellular fluid. At the top, draw the phospholipid bilayer in detail. As you read the chapter, draw and label membrane proteins that you encounter and diagram the different ways materials can enter or leave a cell.
 
 
-![Part of a cell.](../images/img_3.jpg)
+![Part of a cell.](../images/img_p160_3.jpeg)
 
 
 The plasma membrane is a phospholipid bilayer. On one side is the cytoplasm, and on the other is the extracellular fluid. A glycoprotein (carbohydrate plus protein) spans the plasma membrane.

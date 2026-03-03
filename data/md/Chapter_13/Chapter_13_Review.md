@@ -8,13 +8,13 @@
 # Chapter 13 Review
 
 
-![Two children have similar features to their parents, including bone structure, eye shape, and skin color.](../images/img_0.jpg)
+![Two children have similar features to their parents, including bone structure, eye shape, and skin color.](../images/img_p323_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p323_1.png)
 
 
 Why is meiosis considered a successful evolutionary strategy to increase the fitness of eukaryotic organisms? **(BIG IDEAS 1 & 3)**
@@ -41,7 +41,7 @@ Why is meiosis considered a successful evolutionary strategy to increase the fit
 - Meiosis is distinguished from mitosis by three events of meiosis I:
 
 
-![Illustrates prophase 1, metaphase 1, and anaphase 1.](../images/img_2.jpg)
+![Illustrates prophase 1, metaphase 1, and anaphase 1.](../images/img_p323_2.jpeg)
 
 
 Prophase 1: each homologous pair undergoes synapsis and crossing over between non-sister chromatids with the subsequent appearance of chiasmata.

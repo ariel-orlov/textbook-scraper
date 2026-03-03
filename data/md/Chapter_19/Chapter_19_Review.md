@@ -8,13 +8,13 @@
 # Chapter 19 Review
 
 
-![Micrograph showing human immune cell releasing scores of human immunodeficiency viruses.](../images/img_0.jpg)
+![Micrograph showing human immune cell releasing scores of human immunodeficiency viruses.](../images/img_p476_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p476_1.png)
 
 
 Does the horizontal transfer of genes by viruses create problems for scientists who use gene sequences to determine evolutionary relationships? Justify your answer. **(BIG IDEAS 1 & 3)**
@@ -34,7 +34,7 @@ Does the horizontal transfer of genes by viruses create problems for scientists 
 - **Phages** (viruses that infect bacteria) can replicate by two alternative mechanisms: the **lytic cycle** and the **lysogenic cycle**.
 
 
-![The phage attaches to a host cell and injects its D N A. This induces either the lytic or lysogenic cycle.](../images/img_2.jpg)
+![The phage attaches to a host cell and injects its D N A. This induces either the lytic or lysogenic cycle.](../images/img_p476_2.jpeg)
 
 
 The phage attaches to a host cell and injects its D N A. This induces either the lytic or lysogenic cycle.

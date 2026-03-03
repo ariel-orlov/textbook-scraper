@@ -8,13 +8,13 @@
 # Chapter 30 Review
 
 
-![Fireweed (Chamerion angustifolium) on Mount St. Helens](../images/img_0.jpg)
+![Fireweed (Chamerion angustifolium) on Mount St. Helens](../images/img_p744_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p744_1.png)
 
 
 What important changes happened to the mechanisms and structures in the life cycle of angiosperms that gave them greater opportunity to spread geographically?**(BIG IDEAS 2 & 4)**
@@ -23,7 +23,7 @@ What important changes happened to the mechanisms and structures in the life cyc
 ### Concept 30.1: Seeds and pollen grains are key adaptations for life on land
 
 
-![ A table for Five derived traits of seed plants is given.](../images/img_2.jpg)
+![ A table for Five derived traits of seed plants is given.](../images/img_p744_2.jpeg)
 
 
 | Reduced gametophytes | Microscopic male and female gametophytes (n) are nourished and protected by the sporophyte (2 n) |

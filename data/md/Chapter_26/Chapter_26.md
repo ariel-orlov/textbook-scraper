@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 637 -->
-![Photograph of a coiled reptile without legs and a serpent-like body.](../images/img_0.jpg)
+![Photograph of a coiled reptile without legs and a serpent-like body.](../images/img_p637_0.jpeg)
 
 
 # **Chapter 26**
@@ -19,7 +19,7 @@
 Although this animal resembles a snake, it is actually a legless lizard: the glass lizard *Ophisaurus apodus*. Why isn’t the glass lizard considered a snake? Biologists based this decision in part on a comparison of its traits with those of snakes—and the glass lizard does not have a highly mobile jaw or many vertebrae, two traits shared by all snakes.
 
 
-![How do biologists distinguish and categorize the millions of species on Earth?](../images/img_1.jpg)
+![How do biologists distinguish and categorize the millions of species on Earth?](../images/img_p637_1.jpeg)
 
 
 Traits shared due to common ancestry are used to classify organisms into groups that reflect their evolutionary history. A tree diagram has a first branch point that represents that common ancestors of all the groups shown here. It splits to fish and another split. The other split is for four limbs. A hatch mark here represents a character shared by the groups to the right of the mark. This branch splits into frogs and then another split. This other split goes through a hatch mark for hair and a branch point. Chimps and humans form a sister group after hair. They are each other’s closest relative. The branch point is a common ancestor that had limbs, as do geckos and iguanas, but limbs were lost in the lineages leading to snakes and glass lizards. The branch goes to geckos and then another branch point. That branch point goes to a hatch for no limbs, which leads to snakes. Another direction from the branch goes to a branch for iguanas and a hatch for no limbs. No limbs leads to glass lizards.
@@ -35,7 +35,7 @@ Traits shared due to common ancestry are used to classify organisms into groups 
 - ******26.6********Our understanding of the tree of life continues to change based on new data******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p637_2.png)
 
 
 Phylogenetic trees and cladograms are models of common ancestry and evolutionary history that can be used to establish the relatedness of different species through analysis of similarities in morphology **(BIG IDEA 1)** or comparison of DNA and proteins **(BIG IDEA 3)**.
@@ -46,7 +46,7 @@ Phylogenetic trees and cladograms are models of common ancestry and evolutionary
 **Label a drawing:** The members of a *sister group* are each other’s closest relatives, making sister groups a useful way to describe evolutionary relationships. As in this example, identify the sister groups associated with each branch point in Figures 26.11, 26.12, 26.14, and 26.16.
 
 
-![A tree diagram.](../images/img_3.jpg)
+![A tree diagram.](../images/img_p637_3.jpeg)
 
 
 The diagram has a split that leads to frogs and another split. It is labeled: frogs form a sister group with the combined chicken, human, mouse lineages. The other split is chicken-human, mouse. It leads to chickens and then to a human, mouse split.

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 920 -->
-![A man spreads white fertilizer by hand over a rice field.](../images/img_0.jpg)
+![A man spreads white fertilizer by hand over a rice field.](../images/img_p920_0.jpeg)
 
 
 # **Chapter ﻿37**
@@ -19,7 +19,7 @@
 This farmer in India is applying chemical fertilizers to a field of rice. Nitrogen  (N), phosphorous  (P), and potassium  (K) are commonly depleted from soils to such an extent as to limit crop productivity. That is why they are the major ingredients of most chemical fertilizers.
 
 
-![A chart asks, why do plants need minerals from the soil?](../images/img_1.jpg)
+![A chart asks, why do plants need minerals from the soil?](../images/img_p920_1.jpeg)
 
 
 A bag of fertilizer labeled N-P-K and a plant cell with the functions of the following elements is depicted. Nitrogen, phosphorus, potassium, and other minerals are essential for plant growth because of their roles in the structure and function of plant cells. Nitrogen is a component of D N A and R N A (through the cell); proteins (throughout the cell); and chlorophyll. Phosphorus is a component of D N A and R N A (throughout the cell); A T P produced by mitochondria; and phospholipids in cell membranes. Potassium is a cofactor for enzymes used throughout the cell, and it plays a major role in maintaining turgor of cells.
@@ -32,7 +32,7 @@ A bag of fertilizer labeled N-P-K and a plant cell with the functions of the fol
 - ******37.3********Plant nutrition often involves relationships with other organisms******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p920_2.png)
 
 
 Plants depend upon and contribute to the biogeochemical cycles that enable the production of organic matter **(BIG IDEA 2)**. This organic matter is a critical part of the physical environment that supports the biotic components of all ecosystems **(BIG IDEA 4)**.
@@ -43,7 +43,7 @@ Plants depend upon and contribute to the biogeochemical cycles that enable the p
 **Use mnemonics:** Mnemonics are memory tools to help remember facts. For example, “See Hopkins, California—Mighty good” (CHOPKNSCaMg) is a mnemonic for remembering the nine plant macronutrients, as shown below. Make your own mnemonics for remembering some functions of plant macronutrients (see Table 37.1).
 
 
-![See Hopkins, California- Mighty good is an example of a mnemonic device. See = C = carbon. H = H = hydrogen. lower o = upper O = oxygen.](../images/img_3.jpg)
+![See Hopkins, California- Mighty good is an example of a mnemonic device. See = C = carbon. H = H = hydrogen. lower o = upper O = oxygen.](../images/img_p920_3.jpeg)
 
 
 ## Get Ready for This Chapter

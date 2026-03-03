@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 685 -->
-![Image of a spiraling, squash shaped organism that is many times larger than a group of six organisms adjacent. All appear to be aquatic, single-celled organisms. Scale bar: 1 micrometer.](../images/img_0.jpg)
+![Image of a spiraling, squash shaped organism that is many times larger than a group of six organisms adjacent. All appear to be aquatic, single-celled organisms. Scale bar: 1 micrometer.](../images/img_p685_0.jpeg)
 
 
 # **Chapter 28**********
@@ -19,7 +19,7 @@
 Knowing that prokaryotes are extremely small, you might assume that this image shows six prokaryotes and one much larger eukaryote. But in fact, the only prokaryote is the organism immediately above the scale bar—the rest are members of diverse, mostly unicellular groups of eukaryotes informally known as protists.
 
 
-![A diagram of endosymbiosis among eukaryotes.](../images/img_1.jpg)
+![A diagram of endosymbiosis among eukaryotes.](../images/img_p685_1.jpeg)
 
 
 A schematic representation of the process of endosymbiosis attributing to protistan diversity is shown. The title is What gave rise to the great diversity of protists, and how have their lineages diverged over time? Much of protistan diversity can be traced to endosymbiosis. An ancestral cell has engulfed an aerobic bacterium and forms an early eukaryote (a heterotroph) with the engulfed aerobic bacterium labeled a mitochondrion. This eukaryotic cell engulfs a photosynthetic bacterium (in green) to form an early photosynthetic eukaryote. The engulfed photosynthetic bacterium is labeled a plastid.
@@ -38,7 +38,7 @@ A small box shows the highly diverse subgroups that eukaryotes are divided into:
 - 28.6**Protists play key roles in ecological communities**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p685_2.png)
 
 
 Protists represent a very diverse group of organisms. Structural evidence such as membrane-bound organelles **(BIG IDEAS 2 & 4)** and research techniques in biotechnology **(BIG IDEA 3)** support the relatedness of all eukaryotes **(BIG IDEA 1)**.
@@ -49,7 +49,7 @@ Protists represent a very diverse group of organisms. Structural evidence such a
 **Label a drawing:** Protist life cycles vary greatly. To make sense of this variation, it can be helpful to identify when mitosis occurs in different life cycles, as shown here for a portion of Figure 28.14. Identify the stages at which mitosis occurs in Figures 28.14, 28.18, 28.25, and 28.28.
 
 
-![The places where mitosis occurs are marked along a partial life cycle diagram.](../images/img_3.jpg)
+![The places where mitosis occurs are marked along a partial life cycle diagram.](../images/img_p685_3.jpeg)
 
 
 The protist life cycle is depicted as a small diagram, with one section of it enlarged to show the steps from zoospores to the formation of female gametophytes. The mitotic steps in the cycle are to be labeled.

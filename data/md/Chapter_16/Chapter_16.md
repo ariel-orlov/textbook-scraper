@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 375 -->
-![Image of D N A double helix, which resembles a twisted ladder.](../images/img_0.jpg)
+![Image of D N A double helix, which resembles a twisted ladder.](../images/img_p375_0.jpeg)
 
 
 # **Chapter** 16
@@ -19,7 +19,7 @@
 The elegant double-helical structure of deoxyribonucleic acid (DNA) shook the scientific world when it was proposed in April 1953 by James Watson and Francis Crick. The DNA you inherited from your parents contains all your genes—your genetic information.
 
 
-![How does D N A replication transmit genetic information?](../images/img_1.jpg)
+![How does D N A replication transmit genetic information?](../images/img_p375_1.jpeg)
 
 
 Begin with an unduplicated chromosome (one D N A molecule and proteins). Take a D N A segment from a chromosome. Each gene is a unit of hereditary information consisting of a specific D N A sequence. D N A replication begins at multiple sites (origins), each forming a replication bubble with a fork at each end. D N A replication and chromosome condensation is completed. Duplicated and condensed chromosomes (two D N A molecules and proteins) form. Two D N A molecules, which are distributed to daughter cells, are formed.
@@ -32,7 +32,7 @@ Begin with an unduplicated chromosome (one D N A molecule and proteins). Take a 
 - ******16.3********A chromosome consists of a DNA molecule packed together with proteins******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p375_2.png)
 
 
 The evidence that DNA and RNA carry genetic information in all life-forms **(BIG IDEA 1)** began with a series of historical experiments **(BIG IDEA 3)** that led to an understanding of how the structure and interaction of molecules **(BIG IDEA 4)** facilitate the replication and transfer of DNA and RNA across membranes **(BIG IDEA 3)**.
@@ -43,7 +43,7 @@ The evidence that DNA and RNA carry genetic information in all life-forms **(BIG
 **Draw DNA replication:** Make up a single-stranded DNA sequence that is 40 nucleotides in length. As you go through Concepts 16.1 and 16.2, use your sequence to draw a double-stranded DNA molecule, labeling the ends. Then diagram the process of replication of your DNA molecule.
 
 
-![A drawing of D N A structure and replication begins with a single strand with a sequence that uses T, C, A, and G. The sequence is T C A G C G T A A G G T G A T G T A T A.](../images/img_3.jpg)
+![A drawing of D N A structure and replication begins with a single strand with a sequence that uses T, C, A, and G. The sequence is T C A G C G T A A G G T G A T G T A T A.](../images/img_p375_3.jpeg)
 
 
 ## Get Ready for This Chapter

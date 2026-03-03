@@ -8,13 +8,13 @@
 # Chapter 41 Review
 
 
-![A herring gull eats a starfish.](../images/img_0.jpg)
+![A herring gull eats a starfish.](../images/img_p1040_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p1040_1.png)
 
 
 Thinking in terms of surface-area-to-volume ratios, how do digestive processes influence the structure of different mammalian systems for digestion? **(BIG IDEA 2)**
@@ -34,7 +34,7 @@ Thinking in terms of surface-area-to-volume ratios, how do digestive processes i
 - Compartmentalization is necessary to avoid self-digestion. In intracellular digestion, food particles are engulfed by phagocytosis and digested within food vacuoles that have fused with lysosomes. In extracellular digestion, which is used by most animals, enzymatic hydrolysis occurs outside cells in a ******gastrovascular cavity** or ******alimentary canal**.
 
 
-![The gastrovascular cavity of a jellyfish has a mouth and anus at the same point. The alimentary canal of an earthworm has its mouth and anus at opposite ends.](../images/img_2.jpg)
+![The gastrovascular cavity of a jellyfish has a mouth and anus at the same point. The alimentary canal of an earthworm has its mouth and anus at opposite ends.](../images/img_p1040_2.jpeg)
 
 
 *Propose an artificial diet that would eliminate the need for one of the first three steps in food processing.*
@@ -43,7 +43,7 @@ Thinking in terms of surface-area-to-volume ratios, how do digestive processes i
 ### Concept 41.3: Organs specialized for sequential stages of food processing form the mammalian digestive system
 
 
-![Sequential stages of food processing form the mammalian digestive system.](../images/img_3.jpg)
+![Sequential stages of food processing form the mammalian digestive system.](../images/img_p1040_3.jpeg)
 
 
 1. Food enters the mouth (with secretions from salivary glands).

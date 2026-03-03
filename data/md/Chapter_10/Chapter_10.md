@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 232 -->
-![Sunlight shines through a tree canopy, as seen from below.](../images/img_0.jpg)
+![Sunlight shines through a tree canopy, as seen from below.](../images/img_p232_0.jpeg)
 
 
 # **Chapter 10**
@@ -19,7 +19,7 @@
 Each leaf of this tree is harvesting energy from sunlight and using it to convert  CO2  and   H2O into chemical energy stored in sugar and other organic molecules. The tree uses these sugars for energy and to build its own trunk, branches, and leaves. Remarkably, enough sugars are left over to feed other organisms (like moth larvae, shown below) that cannot carry out this extraordinary transformation.
 
 
-![How do photosynthetic cells use light to change carbon dioxide and water into organic molecules and oxygen?](../images/img_1.jpg)
+![How do photosynthetic cells use light to change carbon dioxide and water into organic molecules and oxygen?](../images/img_p232_1.jpeg)
 
 
 Light energy becomes photosynthesis in chloroplasts. Chloroplasts are found in plant cells. They generate organic molecules plus O 2, which are used in cellular respiration. That respiration generates C O 2 and H 2 O, which are used in photosynthesis. Cellular respiration generates A T P, which gives off heat.
@@ -35,7 +35,7 @@ Light energy becomes photosynthesis in chloroplasts. Chloroplasts are found in p
 - ******10.6********Photosynthesis is essential for life on Earth: a review******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p232_2.png)
 
 
 Photosynthetic organisms capture energy present in sunlight **(BIG IDEA 2)**, which is then available to heterotrophic organisms within a community as energy flows from one organism to another **(BIG IDEA 4)**. The core processes that define this interaction are enabled by cellular structures that evolved early on that allow the capture, storage, and use of energy **(BIG IDEA 1)**.
@@ -46,7 +46,7 @@ Photosynthetic organisms capture energy present in sunlight **(BIG IDEA 2)**, wh
 **Make a visual study guide:** Draw a cell with a large chloroplast, labeling the parts of the chloroplast. As you go through the chapter, add key reactions for each stage of photosynthesis, linking the stages together. Label the carbon molecule(s) with the most energy and the carbon molecule(s) with the least energy.
 
 
-![A drawing of a chloroplast inside a plant cell, showing a double membrane and a folded structure on the inside of the chloroplast.](../images/img_3.jpg)
+![A drawing of a chloroplast inside a plant cell, showing a double membrane and a folded structure on the inside of the chloroplast.](../images/img_p232_3.jpeg)
 
 
 ## Get Ready for This Chapter

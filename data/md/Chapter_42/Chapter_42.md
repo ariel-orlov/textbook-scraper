@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 1042 -->
-![Axolotl swims with feathery gills extending behind head.](../images/img_0.jpg)
+![Axolotl swims with feathery gills extending behind head.](../images/img_p1042_0.jpeg)
 
 
 # **Chapter 42**
@@ -19,7 +19,7 @@
 This animal may look like a creature from a science fiction film, but it’s actually an axolotl, a salamander native to shallow ponds in central Mexico. The feathery red appendages jutting out from its head are gills. External gills, although uncommon in other adult animals, help axolotls carry out a process common to all organisms: the exchange of substances between body cells and the environment.
 
 
-![How are structure and function related in the exchange and circulation of oxygen and carbon dioxide?](../images/img_1.jpg)
+![How are structure and function related in the exchange and circulation of oxygen and carbon dioxide?](../images/img_p1042_1.jpeg)
 
 
 A generic animal body is given. It has specialized structures (such as lungs or gills) with large surface areas that mediate gas exchange with the environment. A pump (heart) drives the flow of fluid through the circulatory system. Networks of highly branched, thin-walled vessels maximize exchange efficiency by slowing fluid flow and maximizing surface area. Wide, thick-walled vessels offer minimal resistance to fluid flow, enabling circulation throughout the body. O 2 enters, and C O 2 exits.
@@ -36,7 +36,7 @@ A generic animal body is given. It has specialized structures (such as lungs or 
 - 42.7**Adaptations for gas exchange include pigments that bind and transport gases**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p1042_2.png)
 
 
 Organisms have various mechanisms for obtaining nutrients and eliminating wastes **(BIG IDEA 2)** that are more efficient with cooperative interactions **(BIG IDEA 4)**.

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 962 -->
-![Sunflowers in a field face the setting sun.](../images/img_0.jpg)
+![Sunflowers in a field face the setting sun.](../images/img_p962_0.jpeg)
 
 
 # **Chapter ﻿39**
@@ -19,7 +19,7 @@
 Sunflowers track the sun from east to west each day. After sunset, they reverse direction, facing the direction of the next sunrise. By facing the hot sun during the day, the floral heads become warmer and release greater amounts of chemicals that attract pollinators. Light is just one of the many factors to which a plant responds.
 
 
-![A chart asks, what are some factors that plants sense and respond to?](../images/img_1.jpg)
+![A chart asks, what are some factors that plants sense and respond to?](../images/img_p962_1.jpeg)
 
 
 An illustration depicts the stimuli that plants sense and respond to. Some factors are heat or cold stress (depicted by a thermometer), light (depicted by the sun), gravity (depicted by an arrow pointing towards the ground), time of day and season (depicted by the sun shining on a part of the Earth), internal chemical signals (depicted by globular hormones inside the plant), wounding by herbivores, infection by pathogens (depicted by images of bacteria), touch by wind or objects, and drought of flooding (depicted by water droplets).
@@ -34,7 +34,7 @@ An illustration depicts the stimuli that plants sense and respond to. Some facto
 - ******39.5********Plants respond to attacks by pathogens and herbivores******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p962_2.png)
 
 
 In plants, physiological events involve the interaction between environmental signals and internal molecular signals **(BIG IDEA 2)**. Plants’ adaptations for cellular communication **(BIG IDEA 3)** enable them to respond to seasonal changes that can affect when and how they interact with other organisms in their environment **(BIG IDEA 4)**.
@@ -45,7 +45,7 @@ In plants, physiological events involve the interaction between environmental si
 **Make a table:** As you read the chapter, add specific examples for each of the general categories of responses shown in the diagram.
 
 
-![A table has the two headings, Factor, and Example of plant response. One row is filled as light and seed germination in response to light. Two more rows follow to be filled.](../images/img_3.jpg)
+![A table has the two headings, Factor, and Example of plant response. One row is filled as light and seed germination in response to light. Two more rows follow to be filled.](../images/img_p962_3.jpeg)
 
 
 ## Get Ready for This Chapter

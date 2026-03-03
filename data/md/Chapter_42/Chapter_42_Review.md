@@ -8,13 +8,13 @@
 # Chapter 42 Review
 
 
-![Axolotl swims with feathery gills extending behind head.](../images/img_0.jpg)
+![Axolotl swims with feathery gills extending behind head.](../images/img_p1076_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p1076_1.png)
 
 
 Homeostatic mechanisms for gas exchange reflect evolutionary strategies that have evolved in response to environmental conditions. How is this reflected in adaptations in animal systems? **(BIG IDEAS 2 & 4)**
@@ -33,7 +33,7 @@ Homeostatic mechanisms for gas exchange reflect evolutionary strategies that hav
 - The right ventricle pumps blood to the lungs, where it loads O2 and unloads CO2. Oxygen-rich blood from the lungs entering the heart at the left atrium is pumped to the body tissues by the left ventricle. Blood then returns to the heart through the right atrium.
 
 
-![Diagram depicts path of blood through the pulmonary and systemic circuits, highlighting oxygen-rich and oxygen-poor blood and the major blood vessels.](../images/img_2.jpg)
+![Diagram depicts path of blood through the pulmonary and systemic circuits, highlighting oxygen-rich and oxygen-poor blood and the major blood vessels.](../images/img_p1076_2.jpeg)
 
 
 Diagram depicts path of blood through the pulmonary and systemic circuits, highlighting oxygen-rich and oxygen-poor blood and the major blood vessels. Starting in the right atrium of the heart, the path is as follows.

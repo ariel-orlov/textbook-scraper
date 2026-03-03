@@ -8,13 +8,13 @@
 # Chapter 24 Review
 
 
-![A cormorant spreads its small wings.](../images/img_0.jpg)
+![A cormorant spreads its small wings.](../images/img_p603_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p603_1.png)
 
 
 How is speciation in an isolated population connected to a change in the environment? **(BIG IDEA 1)**
@@ -32,7 +32,7 @@ How is speciation in an isolated population connected to a change in the environ
 - In **allopatric speciation**, gene flow is reduced when two populations of one species become geographically separated from each other. One or both populations may undergo evolutionary change during the period of separation, resulting in the establishment of barriers to reproduction.
 
 
-![A pool of fish is shown with a barrier partially submerged. If the pools are divided, allopatric speciation can occur. If the pools remain unchanged sympatric speciation can occur.](../images/img_2.jpg)
+![A pool of fish is shown with a barrier partially submerged. If the pools are divided, allopatric speciation can occur. If the pools remain unchanged sympatric speciation can occur.](../images/img_p603_2.jpeg)
 
 
 A pool of gold fish are shown with a barrier in the middle that is partially submerged. If the water level drops, the pools are divided and allopatric speciation can occur which is shown as two blue fish in the left pool and five gold fish in the right pool. If the water level remains unchanged sympatric speciation can occur which is shown as two blue fish among eight gold fish.

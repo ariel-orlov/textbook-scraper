@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 789 -->
-![Photo of blue dragon (Glaucus atlanticus) floating in water shows a bright blue body that tapers to a point, with spiderlike appendages.](../images/img_0.jpg)
+![Photo of blue dragon (Glaucus atlanticus) floating in water shows a bright blue body that tapers to a point, with spiderlike appendages.](../images/img_p789_0.jpeg)
 
 
 # **Chapter 33**
@@ -19,7 +19,7 @@
 The blue dragon (*Glaucus atlanticus*) has thin, finger-like structures that help it to float (upside down) on the sea’s surface. It eats Portuguese men-of-war and absorbs their stinging cells, which it then uses to deliver a deadly sting of its own. The blue dragon is just one of more than a million species of invertebrates (animals without a backbone), which account for over ﻿ 95% of animal species.
 
 
-![Tree diagram showing animal phylogeny starting with ancestral protist.](../images/img_1.jpg)
+![Tree diagram showing animal phylogeny starting with ancestral protist.](../images/img_p789_1.jpeg)
 
 
 Tree diagram for animal phylogeny represented as a list.
@@ -47,7 +47,7 @@ Branch point 4. Lophotrochozoa (snail drawn). Ecdysozoa (crayfish drawn). Deuter
 - ******33.5********Echinoderms and chordates are deuterostomes******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p789_2.png)
 
 
 Through natural selection, invertebrates have adapted to almost every habitat on Earth **(BIG IDEA 1)**. Invertebrates account for the majority of known animal species, and they interact with virtually all organisms on Earth **(BIG IDEA 4)**.
@@ -58,7 +58,7 @@ Through natural selection, invertebrates have adapted to almost every habitat on
 **Make a table:** Invertebrates differ in how they obtain food, remove wastes, reproduce, and move throughout their habitat. As you read, summarize how members of the 11 phyla of invertebrates described in detail in this chapter solve these shared challenges of life.
 
 
-![A table lists phylum, feeding method, waste removal, reproduction, and movement.](../images/img_3.jpg)
+![A table lists phylum, feeding method, waste removal, reproduction, and movement.](../images/img_p789_3.jpeg)
 
 
 The table is as follows:
@@ -79,7 +79,7 @@ The table is as follows:
 Exploring Invertebrate Diversity
 
 
-![Exploring invertebrate and vertebrate diversity.](../images/img_4.jpg)
+![Exploring invertebrate and vertebrate diversity.](../images/img_p789_4.jpeg)
 
 
 Kingdom Animalia encompasses 1.3 million known species, and estimates of the total number of species range as high as 10–20 million. Of the 23 phyla surveyed here, 13 are discussed more fully in this chapter, Chapter 32, or Chapter 34; cross-references are given at the end of their descriptions.
@@ -183,7 +183,7 @@ That's incorrect. Try again.
 **Incorrect.** Review the following material: **Bilaterian animals** form an enormous clade whose members all have a two-sided or bilaterally symmetric form (unlike sponges and cnidarians). All bilaterally symmetric animals also are triploblastic. Bilaterians include both invertebrate and vertebrate animals.
 
 
-![Series of nested horizontal forked branches leading to group names; from the top the branch endpoints are Porifera, Ctenophora, Cnidaria, Acoela, Deuterostomia, Lophotrochozoa, and Ecdysozoa.](../images/img_5.jpg)
+![Series of nested horizontal forked branches leading to group names; from the top the branch endpoints are Porifera, Ctenophora, Cnidaria, Acoela, Deuterostomia, Lophotrochozoa, and Ecdysozoa.](../images/img_p789_5.png)
 
 
 Diagram showing a series of horizontal forked branches. Reading left to right, the first branch point forks into a horizontal line leading to Porifera and another horizontal line, which branches again. This second branch point forks into a horizontal line leading to Ctenophora and another horizontal line, which branches again. This third branch point forks into a horizontal line leading to Cnidaria and another horizontal line, which branches again. This fourth branch point forks into a horizontal line leading to Acoela and another horizontal line, which branches again. This fifth branch point forks into a horizontal line leading to Deuterostomia and another horizontal line, which branches again into two lines leading to Lophotrochozoa and Ecdysozoa. At the far right of the diagram a vertical bar extending from Ecdysozoa through Acoela is labeled "Bilateria (most animals)." A vertical bar extending from Ecdysozoa through Ctenophora is labeled "Eumetazoa," and another vertical bar extending from Ecdysozoa through Porifera is labeled "Metazoa."

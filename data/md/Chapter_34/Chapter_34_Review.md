@@ -8,19 +8,19 @@
 # Chapter 34 Review
 
 
-![Fossil Myllokunmingia fengjaoa in rock layer. An oval-shaped, elongated body is discernible as is what appears to be the outline of a backbone.](../images/img_0.jpg)
+![Fossil Myllokunmingia fengjaoa in rock layer. An oval-shaped, elongated body is discernible as is what appears to be the outline of a backbone.](../images/img_p865_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p865_1.png)
 
 
 Identify some of the derived traits in the evolution of vertebrates that enabled many vertebrate species to live on land. **(BIG IDEAS 1 & 4)**
 
 
-![A table illustrates the summary of key concepts, clades, and descriptions.](../images/img_2.jpg)
+![A table illustrates the summary of key concepts, clades, and descriptions.](../images/img_p865_2.jpeg)
 
 
 | Key Concept | Clade | Description |

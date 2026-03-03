@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 261 -->
-![A cheetah chases an impala.](../images/img_0.jpg)
+![A cheetah chases an impala.](../images/img_p261_0.jpeg)
 
 
 # **Chapter 11**********
@@ -19,7 +19,7 @@
 This impala is fleeing for its life, racing to escape the predatory cheetah  nipping at its heels. The impala is breathing rapidly, its heart pounding and its legs  pumping furiously. These physiological functions are all part of the impala’s “fightor- flight” response, driven by hormones released from its adrenal glands at times of  stress—in this case, upon sensing the cheetah.
 
 
-![How does cell signaling fuel the desperate flight of an impala?](../images/img_1.jpg)
+![How does cell signaling fuel the desperate flight of an impala?](../images/img_p261_1.jpeg)
 
 
 The impala senses a cheetah. Its brain signals the adrenal glands to release epinephrine into the blood. Signal reception. An epinephrine molecule binds to a receptor on a muscle cell. Signal transduction. Relay molecules transmit the signal, ultimately activating an enzyme. Cellular response. The enzyme breaks down glycogen, releasing glucose that fuels the leg muscles.
@@ -34,7 +34,7 @@ The impala senses a cheetah. Its brain signals the adrenal glands to release epi
 - ******11.5********Apoptosis requires integration of multiple cell-signaling pathways******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p261_2.png)
 
 
 Mechanisms for cell-to-cell communication have been preserved across domains, for both unicellular and multicellular organisms **(BIG IDEA 1)**. Cells can communicate via direct contact or through signaling molecules that act locally or over long distances **(BIG IDEA 3)**.
@@ -45,7 +45,7 @@ Mechanisms for cell-to-cell communication have been preserved across domains, fo
 **Make a table:** As you read about examples of cell signaling in this chapter, make a table and classify the events of each example into three stages: signal reception, signal transduction, and cellular response.
 
 
-![A table lists an example of cell signaling, signal reception, signal transduction, and cellular response.](../images/img_3.jpg)
+![A table lists an example of cell signaling, signal reception, signal transduction, and cellular response.](../images/img_p261_3.jpeg)
 
 
 The table is as follows:

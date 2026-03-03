@@ -8,13 +8,13 @@
 # Chapter 39 Review
 
 
-![Sunflowers in a field face the setting sun.](../images/img_0.jpg)
+![Sunflowers in a field face the setting sun.](../images/img_p991_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p991_1.png)
 
 
 Compare the experimental design of the Darwins’ coleoptile experiment in 1880 with that of Boysen-Jensen in 1913. How do their hypotheses differ? **(BIG IDEA 2)**
@@ -23,7 +23,7 @@ Compare the experimental design of the Darwins’ coleoptile experiment in 1880 
 ### Concept 39.1: Signal transduction pathways link signal reception to response
 
 
-![General model for signal transduction pathways showing reception by a receptor at the cell wall; transduction via relay proteins in the cytoplasm and response.](../images/img_2.jpg)
+![General model for signal transduction pathways showing reception by a receptor at the cell wall; transduction via relay proteins in the cytoplasm and response.](../images/img_p991_2.jpeg)
 
 
 1. Reception: Hormone or environmental stimulus interacts with a receptor protein in the plasma membrane.
@@ -42,7 +42,7 @@ Compare the experimental design of the Darwins’ coleoptile experiment in 1880 
 - **Hormones** control plant growth and development by affecting the division, elongation, and differentiation of cells. Some also mediate the responses of plants to environmental stimuli.
 
 
-![A table lists plant hormones and their major responses.](../images/img_3.jpg)
+![A table lists plant hormones and their major responses.](../images/img_p991_3.jpeg)
 
 
 The table is as follows:
@@ -69,7 +69,7 @@ The table is as follows:
 - ******Phytochromes** act like molecular “on-off” switches that regulate shade avoidance and germination of many seed types. Red light turns phytochrome “on,” and far-red light turns it “off.”
 
 
-![Far-red light triggers a slower conversion of P sub f r to P sub r. Most plant responses are triggered by P sub f r.](../images/img_4.jpg)
+![Far-red light triggers a slower conversion of P sub f r to P sub r. Most plant responses are triggered by P sub f r.](../images/img_p991_4.jpeg)
 
 
 - Phytochrome conversion also provides information about the day length (photoperiod) and hence the time of year. **Photoperiodism** regulates the time of flowering in many species. **Short-day plants** require a night longer than a critical length to flower. **Long-day plants** need a night length shorter than a critical period to flower.
@@ -84,7 +84,7 @@ The table is as follows:
 - Plants are sensitive to environmental stresses, including drought, flooding, high salinity, and extremes of temperature.
 
 
-![A table lists environmental stress and major responses.](../images/img_5.jpg)
+![A table lists environmental stress and major responses.](../images/img_p991_5.jpeg)
 
 
 The table is as follows:

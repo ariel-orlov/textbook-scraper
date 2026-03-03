@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 458 -->
-![Micrograph showing human immune cell releasing scores of human immunodeficiency viruses.](../images/img_0.jpg)
+![Micrograph showing human immune cell releasing scores of human immunodeficiency viruses.](../images/img_p458_0.jpeg)
 
 
 # **Chapter ﻿19**
@@ -19,7 +19,7 @@
 A human immune cell (blue) infected by human immunodeficiency virus (HIV) is releasing more HIV viruses (gold dots), which will go on to infect other cells. Left untreated, HIV destroys vital immune system cells, causing AIDS. This disease has killed about  35 million people worldwide.
 
 
-![A diagram of virus replication. How does a virus makes more virus?](../images/img_1.jpg)
+![A diagram of virus replication. How does a virus makes more virus?](../images/img_p458_1.jpeg)
 
 
 A virus consists only of nucleic acid, proteins, and sometimes a membranous envelope. After infecting a host cell, it uses the host cell’s molecules to make new viruses, as shown in this simplified diagram. A generic virus containing a viral genome, D N A or R N A, enters a host cells and releases the genome. The viral genome is replicated by host enzymes. Copies of the genome are transcribed by host enzymes. Viral m R N A is translated by host ribosomes. Viral proteins are self assembled with the viral genome. New viruses are released from the cell. With some viruses, the host cell bursts when the new viruses are released. With some viruses, the host cell remains alive after the new viruses are released.
@@ -32,7 +32,7 @@ A virus consists only of nucleic acid, proteins, and sometimes a membranous enve
 - **19.3****Viruses and prions are formidable pathogens in animals and plants**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p458_2.png)
 
 
 Viral replication is unique in that it is dependent on the cellular machinery of its host **(BIG IDEA 3)**. Viruses can also introduce variation into the genetic material of a host, which can lead to rapid evolutionary change **(BIG IDEA 1)**. Disruption to ecosystems can expose plants and animals to different viruses (**BIG IDEA 4)**.
@@ -43,7 +43,7 @@ Viral replication is unique in that it is dependent on the cellular machinery of
 **Make flowcharts:** Make a simple flowchart for each viral replicative cycle in this chapter. Below is the beginning of an example for the lysogenic cycle. Note the similarities and differences between the replicative cycles.
 
 
-![The lysogenic cycle. Virus attaches to bacterial cell and injects genome. Viral genome is integrated into the bacterial chromosome.](../images/img_3.jpg)
+![The lysogenic cycle. Virus attaches to bacterial cell and injects genome. Viral genome is integrated into the bacterial chromosome.](../images/img_p458_3.jpeg)
 
 
 ## Get Ready for This Chapter

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 65 -->
-![A ringed seal floats on ice.](../images/img_0.jpg)
+![A ringed seal floats on ice.](../images/img_p65_0.jpeg)
 
 
 # **Chapter ﻿3**
@@ -19,7 +19,7 @@
 Ringed seals (*Phoca hispida*) depend on Arctic sea ice as a platform from which to hunt for fish in the water below. As Earth warms from climate change, the melting of sea ice is a threat to species that live on, under, and around the floating ice.
 
 
-![How does water’s structure allow its solid form (ice) to float on liquid water?](../images/img_1.jpg)
+![How does water’s structure allow its solid form (ice) to float on liquid water?](../images/img_p65_1.jpeg)
 
 
 Water (H 2 O) is a polar molecule: At one end, the O has two partial negative charges because O pulls electrons toward itself. At the other end, each H has a partial positive charge. Weak attractions between oppositely charged regions of water molecules, called hydrogen bonds, allow water molecules to bond to each other. In liquid water, the hydrogen bonds constantly break and re-form. As a result, the water molecules can slip closer together. In ice, the hydrogen bonds are stable and the water molecules are farther apart. Therefore, ice is less dense than liquid water, so it floats. Floating ice insulates the water below, enabling survival of aquatic life. Water also has other life-supporting properties, as you’ll see.
@@ -32,7 +32,7 @@ Water (H 2 O) is a polar molecule: At one end, the O has two partial negative ch
 - 3.3﻿**Acidic and basic conditions affect living organisms**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p65_2.png)
 
 
 Water figures into any theory about the origins of life, as it provides a medium in which the building blocks of life organize into more complex molecules and form simple cells **(BIG IDEA 1)**. The chemical and physical properties of water support living things in both their internal and external environments **(BIG IDEAS 2 & 4)**. Water’s complex properties relate directly to its molecular structure.
@@ -43,7 +43,7 @@ Water figures into any theory about the origins of life, as it provides a medium
 **Make a visual study guide:** Draw a diagram and write a caption that explains how the structure of water supports life for each of the following properties of water:
 
 
-![A diagram for the properties of water gives 4 properties. Cohesion of water molecules. Moderation of temperature. Floating of ice. The solvent of life.](../images/img_3.jpg)
+![A diagram for the properties of water gives 4 properties. Cohesion of water molecules. Moderation of temperature. Floating of ice. The solvent of life.](../images/img_p65_3.jpeg)
 
 
 ## Get Ready for This Chapter

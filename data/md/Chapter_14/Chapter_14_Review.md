@@ -8,13 +8,13 @@
 # Chapter 14 Review
 
 
-![A purple flower.](../images/img_0.jpg)
+![A purple flower.](../images/img_p349_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p349_1.png)
 
 
 Why was Mendel’s choice of pea plants as an experimental organism so fortuitous in developing a model of inheritance? **(BIG IDEA 3)**
@@ -31,7 +31,7 @@ Why was Mendel’s choice of pea plants as an experimental organism so fortuitou
 ### Concept 14.2: Probability laws govern Mendelian inheritance
 
 
-![Image of coin toss representing segregation of alleles into sperm from genotype uppercase R lowercase r. One-half sperm are upper case R (heads); one-half sperm are lowercase r (tails).](../images/img_2.jpg)
+![Image of coin toss representing segregation of alleles into sperm from genotype uppercase R lowercase r. One-half sperm are upper case R (heads); one-half sperm are lowercase r (tails).](../images/img_p349_2.jpeg)
 
 
 - The ******multiplication rule** states that the probability of two or more events occurring together (a statement using *and*) is equal to the product of the individual probabilities of the independent single events. The ******addition rule** states that the probability of an event that can occur in two or more independent, mutually exclusive ways (using *or*) is the sum of the individual probabilities.
@@ -45,7 +45,7 @@ Why was Mendel’s choice of pea plants as an experimental organism so fortuitou
 - Extensions of Mendelian genetics for a single gene:
 
 
-![Example images show, 1, purple flower color, 2, Red, pink, white flower color, 3, Red blood cell with both type A and B carbohydrates.](../images/img_3.jpg)
+![Example images show, 1, purple flower color, 2, Red, pink, white flower color, 3, Red blood cell with both type A and B carbohydrates.](../images/img_p349_3.jpeg)
 
 
 Parts are as follows.
@@ -63,7 +63,7 @@ Parts are as follows.
 - Extensions of Mendelian genetics for two or more genes:
 
 
-![Epistasis: Example: see Figure 14.12. Polygenic inheritance: Example: see Figure 14.13.](../images/img_4.jpg)
+![Epistasis: Example: see Figure 14.12. Polygenic inheritance: Example: see Figure 14.13.](../images/img_p349_4.jpeg)
 
 
 - The expression of a genotype can be affected by environmental influences, resulting in a range of phenotypes. Polygenic characters that are also influenced by the environment are called ******multifactorial** characters.
@@ -76,7 +76,7 @@ Parts are as follows.
 - Analysis of family ******pedigrees** can be used to deduce the possible genotypes of individuals and make predictions about future offspring. Such predictions are statistical probabilities rather than certainties.
 
 
-![Pedigree showing three generations of a family with respect to widow’s peak. Images of two sisters shown in the third generation; one with widow’s peak and one without.](../images/img_5.jpg)
+![Pedigree showing three generations of a family with respect to widow’s peak. Images of two sisters shown in the third generation; one with widow’s peak and one without.](../images/img_p349_5.jpeg)
 
 
 Generations are as follows.
@@ -99,7 +99,7 @@ Is a widow’s peak a dominant or recessive trait? Tips for pedigree analysis: N
 ****, but heterozygotes have an advantage because one copy of the sickle-cell allele reduces both the frequency and severity of malaria attacks.
 
 
-![Homozygote with sickle-cell disease. Cascade of events in a homozygous individual that leads to sickled red blood cells.](../images/img_6.jpg)
+![Homozygote with sickle-cell disease. Cascade of events in a homozygous individual that leads to sickled red blood cells.](../images/img_p349_6.jpeg)
 
 
 Homozygote with sickle-cell disease: Weakness, anemia, pain and fever, organ damage. Pair of homologous chromosomes, each having a sickle-cell allele, flows to both sickle-cell hemoglobin proteins, flows with low O 2 to part of a fiber of sickle-cell hemoglobin proteins. Long fibers cause red blood cells to be sickle-shaped and causes sickle-cell disease.

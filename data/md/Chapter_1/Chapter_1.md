@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 17 -->
-![A beach mouse (Peromyscus polionotus) peers through beach grass; the mouse has white face and light tan body.](../images/img_0.jpg)
+![A beach mouse (Peromyscus polionotus) peers through beach grass; the mouse has white face and light tan body.](../images/img_p17_0.jpeg)
 
 
 # **Chapter ﻿1**
@@ -19,7 +19,7 @@
 The light, dappled color of this beach mouse (*Peromyscus polionotus*) allows it to blend into its habitat—brilliant white sand dunes dotted with sparse clumps of beach grass along the Florida seashore. Mice of the same species that inhabit nearby inland areas are much darker, blending with the soil and vegetation where they live.
 
 
-![The figure illustrates evolution, organization, information, energy flow, and interactions.](../images/img_1.jpg)
+![The figure illustrates evolution, organization, information, energy flow, and interactions.](../images/img_p17_1.jpeg)
 
 
 The figure is titled: How do these mice illustrate the unifying themes of biology?
@@ -48,7 +48,7 @@ A plant being eaten by a mouse and a mouse being preyed upon by a hawk are inter
 - ******1.4********Science benefits from a cooperative approach and diverse viewpoints******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p17_2.png)
 
 
 Underlying the study of life are four Big Ideas. **BIG IDEA 1:** The process of evolution drives the diversity and unity of life. **BIG IDEA 2:** Biological systems utilize energy and molecular building blocks to grow, reproduce, and maintain dynamic homeostasis. **BIG IDEA 3:** Living systems store, retrieve, transmit, and respond to information essential to life processes. **BIG IDEA 4:** Biological systems interact, and these systems and their interactions possess complex properties.
@@ -59,7 +59,7 @@ Underlying the study of life are four Big Ideas. **BIG IDEA 1:** The process of 
 **Make a table:** List the five unifying themes of biology across the top. Enter at least three examples of each theme as you read this chapter. One example is filled in for you. To help you focus on these big ideas, continue adding examples throughout your study of biology.
 
 
-![A chart has columns labeled Evolution, Organization, and then 3 blanks. Under evolution is as follows. Beach mouse’s coat color matches its sandy habitat.](../images/img_3.jpg)
+![A chart has columns labeled Evolution, Organization, and then 3 blanks. Under evolution is as follows. Beach mouse’s coat color matches its sandy habitat.](../images/img_p17_3.jpeg)
 
 
 ## Get Ready for This Chapter

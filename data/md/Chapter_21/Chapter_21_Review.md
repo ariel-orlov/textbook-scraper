@@ -8,13 +8,13 @@
 # Chapter 21 Review
 
 
-![An elephant shark (Callorhinchus milii) swims underwater.](../images/img_0.jpg)
+![An elephant shark (Callorhinchus milii) swims underwater.](../images/img_p536_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p536_1.png)
 
 
 Scientists have sequenced many model organisms and estimated the number of protein coding genes in each, including rice, 36,000; the nematode *C. elegans*, 20,000; and humans, 21,300. Explain the significance of these findings. **(BIG IDEAS 1 & 3)**
@@ -39,7 +39,7 @@ and their functions
 density
 
 
-![A table illustrates genome size, number of genes, gene density, introns, and other noncoding D N A  of bacteria, archaea, and eukarya.](../images/img_2.jpg)
+![A table illustrates genome size, number of genes, gene density, introns, and other noncoding D N A  of bacteria, archaea, and eukarya.](../images/img_p536_2.jpeg)
 
 
 | blank | Bacteria | Archaea | Eukarya |
@@ -61,7 +61,7 @@ density
 - Though many eukaryotic genes are present in one copy per haploid chromosome set, others (most, in some species) are members of a gene family, such as the human globin gene families:
 
 
-![Chromosomes 16 and 11 are diagrammed.](../images/img_3.jpg)
+![Chromosomes 16 and 11 are diagrammed.](../images/img_p536_3.jpeg)
 
 
 Key: Light blue = noncoding regions. Dark blue = gene. Gold = pseudogene.

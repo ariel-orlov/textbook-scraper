@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 47 -->
-![Wood ants shoot chemicals at their enemies.](../images/img_0.jpg)
+![Wood ants shoot chemicals at their enemies.](../images/img_p47_0.jpeg)
 
 
 # **Chapter ﻿2**
@@ -19,7 +19,7 @@
 Wood ants (*Formica rufa*) use chemistry to ward off enemies. When threatened from above, they shoot volleys of formic acid from their abdomens into the air. The acid bombards and stings potential predators, such as hungry birds.
 
 
-![What determines the properties of a compound such as formic acid?](../images/img_1.jpg)
+![What determines the properties of a compound such as formic acid?](../images/img_p47_1.jpeg)
 
 
 A compound is made of atoms joined by bonds. Formic acid (C H 2 O 2) consists of carbon, C, hydrogen, H, and oxygen, O. The number of protons determines an atom’s identity. Oxygen has 8 protons. An atom’s electron distribution determines its ability to form bonds. Oxygen has space for 2 more electrons, so it can form 2 bonds. A compound’s properties depend on its atoms and how they are bonded together. In formic acid, one oxygen attracts hydrogen's electron, releasing H plus and making this an acid, which stings.
@@ -33,7 +33,7 @@ A compound is made of atoms joined by bonds. Formic acid (C H 2 O 2) consists of
 - 2.4**Chemical reactions make and break chemical bonds**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p47_2.png)
 
 
 Chemical reactions underlie many species-specific strategies that communicate information **(BIG IDEA 3)** vital to natural selection and evolution **(BIG IDEA 1)** and can serve as the mechanisms by which populations interact **(BIG IDEA 4).**
@@ -44,7 +44,7 @@ Chemical reactions underlie many species-specific strategies that communicate in
 **Make a table:** As you read the chapter, make a summary table like the following. Add more rows as you proceed.
 
 
-![An unfilled table has 6 rows and 5 columns.](../images/img_3.jpg)
+![An unfilled table has 6 rows and 5 columns.](../images/img_p47_3.jpeg)
 
 
 The columns have the following headings from left to right: Property, then 4 Elements (atoms). The elements are C, H, O, and N. The rows under property are labeled as follows from top to bottom: atomic number, number of electrons, number of neutrons, mass number, electron distribution diagram, and number of valence electrons.

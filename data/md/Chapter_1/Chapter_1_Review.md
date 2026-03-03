@@ -8,13 +8,13 @@
 # Chapter 1 Review
 
 
-![A beach mouse hides amongst light-colored brush.](../images/img_0.jpg)
+![A beach mouse hides amongst light-colored brush.](../images/img_p42_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p42_1.png)
 
 
 Why is life considered to be an emergent property of a
@@ -28,7 +28,7 @@ Why is life considered to be an emergent property of a
 - The hierarchy of life unfolds as follows: biosphere > ecosystem > community > population > organism > organ system> organ > tissue > cell > organelle> molecule > atom. With each step from atoms to the biosphere, new **emergent properties** result from interactions among components at the lower levels. In an approach called reductionism, complex systems are broken down to simpler components that are more manageable to study. In **systems biology**, scientists attempt to model the dynamic behavior of whole biological systems by studying the interactions among the system’s parts.
 
 
-![Decorative image.](../images/img_2.jpg)
+![Decorative image.](../images/img_p42_2.jpeg)
 
 
 - Structure and function are correlated at all levels of biological organization. The cell, an organism’s basic unit of structure and function, is the lowest level that can perform all activities required for life. Cells are either prokaryotic or eukaryotic. **Eukaryotic cells** have a DNA-containing nucleus and other membrane-enclosed organelles. **Prokaryotic cells** lack such organelles.
@@ -38,7 +38,7 @@ Why is life considered to be an emergent property of a
 - Genetic information is encoded in the nucleotide sequences of **DNA**. It is DNA that transmits heritable information from parents to offspring. DNA sequences (called **genes**) program a cell’s protein production by being transcribed into mRNA and then translated into specific proteins, a process called **gene expression**. Gene expression also produces RNAs that are not translated into protein but serve other important functions. **Genomics** is the large-scale analysis of the DNA sequences of a species (its **genome**) as well as the comparison of genomes between species. **Bioinformatics** uses computational tools to deal with huge volumes of sequence data.
 
 
-![Decorative image.](../images/img_3.jpg)
+![Decorative image.](../images/img_p42_3.jpeg)
 
 
 **Energy and Matter Theme: Life Requires the Transfer and Transformation of Energy and Matter**
@@ -47,7 +47,7 @@ Why is life considered to be an emergent property of a
  to do work, and is eventually lost from the ecosystem as heat. Chemicals cycle between organisms and the environment.
 
 
-![Energy flow and chemical cycling.](../images/img_4.jpg)
+![Energy flow and chemical cycling.](../images/img_p42_4.jpeg)
 
 
 **Interactions Theme: From Molecules to Ecosystems, Interactions Are Important in Biological Systems**
@@ -56,7 +56,7 @@ Why is life considered to be an emergent property of a
 - Organisms interact continuously with physical factors. Plants take up nutrients from the soil and chemicals from the air and use energy from the sun.
 
 
-![Energy and chemical cycles in a grassland ecosystem.](../images/img_5.jpg)
+![Energy and chemical cycles in a grassland ecosystem.](../images/img_p42_5.jpeg)
 
 
 *Thinking about the muscles and nerves in your hand, how does the activity of text messaging reflect the four unifying themes of biology described in this section?*
@@ -67,7 +67,7 @@ Why is life considered to be an emergent property of a
 - ******Evolution**, the process of change that has transformed life on Earth, accounts for the unity and diversity of life. It also explains evolutionary adaptation—the match of organisms to their environments.
 
 
-![A partial evolutionary tree for Galapagos finches.](../images/img_6.jpg)
+![A partial evolutionary tree for Galapagos finches.](../images/img_p42_6.jpeg)
 
 
 - Biologists classify species according to a system of broader and broader groups. Domain **Bacteria**
@@ -76,7 +76,7 @@ Why is life considered to be an emergent property of a
 - Darwin proposed **natural selection** as the mechanism for evolutionary adaptation of populations to their environments. Natural selection is the evolutionary process that occurs when a population is exposed to environmental factors that consistently cause individuals with certain heritable traits to have greater reproductive success than do individuals with other heritable traits.
 
 
-![Flowchart of the evolution of adaptations in populations.](../images/img_7.jpg)
+![Flowchart of the evolution of adaptations in populations.](../images/img_p42_7.jpeg)
 
 
 Within a population of organisms, two factors, hereditary variations and overproduction of offspring and competition, combined with environmental factors, lead to differences in the reproductive success of individuals. Those accumulated differences lead to the evolution of adaptations in the population.

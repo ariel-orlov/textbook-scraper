@@ -8,13 +8,13 @@
 # Chapter 27 Review
 
 
-![Photograph of a very pink lake against a crusty white shore.](../images/img_0.jpg)
+![Photograph of a very pink lake against a crusty white shore.](../images/img_p682_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p682_1.png)
 
 
 Justify the claim that humans have more traits in common with the genus *Sulfolobus*, a prokaryote that lives in extremely hot and sulfur-rich water, than they do with *E. coli*, a prokaryote that lives symbiotically in human intestines. (**BIG IDEAS 1 & 4)**
@@ -23,7 +23,7 @@ Justify the claim that humans have more traits in common with the genus *Sulfolo
 ### Concept 27.1: Structural and functional adaptations contribute to prokaryotic success
 
 
-![Structural and functional adaptations of prokaryotes labeled in a diagram. Includes: fimbriae, cell wall, circular chromosome, capsule, sex pilus, internal organization, flagella.](../images/img_2.jpg)
+![Structural and functional adaptations of prokaryotes labeled in a diagram. Includes: fimbriae, cell wall, circular chromosome, capsule, sex pilus, internal organization, flagella.](../images/img_p682_2.jpeg)
 
 
 Information is given in a table:

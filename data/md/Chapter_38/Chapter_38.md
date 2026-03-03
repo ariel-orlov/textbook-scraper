@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 939 -->
-![ An orchid is pollinated by a male wasp.](../images/img_0.jpg)
+![ An orchid is pollinated by a male wasp.](../images/img_p939_0.jpeg)
 
 
 # **Chapter 38**
@@ -13,7 +13,7 @@
 # Angiosperm Reproduction and Biotechnology
 
 
-![ An orchid is pollinated by a wasp.](../images/img_1.jpg)
+![ An orchid is pollinated by a wasp.](../images/img_p939_1.png)
 
 
 #### Figure 38.1
@@ -22,7 +22,7 @@
 The orchid *Ophrys speculum*, shown above, is pollinated only by male wasps of the species *Dasyscolia ciliata*. The flowers resemble the female wasps visually and tactilely, and even release a similar scent. Male wasps who attempt to mate with the flowers get dusted with pollen (see inset). After the males fly off, they often transfer pollen to other *Ophrys*flowers. As shown in the simplified diagram, pollination is critical to sexual reproduction in angiosperms.
 
 
-![A chart asks, how do angiosperms reproduce sexually?](../images/img_2.jpg)
+![A chart asks, how do angiosperms reproduce sexually?](../images/img_p939_2.jpeg)
 
 
 A diagrammatic representation of the process of reproduction in angiosperms is depicted. A longitudinal section of a bisexual flower (with stamens and pistil) is shown. A pollen grain is transferred (by an animal, wind, or water) from an anther to a stigma, where it produces a pollen tube. The pollen tube moves down the stigma, through the style and into the ovary. It delivers sperm to an ovule, which contains an egg. The egg is fertilized by a sperm. The ovule becomes a seed containing an embryo and food supply. The ovary becomes a fruit containing the seeds. Fruits and seeds are dispersed by animals, wind, or water. When a seed germinates, the embryo develops into a plant.
@@ -35,7 +35,7 @@ A diagrammatic representation of the process of reproduction in angiosperms is d
 - ******38.3********People modify crops by breeding and genetic engineering******
 
 
-![Advanced placement edition](../images/img_3.jpg)
+![Advanced placement edition](../images/img_p939_3.png)
 
 
 Through natural selection **(BIG IDEA 1)**, cooperative behavior between plants and their pollinators influences the distribution and abundance of both **(BIG IDEA 4)**. Humans have aided the growth of some populations through genetic modification **(BIG IDEA 3)** and artificial selection **(BIG IDEA 1)**.
@@ -46,7 +46,7 @@ Through natural selection **(BIG IDEA 1)**, cooperative behavior between plants 
 **Make a flowchart:** Complete the steps in the following flowchart to compare angiosperm sexual reproduction with human reproduction.
 
 
-![A flowchart begins with Sexual reproduction in angiosperms or with Human reproduction.](../images/img_4.jpg)
+![A flowchart begins with Sexual reproduction in angiosperms or with Human reproduction.](../images/img_p939_4.jpeg)
 
 
 Both sexual reproduction in angiosperms and human reproduction begin with meiosis occurring in Blank, which produces Blank, followed by Blank and leads to the formation of a diploid embryo. The blanks are intended to be filled by the reader.

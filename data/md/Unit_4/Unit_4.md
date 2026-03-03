@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 538 -->
-![image](../images/img_0.jpg)
+![image](../images/img_p538_0.png)
 
 
 # **Unit 4**
@@ -16,7 +16,7 @@
 ## Cassandra Extavour
 
 
-![Cassandra Extavour.](../images/img_1.jpg)
+![Cassandra Extavour.](../images/img_p538_1.jpeg)
 
 
 **Cassandra Extavour** is Professor in the Department of Organismic and Evolutionary Biology at Harvard University, where she and her students are studying genes that control early embryonic development, as well as the evolutionary origins of these genes and how their functions have changed over time. Born in Toronto, Canada, Dr. Extavour received a B.Sc. (honors) in Molecular Biology and Genetics from the University of Toronto, followed by a Ph.D. in the same subject area from Universidad Autónoma de Madrid, Spain. After completing two postdoctoral fellowships (one in Greece, the other in the United Kingdom), she worked for several years as a Research Associate at Cambridge University, UK, before joining the faculty at Harvard. Dr. Extavour is a dedicated advocate for women and underrepresented groups in science, and she also has performed worldwide as a professional soprano.
@@ -38,7 +38,7 @@ I’m interested in understanding the genes that control embryonic development a
 Evo-devo stands for evolutionary developmental biology. Scientists in this field try to understand the difference in development between, let’s say, a coconut and a rose. They’re both plants, they both make seeds, they both make pollen, but they don’t look the same at all. Why is that? Or the fact that, when you compare the development of a monkey and a human, you can’t detect many differences in their embryos or their genes. How can they be similar in so many ways and yet end up as such different organisms? In my lab, we are particularly interested in egg and sperm cells—known as germ cells. We’re trying to figure out how an embryo determines which cells become germ cells and how it tells those cells, “Okay, listen: When the animal you are part of becomes an adult, you will need to make eggs and sperm.” We’ve found that in some cases, the same genes are used by a variety of different species to make germ cells. But in other cases, we’ve been surprised to find that a gene used to produce germ cells in one organism is used to make a completely different type of cell in another closely related organism.
 
 
-![A micrograph of a crustacean embryo shows several red cells among a majority of green cells.](../images/img_2.jpg)
+![A micrograph of a crustacean embryo shows several red cells among a majority of green cells.](../images/img_p538_2.jpeg)
 
 *Embryo of the crustacean *Parhyale hawaiensis* showing cells (in red) that will develop into germ cells*
 

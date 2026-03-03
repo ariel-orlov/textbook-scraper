@@ -8,13 +8,13 @@
 # Chapter 6 Review
 
 
-![A single-celled organism.](../images/img_0.jpg)
+![A single-celled organism.](../images/img_p157_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p157_1.png)
 
 
 In general, eukaryotic cells have a smaller surface-to-volume ratio than prokaryotic cells, but they contain internal membrane-bound organelles. How do these internal membranes affect the overall functional efficiency of a cell and offset the low surface-to-volume ratio? **(BIG IDEAS 2 & 4)**
@@ -37,7 +37,7 @@ In general, eukaryotic cells have a smaller surface-to-volume ratio than prokary
 *Explain how the compartmental organization of a eukaryotic cell contributes to its biochemical functioning.*
 
 
-![A table of chapter concepts illustrating cell components, structures, and functions.](../images/img_2.jpg)
+![A table of chapter concepts illustrating cell components, structures, and functions.](../images/img_p157_2.jpeg)
 
 
 | Concept | Cell Component | Structure | Function |

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 479 -->
-![Model sequencing technique in which the nucleotides of a single strand of D N A pass through a tiny pore in a membrane resulting in tiny changes in electrical current.](../images/img_0.jpg)
+![Model sequencing technique in which the nucleotides of a single strand of D N A pass through a tiny pore in a membrane resulting in tiny changes in electrical current.](../images/img_p479_0.jpeg)
 
 
 # **Chapter 20**
@@ -19,7 +19,7 @@
 This model shows a technique in which a DNA strand is passed through a small pore in a membrane. The resulting changes in an electrical current are used to determine the nucleotide sequence. The first human genome sequence, completed in 2003, took  13 years and cost  $1 billion; the time and cost of genome sequencing have been greatly reduced by improved methods like the one shown here.
 
 
-![What are the main techniques and applications of biotechnology?](../images/img_1.jpg)
+![What are the main techniques and applications of biotechnology?](../images/img_p479_1.jpeg)
 
 
 Techniques include the following. D N A sequencing, gene cloning, P C R amplification, expressing genes, analyzing gene expression, and gene editing. Applications include the following. Agriculture, medicine, environmental cleanup, ancestry, and forensics.
@@ -33,7 +33,7 @@ Techniques include the following. D N A sequencing, gene cloning, P C R amplific
 - ******20.4********The practical applications of DNA-based biotechnology affect our lives in many ways**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p479_2.png)
 
 
 Biotechnology makes it possible to identify and manipulate DNA and RNA in order to make useful products **(BIG IDEA 3)**. Scientists can isolate, sequence, and transfer genes from one organism to another and thereby delineate the relationships of organisms, solve medical and criminal mysteries, and increase agricultural productivity **(BIG IDEA 4)**.
@@ -44,7 +44,7 @@ Biotechnology makes it possible to identify and manipulate DNA and RNA in order 
 **Apply what you’ve learned:** Write down a gene-related question you’ve wondered about. Then make a table listing techniques you could use to investigate your question and how you would apply them. Below is an example.
 
 
-![A table is titled, Is obesity caused by genes, the environment, or both?](../images/img_3.jpg)
+![A table is titled, Is obesity caused by genes, the environment, or both?](../images/img_p479_3.jpeg)
 
 
 The table has columns titled, Technique, and Application to question. The technique is D N A sequencing. The application is as follows: Compare D N A sequences from people with autism with sequences from non-affected people.

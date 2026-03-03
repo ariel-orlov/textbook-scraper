@@ -8,13 +8,13 @@
 # Chapter 11 Review
 
 
-![A cheetah chases an impala.](../images/img_0.jpg)
+![A cheetah chases an impala.](../images/img_p283_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p283_1.png)
 
 
 Is all cell-to-cell communication regulated by the plasma membrane? What about apoptosis? **(BIG IDEA 3)**
@@ -28,7 +28,7 @@ Is all cell-to-cell communication regulated by the plasma membrane? What about a
 - Like epinephrine, other hormones that bind to membrane receptors trigger a three-stage cell-signaling pathway:
 
 
-![An overview of cell signaling.](../images/img_2.jpg)
+![An overview of cell signaling.](../images/img_p283_2.jpg)
 
 
 Binding of a signaling molecule from the extracellular fluid to a receptor in the plasma membrane triggers reception, transduction, and response within the cell cytoplasm.

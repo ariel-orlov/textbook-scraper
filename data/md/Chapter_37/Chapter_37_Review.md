@@ -8,13 +8,13 @@
 # Chapter 37 Review
 
 
-![A man spreads white fertilizer by hand over a rice field.](../images/img_0.jpg)
+![A man spreads white fertilizer by hand over a rice field.](../images/img_p936_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p936_1.png)
 
 
 Why do many trees begin development with a taproot and after one or two years change to a fibrous root system with many horizontal surface roots and only a few vertical, deep anchoring roots? **(BIG IDEA 2)**
@@ -42,7 +42,7 @@ Why do many trees begin development with a taproot and after one or two years ch
 - **Rhizobacteria** derive their energy from the **rhizosphere**, a microorganism-enriched ecosystem intimately associated with roots. Plant secretions support the energy needs of the rhizosphere. Some rhizobacteria produce antibiotics, whereas others make nutrients more available for plants. Most are free-living, but some live inside plants. Plants satisfy most of their huge need for nitrogen from the bacterial decomposition of **humus** and the fixation of gaseous nitrogen.
 
 
-![The roles of soil bacteria in the nitrogen nutrition of plants.](../images/img_2.jpg)
+![The roles of soil bacteria in the nitrogen nutrition of plants.](../images/img_p936_2.jpeg)
 
 
 In soil, N 2 is processed by nitrogen-fixing bacteria that produce N H 3 (ammonia). H plus (from soil) is added to make N H 4 superscript plus (ammonium). Proteins from humus (dead organic material) go through microbial decomposition, break into amino acids, the ammonifying bacteria produce N H 4 superscript plus, as well. N H 4 superscript plus is taken up by roots, or nitrifying bacteria produce N O 2 superscript minus (nitrite) that is processed by nitrifying bacteria again to become N O 3 superscript minus (nitrate). Weathering of rock also produces this. Denitrifying bacteria then produce N 2 that is released from the soil. From the root, N H 4 superscript plus, nitrate, and nitrogenous organic composes are exported in the xylem to the shoot system.

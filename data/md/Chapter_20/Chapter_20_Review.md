@@ -8,13 +8,13 @@
 # Chapter 20 Review
 
 
-![A molecular model.](../images/img_0.jpg)
+![A molecular model.](../images/img_p506_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p506_1.png)
 
 
 In bacterial transformation experiments, plasmids are typically constructed with a gene for antibiotic resistance. Explain why that is important. Explain why in some environments there is a selective advantage for bacteria with the plasmid, but in other environments, there is a selective disadvantage. **(BIG IDEAS 1 & 3)**
@@ -29,7 +29,7 @@ In bacterial transformation experiments, plasmids are typically constructed with
 - In ******genetic engineering**, bacterial ******restriction enzymes** are used to cut DNA molecules within short, specific nucleotide sequences (******restriction sites**), yielding a set of double-stranded ******restriction fragments** with single-stranded ******sticky ends**:
 
 
-![Diagram of DNA fragments with sticky ends.](../images/img_2.jpg)
+![Diagram of DNA fragments with sticky ends.](../images/img_p506_2.jpeg)
 
 
 First fragment: Top strand: 5 prime, unlabeled region, G 3 prime. Bottom strand: 3 prime, unlabeled region, C T T A A 5 prime. (Sticky end). Second fragment: Top strand: 5 prime A A T T C (sticky end), unlabeled region, 3 prime. Bottom strand: 3 prime G, unlabeled region 5 prime.
@@ -41,7 +41,7 @@ First fragment: Top strand: 5 prime, unlabeled region, G 3 prime. Bottom strand:
 - To clone a eukaryotic gene:
 
 
-![Cloning vector (often a bacterial plasmid) and DNA fragments obtained by PCR are mixed and ligated to form recombinant DNA plasmids.](../images/img_3.jpg)
+![Cloning vector (often a bacterial plasmid) and DNA fragments obtained by PCR are mixed and ligated to form recombinant DNA plasmids.](../images/img_p506_3.jpeg)
 
 
 Cloning vector (often a bacterial plasmid) and DNA fragments obtained by PCR or from another source (cut by same restriction enzyme used on cloning vector) are mixed and ligated to form recombinant DNA plasmids.

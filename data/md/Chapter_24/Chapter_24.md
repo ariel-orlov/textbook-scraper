@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 582 -->
-![A cormorant spreads its small wings.](../images/img_0.jpg)
+![A cormorant spreads its small wings.](../images/img_p582_0.jpeg)
 
 
 # **Chapter ﻿24**
@@ -19,7 +19,7 @@
 This flightless cormorant is one of many species in the Galápagos Islands that are found nowhere else in the world. How did a bird that cannot fly come to live in this isolated place? When Darwin visited the Galápagos, he also was intrigued by its unique species, and later concluded that they must have originated in the islands from ancestors that had traveled from South America.
 
 
-![How do new species originate from existing species?](../images/img_1.jpg)
+![How do new species originate from existing species?](../images/img_p582_1.jpeg)
 
 
 Over time, populations of a single species connected by gene flow can diverge genetically, giving rise to a new species. Begin with populations with gene flow. Three populations of a species are connected this way. A barrier to gene flow is established, such as a reproductive barrier (including different habitats or mating behaviors). One population begins to diverge genetically from the other two populations. Gene flow continues between the other two populations. Eventually, the lone population is reproductively isolated from the other two and a new species has formed.
@@ -33,7 +33,7 @@ Over time, populations of a single species connected by gene flow can diverge ge
 - ******24.4********Speciation can occur rapidly or slowly and can result from changes in few or many genes******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p582_2.png)
 
 
 Speciation may occur when two populations become reproductively isolated from one another **(BIG IDEA 1)**. This can lead to differences in timing and coordination of behavior and changes in modes of intercellular and intracellular signal transmission **(BIG IDEA 3)**. Reproductive isolation can also affect relationships with other species in the environment and bring about adaptation or morphological change **(BIG IDEA 4)**.
@@ -44,7 +44,7 @@ Speciation may occur when two populations become reproductively isolated from on
 **Make a table:** Some processes that can lead to speciation only occur in allopatric (geographically separated) populations, while others also occur in sympatric (geographically overlapping) populations. To help you keep track of these processes and the geographic conditions under which they can occur, fill in the table as you read the chapter.
 
 
-![A partially filled table lists the process, and its occurrence in either an allopatric population or a sympatric population.](../images/img_3.jpg)
+![A partially filled table lists the process, and its occurrence in either an allopatric population or a sympatric population.](../images/img_p582_3.jpeg)
 
 
 The table is as follows:

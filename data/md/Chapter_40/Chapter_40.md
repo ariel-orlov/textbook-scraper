@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 995 -->
-![Penguins swim through ocean waters.](../images/img_0.jpg)
+![Penguins swim through ocean waters.](../images/img_p995_0.jpeg)
 
 
 # **Chapter 40**
@@ -19,7 +19,7 @@
 Emperor penguins (*Aptenodytes forsteri*) live in Antarctica, Earth’s coldest and windiest continent. In summer, these birds catch fish by diving down  500 meters in water only  2°C above freezing. In winter, the females forage and the males incubate eggs while temperatures drop to  −40°C and winds gust to﻿  200 km/hr.
 
 
-![A chart asks, how do animals regulate their internal state even in changing or harsh environments?](../images/img_1.jpg)
+![A chart asks, how do animals regulate their internal state even in changing or harsh environments?](../images/img_p995_1.jpeg)
 
 
 Adaptation in form, function, and behavior help maintain an animal’s internal environment. Consider, for example, three adaptations that help an Emperor penguin stay warm. Adaptations that limit variation in temperature and other internal variables, such as the solute composition and p H of circulatory fluids, are widespread among animal species. Form (anatomy): An insulating layer of fat (blubber) reduces heat loss from most of the penguin’s body. Function (physiology): Rapid cycles of muscle contraction and relaxation during shivering produce heat at a cellular level. Behavior: By packing together in groups of up to several thousand, Emperor penguins greatly reduce their exposure to wind and cold.
@@ -33,7 +33,7 @@ Adaptation in form, function, and behavior help maintain an animal’s internal 
 - ******40.4********Energy requirements are related to animal size, activity, and environment******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p995_2.png)
 
 
 All animals require energy and matter to grow, reproduce, and maintain dynamic homeostasis **(BIG IDEA 2)**. They have diverse structures and mechanisms that ensure survival **(BIG IDEA 4)** and that help to define their relatedness **(BIG IDEA 1)**.
@@ -44,7 +44,7 @@ All animals require energy and matter to grow, reproduce, and maintain dynamic h
 **Draw a diagram:** When you encounter an example in the chapter of how an animal maintains a steady internal state, draw a simple circuit diagram (see example—illustrations are optional!). Label the variable being controlled, a perturbation that affects the variable, the response, and its effect in restoring the normal state.
 
 
-![A diagram for the variable body temperature links normal body temperature to perturbation, response, and effect.](../images/img_3.jpg)
+![A diagram for the variable body temperature links normal body temperature to perturbation, response, and effect.](../images/img_p995_3.jpeg)
 
 
 ## Get Ready for This Chapter

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 420 -->
-![Anableps anableps with head raised so that eyes are half out of the water and half under water.](../images/img_0.jpg)
+![Anableps anableps with head raised so that eyes are half out of the water and half under water.](../images/img_p420_0.jpeg)
 
 
 # **Chapter 18**
@@ -19,7 +19,7 @@
 *Anableps anableps*, or “cuatro ojos” (“four eyes”), glides through lakes and ponds in South America, the upper half of each eye protruding from the water. The eye’s upper half is well-suited for aerial vision and the lower half for aquatic vision. All eye cells, however, contain the same genes.
 
 
-![How can two cells with the same set of genes function differently?](../images/img_1.jpg)
+![How can two cells with the same set of genes function differently?](../images/img_p420_1.jpeg)
 
 
 To be expressed, each gene requires a particular set of transcription factors. Different cells have different sets of specific transcription factors. An Anableps has eye cells specialized for aerial vision and eye cells specialized for aquatic vision. Each cell has genes 1, 2, and 3. For the aerial cells, genes 1 and 3 are expressed where gene 1 produces a product for optimizing eyesight in air, and gene 3 is required in all eye cells. Gene 1 has specific transcription factors, and no transcription factors are present for gene 2, so gene 2 is not expressed. For the aquatic cells, gene 1 has no specific transcription factors, so it isn’t expressed, but gene 2 does, so it is expressed. Gene 3 is also expressed.
@@ -34,7 +34,7 @@ To be expressed, each gene requires a particular set of transcription factors. D
 - 18.5﻿**Cancer results from genetic changes that affect cell cycle control**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p420_2.png)
 
 
 Organisms use feedback mechanisms and transcription factors to maintain dynamic homeostasis through differential gene expression **(BIG IDEAS 2 & 3)**, conserved core processes, and features that are shared by all organisms **(BIG IDEA 1)**.
@@ -45,7 +45,7 @@ Organisms use feedback mechanisms and transcription factors to maintain dynamic 
 **Make a visual study guide:** Draw a region of DNA representing a gene. For each level of gene regulation that you read about, draw a sketch of your gene being regulated at that level. A drawing of chromatin modification regulation is shown as an example.
 
 
-![A region of D N A.](../images/img_3.jpg)
+![A region of D N A.](../images/img_p420_3.jpeg)
 
 
 On the D N A is a gene for chromatin modification regulation. The gene is in the region of tightly condensed chromatin (heterochromatin gene); gene not expressed. Nucleosome (D N A plus histones) surrounds this region. The chromatin modification and loosening occurs. The gene is in a region of loosely condensed chromatin (euchromatin); gene may be expressed.
@@ -141,7 +141,7 @@ That's correct.
 **Correct!**If you had trouble with this question, review the following material: In the process of transcription, RNA polymerase binds in a precise location and orientation on the promoter, initiating RNA synthesis at the start point on the DNA template strand. In eukaryotes, a collection of proteins called transcription factors mediate the binding of RNA polymerase and the initiation of transcription. Translation is the process where tRNA is key to translating a given mRNA codon into a specific amino acid.
 
 
-![A ribosome with mRNA attached. AUG on the mRNA is aligned with UAC on a tRNA that is carrying Met. The tRNA is between the ribosome’s E and A sites.](../images/img_4.jpg)
+![A ribosome with mRNA attached. AUG on the mRNA is aligned with UAC on a tRNA that is carrying Met. The tRNA is between the ribosome’s E and A sites.](../images/img_p420_4.png)
 
 
 3. What process is shown in the diagram?

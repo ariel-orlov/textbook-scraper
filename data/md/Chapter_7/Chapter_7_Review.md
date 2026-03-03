@@ -8,7 +8,7 @@
 # Chapter 7 Review
 
 
-![An illustration of communication between cells.](../images/img_0.jpg)
+![An illustration of communication between cells.](../images/img_p178_0.jpeg)
 
 
 A vesicle containing chemical molecules is seen fusing with the plasma membrane of a cell. The molecules that are released bind to proteins on the cell membrane of the adjacent cell, causing changes to these proteins. This allows for communication between cells and regulation of exchanges of cells with their environment and surrounding cells.
@@ -17,7 +17,7 @@ A vesicle containing chemical molecules is seen fusing with the plasma membrane 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p178_1.png)
 
 
 Cell membranes control the exchange of molecules and ions between the internal and external environments of cells. Evolution has selected for a membrane structure that associates a higher energy cost in transporting hydrophilic substances than hydrophobic ones. How do you explain this, given that water is critical to life? **(BIG IDEA 2)**
@@ -46,7 +46,7 @@ Cell membranes control the exchange of molecules and ions between the internal a
 - In **facilitated diffusion**, a transport protein speeds water or solute movement down its concentration gradient across a membrane. ******Ion channels**facilitate the diffusion of ions across a membrane. Carrier proteins can undergo changes in shape that translocate bound solutes across the membrane.
 
 
-![Facilitated diffusion. A channel protein provides a channel through which a solute diffuses across the membrane; a carrier protein facilitates diffusion of another solute into the cell by changing shape.](../images/img_2.jpg)
+![Facilitated diffusion. A channel protein provides a channel through which a solute diffuses across the membrane; a carrier protein facilitates diffusion of another solute into the cell by changing shape.](../images/img_p178_2.jpeg)
 
 
 *What happens to a cell placed in a hypertonic solution? Describe the free water concentration inside and out.*
@@ -56,7 +56,7 @@ Cell membranes control the exchange of molecules and ions between the internal a
 - Specific membrane proteins use energy, usually in the form of ATP, to do the work of ******active transport**.
 
 
-![A carrier protein uses A T P to actively transport two potassium ions across the membrane out of the cell, as in the sodium-potassium pump described in figure 7.15.](../images/img_3.jpg)
+![A carrier protein uses A T P to actively transport two potassium ions across the membrane out of the cell, as in the sodium-potassium pump described in figure 7.15.](../images/img_p178_3.jpeg)
 
 
 - Ions can have both a concentration (chemical) gradient and an electrical gradient (voltage). These gradients combine in the **electrochemical gradient**, which determines the net direction of ionic diffusion.

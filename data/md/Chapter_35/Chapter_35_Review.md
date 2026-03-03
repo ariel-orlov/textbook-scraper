@@ -8,13 +8,13 @@
 # Chapter 35 Review
 
 
-![A tree in a field.](../images/img_0.jpg)
+![A tree in a field.](../images/img_p893_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p893_1.png)
 
 
 Studies with *Arabidopsis* confirm that asymmetrical cell division leads to the formation of stomata and that the regulators of stomata formation are themselves regulated by environmental changes. How would environmental interactions control the formation of stomata? **(BIG IDEA 4)**
@@ -31,7 +31,7 @@ Studies with *Arabidopsis* confirm that asymmetrical cell division leads to the 
 ### Concept 35.2: Different meristems generate new cells for primary and secondary growth
 
 
-![Plant drawing showing shoot tip (shoot apical meristem and young leaves), lateral meristem including the vascular cambium and cork cambium, axillary bud meristem, and root apical meristem.](../images/img_2.jpg)
+![Plant drawing showing shoot tip (shoot apical meristem and young leaves), lateral meristem including the vascular cambium and cork cambium, axillary bud meristem, and root apical meristem.](../images/img_p893_2.jpeg)
 
 
 *What is the difference between primary and secondary growth?*
@@ -45,7 +45,7 @@ Studies with *Arabidopsis* confirm that asymmetrical cell division leads to the 
 - **Mesophyll** cells are adapted for photosynthesis. **Stomata**, epidermal pores formed by pairs of **guard cells**, allow for gaseous exchange and are major avenues for water loss.
 
 
-![Diagram of leaf anatomy.](../images/img_3.jpg)
+![Diagram of leaf anatomy.](../images/img_p893_3.jpeg)
 
 
 A cutaway diagram of leaf tissues shows vein at the center of the leaf, with the bundle sheath cells around the xylem and phloem tissues inside the vein. Outside the vein are the Sclerenchyma fibers. On the surface of the leaf is the waxy cuticle dotted by stoma (openings) flanked by guard cells. The upper epidermis is the top outer leaf layer, followed by the palisade mesophyll inside and then the spongy mesophyll. The lower epidermis is at the bottom of the leaf.
@@ -58,7 +58,7 @@ A cutaway diagram of leaf tissues shows vein at the center of the leaf, with the
 - The **vascular cambium** is a meristematic cylinder that produces secondary xylem and secondary phloem during ******secondary growth**. Older layers of secondary xylem (heartwood) become inactive, whereas younger layers (sapwood) still conduct water.
 
 
-![Cross-section of tree trunk showing the secondary xylem, including the heartwood (center of tree) surrounded by the sapwood, vascular cambium, and two layers of bark: secondary phloem and layers of periderm.](../images/img_4.jpg)
+![Cross-section of tree trunk showing the secondary xylem, including the heartwood (center of tree) surrounded by the sapwood, vascular cambium, and two layers of bark: secondary phloem and layers of periderm.](../images/img_p893_4.jpeg)
 
 
 Cross-section of tree trunk showing the secondary xylem, including the heartwood (center of tree) surrounded by the sapwood. The vascular cambium is on the outside of the sapwood followed by two layers of bark: secondary phloem (inside) and layers of periderm (outside). Ring growth is highlighted by a ring in the sapwood and vascular rays are shown radiating out from the center of the tree.
@@ -67,7 +67,7 @@ Cross-section of tree trunk showing the secondary xylem, including the heartwood
 - The **cork cambium** gives rise to a thick protective covering called the periderm, which consists of the cork cambium plus the layers of cork cells it produces.
 
 
-![A cross section of the cork cambium.](../images/img_5.jpg)
+![A cross section of the cork cambium.](../images/img_p893_5.jpeg)
 
 
 The cross-section has a layer of epidermis on the outside followed by the cork. The next ring is the most recent cork cambium followed by the secondary phloem and vascular cambium. The next ring is of the secondary xylem (two years of production) followed by a ring of the innermost layer. Growth, shown as a double-headed arrow, occurs outward from the secondary phloem onward.

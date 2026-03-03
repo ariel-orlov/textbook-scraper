@@ -8,13 +8,13 @@
 # Chapter 28 Review
 
 
-![Image of a spiraling, squash shaped organism that is many times larger than a group of six organisms adjacent. All appear to be aquatic, single-celled organisms. Scale bar: 1 micrometer.](../images/img_0.jpg)
+![Image of a spiraling, squash shaped organism that is many times larger than a group of six organisms adjacent. All appear to be aquatic, single-celled organisms. Scale bar: 1 micrometer.](../images/img_p707_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p707_1.png)
 
 
 Summarize the changes that occur in the cellular slime mold *Dictyostelium* when food is scarce **(BIG IDEAS 2 & 3)**, and infer why such “behavior” might be adaptive **(BIG IDEA 1)**.
@@ -31,7 +31,7 @@ Summarize the changes that occur in the cellular slime mold *Dictyostelium* when
 *Describe similarities and differences between protists and other eukaryotes.*
 
 
-![A table lists a summary of key concepts, major groups, key morphological characteristics, and specific examples of eukaryotes.](../images/img_2.jpg)
+![A table lists a summary of key concepts, major groups, key morphological characteristics, and specific examples of eukaryotes.](../images/img_p707_2.jpeg)
 
 
 | Key Concept/Eukaryote Supergroup | Major Groups | Key Morphological Characteristics | Specific Examples |

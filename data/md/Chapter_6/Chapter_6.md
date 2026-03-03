@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 122 -->
-![A microscopic view of a Paramecium shows various structures within the single-celled organism.](../images/img_0.jpg)
+![A microscopic view of a Paramecium shows various structures within the single-celled organism.](../images/img_p122_0.jpeg)
 
 
 # **Chapter ﻿6**
@@ -19,7 +19,7 @@
 The cell is an organism’s basic unit of structure and function. Many forms of life exist as single-celled organisms, such as the *Paramecium* shown here. Larger, more complex organisms, including plants and animals, are multicellular. In this chapter, we focus mainly on eukaryotic cells—cells with a nucleus.
 
 
-![How does the internal organization of eukaryotic cells allow them to perform the functions of life?](../images/img_1.jpg)
+![How does the internal organization of eukaryotic cells allow them to perform the functions of life?](../images/img_p122_1.jpeg)
 
 
 Energy and matter transformations: A system of internal membranes synthesizes and modifies proteins, lipids, and carbohydrates; chloroplasts convert light energy to chemical energy; mitochondria break down molecules, generating A T P.
@@ -43,7 +43,7 @@ Interactions with the environment: The plasma membrane controls what goes into a
 - ******6.8********A cell is greater than the sum of its parts******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p122_2.png)
 
 
 Many structures and processes of cells that maintain dynamic homeostasis **(BIG IDEA 2)** and respond to the environment **(BIG IDEA 3)** reflect a shared ancestry **(BIG IDEA 1).**
@@ -54,7 +54,7 @@ Many structures and processes of cells that maintain dynamic homeostasis **(BIG 
 **Draw animal and plant cells:** Draw an outline of an animal cell and add structures, labels, and functions. Draw a plant cell labeled with structures unique to plant cells.
 
 
-![A drawn outline is roughly a circle labeled plasma membrane a selective barrier.](../images/img_3.jpg)
+![A drawn outline is roughly a circle labeled plasma membrane a selective barrier.](../images/img_p122_3.jpeg)
 
 
 ## Get Ready for This Chapter

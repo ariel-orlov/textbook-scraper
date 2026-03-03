@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 45 -->
-![image](../images/img_0.jpg)
+![image](../images/img_p45_0.png)
 
 
 # **Unit 1**
@@ -16,7 +16,7 @@
 ## Dr. Kenneth Olden
 
 
-![Kenneth Olden.](../images/img_1.jpg)
+![Kenneth Olden.](../images/img_p45_1.jpeg)
 
 
 **Dr. Kenneth Olden** recently retired from a long and distinguished career in medical research and public health, including serving as Director of the National Institute of Environmental Health Sciences from 1991 to 2005, as founding Dean of the School of Public Health at the City University of New York from 2008 to 2012, and as Director of the National Center for Environmental Assessment from 2012 to 2016. He has published over 220 research papers and has received many honors and awards, among them the three most distinguished awards in public health. Dr. Olden grew up in Parrottsville, Tennessee, the son of a sharecropper. He remembers walking up a long hill to high school every morning and daydreaming about helping the poor people—both black and white—in the neighborhoods he’d walk through, wanting to make a difference.
@@ -38,7 +38,7 @@ After my Ph.D. and my postdoctoral research at Harvard, I realized I wanted to w
 When I interviewed for the position, I told the Director of the NIH, “My first priority would be to make the Institute responsive to the needs of the American people.” She immediately offered me the job—and that changed my life. It gave me the opportunity to think big and to address a lot of issues I felt weren’t being dealt with, kind of what I’d been dreaming of. Environmental health research at that time focused on chemical carcinogenesis, and I wanted to expand that focus to social and behavioral issues also, as well as genetics. Over my time there, I engaged communities in identifying areas of concern for our research, such as disproportionate exposure to chemicals in certain neighborhoods. I founded the Environmental Genome Project, which used a novel genomic approach to determine susceptibility to toxins. I also expanded Environmental Health Centers around the country, developing the Breast Cancer and the Environment Research Program and Children’s Environmental Health and Disease Prevention Research Centers. Children are really important to me—they are especially susceptible to environmental toxins, and we needed to address that.
 
 
-![Kenneth Olden poses with a group of smiling children.](../images/img_2.jpg)
+![Kenneth Olden poses with a group of smiling children.](../images/img_p45_2.jpeg)
 
 *Dr. Olden established Children’s Environmental Health and Disease Prevention Research Centers.*
 

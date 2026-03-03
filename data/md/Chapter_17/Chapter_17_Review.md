@@ -8,13 +8,13 @@
 # Chapter 17 Review
 
 
-![Albino donkeys and a brown donkey.](../images/img_0.jpg)
+![Albino donkeys and a brown donkey.](../images/img_p416_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p416_1.png)
 
 
 Given that polypeptides are the link between genotype and phenotype, how could this fact be used to support the hypothesis that RNA, not DNA, evolved first, sometimes referred to as the RNA World hypothesis? **(BIG IDEAS 1 & 4)**
@@ -33,7 +33,7 @@ Given that polypeptides are the link between genotype and phenotype, how could t
 - RNA synthesis is catalyzed by **RNA polymerase**, which links together RNA nucleotides complementary to a DNA template strand. Transcription follows the same base-pairing rules as DNA replication, except that in RNA, uracil (U) substitutes for thymine (T).
 
 
-![D N A with transcription unit: R N A polymerase transcribing template (3 prime to 5 prime) strand of D N A. A promoter region on the D N A precedes the transcription unit.](../images/img_2.jpg)
+![D N A with transcription unit: R N A polymerase transcribing template (3 prime to 5 prime) strand of D N A. A promoter region on the D N A precedes the transcription unit.](../images/img_p416_2.jpeg)
 
 
 - The three stages of transcription are initiation, elongation, and termination. A **promoter** sequence, often including a **TATA box** in eukaryotes, establishes where RNA synthesis is initiated. **Transcription factors** help eukaryotic RNA polymerase recognize promoter sequences, forming a **transcription initiation complex**. Termination differs in bacteria and eukaryotes.
@@ -47,7 +47,7 @@ Given that polypeptides are the link between genotype and phenotype, how could t
 - Most eukaryotic genes are split into segments: They have **introns** interspersed among the **exons** (the regions included in the mRNA). In **RNA splicing**, introns are removed and exons joined. RNA splicing is typically carried out by **spliceosomes**, but in some cases, RNA alone catalyzes its own splicing. The properties of RNA allow some RNAs (called **ribozymes**) to act as catalysts. The presence of introns allows for **alternative RNA splicing**.
 
 
-![Pre-m R N A with 5 prime cap and 3 prime Poly-A tail at the ends and segments of introns and exons in between. Arrow indicates introns are spliced out to form m R N A.](../images/img_3.jpg)
+![Pre-m R N A with 5 prime cap and 3 prime Poly-A tail at the ends and segments of introns and exons in between. Arrow indicates introns are spliced out to form m R N A.](../images/img_p416_3.jpeg)
 
 
 Overview: In the nucleus, transcription of D N A results in pre-m R N A. R N A processing leads to m R N A, which leaves the nucleus. Translation of the m R N A takes place in the cytoplasm on ribosomes, where polypeptides are synthesized. Pre-m R N A labeled as follows: 5 prime cap; 5 prime U T R; Exon (codon numbers 1-30); short intron; exon (codon numbers 31-104); long intron; exon (codon numbers 105-146); 3 prime U T R; poly-A tail. Arrows flow to result after introns cut out and exons spliced together. m R N A: 5 prime cap; 5 prime U T R; Coding segment 1-146; 3 prime U T R; poly-A tail.
@@ -61,7 +61,7 @@ Overview: In the nucleus, transcription of D N A results in pre-m R N A. R N A p
 - Ribosomes coordinate the three stages of translation: initiation, elongation, and termination. The formation of peptide bonds between amino acids is catalyzed by rRNAs as tRNAs move through the **A** and **P sites** and exit through the **E site**.
 
 
-![m R N A inside ribosome. Transfer R N A binds to m R N A codon and transfers a Phe to growing polypeptide chain. Other t R N As preparing to bind to m R N A codons and transfer their amino acids.](../images/img_4.jpg)
+![m R N A inside ribosome. Transfer R N A binds to m R N A codon and transfers a Phe to growing polypeptide chain. Other t R N As preparing to bind to m R N A codons and transfer their amino acids.](../images/img_p416_4.jpeg)
 
 
 Overview: In the nucleus, transcription of D N A results in pre-m R N A. R N A processing leads to m R N A, which leaves the nucleus. Translation of the m R N A takes place in the cytoplasm on ribosomes, where polypeptides are synthesized. Messenger R N A is inside ribosome. Various amino acids are drawn present in the cytoplasm and some are already attached to different t R N A molecules. Here, t R N As are drawn as upside-down L-shaped molecules with triplet anticodons on one end and attachment points for amino acids on the other end.

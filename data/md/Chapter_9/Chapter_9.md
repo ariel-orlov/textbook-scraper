@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 205 -->
-![A hoary marmot eats a flower.](../images/img_0.jpg)
+![A hoary marmot eats a flower.](../images/img_p205_0.jpeg)
 
 *hidecaption*
 
@@ -21,7 +21,7 @@
 This hoary marmot (*Marmota caligata*) obtains energy for its cells by feeding on plants. In the process of cellular respiration, mitochondria in the cells of animals, plants, and other organisms break down organic molecules, generating ATP and waste products: carbon dioxide, water, and heat. Note that energy flows one way, but chemicals are recycled.
 
 
-![How is the chemical energy stored in food used to generate A T P, the molecule that drives most cellular work?](../images/img_1.jpg)
+![How is the chemical energy stored in food used to generate A T P, the molecule that drives most cellular work?](../images/img_p205_1.jpeg)
 
 
 Light energy is used in photosynthesis. It generates organic molecules plus O 2, which are used in plants the marmot eats. This generates C O 2 plus H 2 O, which are used in photosynthesis, creating a cycle. When the marmot eats, cellular respiration in mitochondria occurs in plant cells and animal cells. This breaks down organic molecules, generating A T P, which powers most cellular work. A T P releases heat.
@@ -37,7 +37,7 @@ Light energy is used in photosynthesis. It generates organic molecules plus O 2,
 - ******9.6********Glycolysis and the citric acid cycle connect to many other metabolic pathways******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p205_2.png)
 
 
 Heterotrophic organisms must capture energy from their environment to maintain life **(BIG IDEA 2).** Common to all are core processes that move energy and matter through living systems and thereby support life **(BIG IDEAS 1 & 4).**
@@ -48,7 +48,7 @@ Heterotrophic organisms must capture energy from their environment to maintain l
 **Make a visual study guide:** Draw a cell with a large mitochondrion, labeling the parts of the mitochondrion. As you go through the chapter, add key reactions for each stage of cellular respiration, linking the stages together. Label the carbon molecule(s) with the most energy and the carbon molecule(s) with the least energy. Your cell can be a simple sketch, as shown here.
 
 
-![An illustration of a mitochondrion, showing the double-membraned structure with inward loops.](../images/img_3.jpg)
+![An illustration of a mitochondrion, showing the double-membraned structure with inward loops.](../images/img_p205_3.jpeg)
 
 
 ## Get Ready for This Chapter
@@ -103,7 +103,7 @@ That's correct.
 **Correct!** If you had trouble with this question, review the following material: Chemical reactions are classified based on their free-energy changes. An exergonic reaction proceeds with a net release of free energy, whereas an endergonic reaction  is one that absorbs free energy from its surroundings. If a chemical process is exergonic (downhill), releasing energy in one direction, then the reverse process must be endergonic (uphill), using energy.
 
 
-![Energy from catabolism provides the energy to form ATP from ADP plus Pi. The breakdown of ATP to ADP plus Pi provides energy for cellular work.](../images/img_4.jpg)
+![Energy from catabolism provides the energy to form ATP from ADP plus Pi. The breakdown of ATP to ADP plus Pi provides energy for cellular work.](../images/img_p205_4.png)
 
 
 2. Which of the following is the most correct interpretation of the figure shown?

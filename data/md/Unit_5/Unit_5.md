@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 635 -->
-![image](../images/img_0.jpg)
+![image](../images/img_p635_0.png)
 
 
 # **Unit 5**
@@ -16,7 +16,7 @@
 ## Sallie (Penny) Chisholm
 
 
-![Penny Chisholm.](../images/img_1.jpg)
+![Penny Chisholm.](../images/img_p635_1.jpeg)
 
 
 **Sallie (Penny) Chisholm,** Institute Professor in Civil and Environmental Engineering at the Massachusetts Institute of Technology, has received the 2011 National Medal of Science, the 2019 Crafoord Prize in Biosciences, and many other prestigious awards. Dr. Chisholm received a B.A. in Biology and Chemistry from Skidmore College and a Ph.D. in Biology from the State University of New York, Albany. Elected to the U.S. National Academy of Sciences in 2003, Dr. Chisholm has a long-standing interest in the essential roles that photosynthetic microbes play in marine ecosystems. Currently, she and her students are studying these organisms from the genome to global scale.
@@ -32,7 +32,7 @@ I grew up in Michigan’s Upper Peninsula, in the sticks. Growing up, my family 
 *Prochlorococcus* is the smallest photosynthetic cell on the planet and the most abundant—it is less than 1/100th the width of a human hair, and there are over a billion billion billion of these tiny cells in the ocean! *Prochlorococcus* feeds small protists, which in turn are eaten by larger marine organisms, and thus they play a key role in ocean ecosystems. And when *Prochlorococcus* cells are infected by viruses, they break apart and their organic compounds serve as a food source for other bacteria in the ocean. Despite these organisms’ importance, we didn’t even know they existed when I was a student. And then, in the mid-1980s, I was fortunate enough to be involved in their discovery. I was fascinated by them—they were almost everywhere in the oceans. Eventually we learned to grow them in the lab. I was hooked!
 
 
-![A micrograph highlights vesicles within Prochlorococcus cells.](../images/img_2.jpg)
+![A micrograph highlights vesicles within Prochlorococcus cells.](../images/img_p635_2.jpeg)
 
 **Prochlorococcus* cells and vesicles.*
 

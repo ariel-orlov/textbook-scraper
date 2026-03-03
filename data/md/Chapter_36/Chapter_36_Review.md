@@ -8,13 +8,13 @@
 # Chapter 36 Review
 
 
-![English ivy covers a wall.](../images/img_0.jpg)
+![English ivy covers a wall.](../images/img_p918_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p918_1.png)
 
 
 Because adaptations of organisms are related to a particular environment, what would you predict about the density of stomata in a particular plant species during drought years with high light exposure compared to years with more plentiful rainfall and cloud cover? **(BIG IDEAS 1 & 4)**
@@ -25,7 +25,7 @@ Because adaptations of organisms are related to a particular environment, what w
 - Leaves typically function in gathering sunlight and CO2. Stems serve as supporting structures for leaves and as conduits for the long-distance transport of water and nutrients. Roots mine the soil for water and minerals and anchor the whole plant.
 
 
-![Minerals, H 2 O, and O 2 enter the roots of a plant. C O 2 enters the leaves and exits the roots. H 2 O and O 2 exit the leaves.](../images/img_2.jpg)
+![Minerals, H 2 O, and O 2 enter the roots of a plant. C O 2 enters the leaves and exits the roots. H 2 O and O 2 exit the leaves.](../images/img_p918_2.jpeg)
 
 
 - Natural selection has produced plant architectures that optimize resource acquisition in the ecological niche in which the plant species naturally exists.

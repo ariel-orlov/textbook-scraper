@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 540 -->
-![A mantis blends in with a flower.](../images/img_0.jpg)
+![A mantis blends in with a flower.](../images/img_p540_0.jpeg)
 
 
 # **Chapter 22**
@@ -19,7 +19,7 @@
 This Malaysian orchid mantis (*Hymenopus coronatus*) closely resembles the flower on which it rests, waiting for unwary prey to come within its reach. Other mantises have diverse shapes and colors that have evolved in different environments—yet all mantises also share certain features, such as grasping forelimbs, large eyes, and six legs.
 
 
-![What causes the similarities and differences among Earth’s many different species?](../images/img_1.jpg)
+![What causes the similarities and differences among Earth’s many different species?](../images/img_p540_1.jpeg)
 
 
 Begin with an ancient common ancestor. Species accumulate differences from their ancestors as they adapt to different environments over many generations. This leads to new variants of the ancestor. While different in some ways, these species share many similar features because they descended from a common ancestor. This process of descent with modification has given rise to the diversity of life. Descent means shared ancestry, resulting in shared characteristics. Modification means accumulation of differences.
@@ -32,7 +32,7 @@ Begin with an ancient common ancestor. Species accumulate differences from their
 - 22.3**Evolution is supported by an overwhelming amount of scientific evidence**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p540_2.png)
 
 
 Evolution is supported by scientific evidence from many disciplines **(BIG IDEAS 1, 2, 3, 4)**.
@@ -43,7 +43,7 @@ Evolution is supported by scientific evidence from many disciplines **(BIG IDEAS
 **Make a word cloud:** This chapter covers key topics related to evolution, such as descent with modification, heritable characteristics, natural selection, adaptation, convergent evolution, homology, and unity of life. Draw a “word cloud” of these terms: As you read the chapter, draw a line between terms that affect or relate to one another. Next to that line, briefly explain how those terms are connected.
 
 
-![An example of a word cloud has a circle around Term or concept. Lines labeled explain relationship connect from this circle to other circles with the words Term or concept.](../images/img_3.jpg)
+![An example of a word cloud has a circle around Term or concept. Lines labeled explain relationship connect from this circle to other circles with the words Term or concept.](../images/img_p540_3.jpeg)
 
 
 ## Get Ready for This Chapter

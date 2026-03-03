@@ -8,13 +8,13 @@
 # Chapter 43 Review
 
 
-![An immune cell engulfs a cluster of rod-shaped bacteria.](../images/img_0.jpg)
+![An immune cell engulfs a cluster of rod-shaped bacteria.](../images/img_p1106_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p1106_1.png)
 
 
 Consider an amoeba feeding upon microbes as the ancient precursor of the macrophages that are now part of the innate immune response. In this context, why would “nonself” recognition be an important characteristic of those early prototypic “macrophages”? **(BIG IDEAS 1 & 2)**
@@ -33,14 +33,14 @@ Consider an amoeba feeding upon microbes as the ancient precursor of the macroph
 - ******Adaptive immunity** relies on two types of ******lymphocytes:********B cells** and ******T cells**. Lymphocytes have cell-surface ******antigen receptors** for foreign molecules (******antigens**). All receptor proteins on a single B or T cell are the same, but there are millions of B and T cells in the body that differ in the foreign molecules that their receptors recognize. Upon infection, B and T cells specific for the pathogen are activated. Some T cells help other lymphocytes; others kill infected host cells. B cells called **plasma cells** produce soluble proteins called **antibodies**, which bind to foreign molecules and cells. B and T **memory cells** defend against future infections by the same pathogen.
 
 
-![A B cell is covered in antigen receptors that bind to an epitope on antigens of a pathogen.](../images/img_2.jpg)
+![A B cell is covered in antigen receptors that bind to an epitope on antigens of a pathogen.](../images/img_p1106_2.jpeg)
 
 
 - Recognition of foreign molecules by B cells and T cells involves the binding of variable regions of receptors to an **epitope**, a small region of an antigen. B cells and antibodies recognize epitopes on the surface of antigens circulating in the blood or lymph. T cells recognize protein epitopes in small antigen fragments (peptides) that are presented on the surface of host cells by ******major histocompatibility complex (MHC) molecules**. This interaction activates a T cell, enabling it to participate in adaptive immunity.
 - The four major characteristics of B and T cell development are the generation of cell diversity, self-tolerance, proliferation, and immunological memory. Proliferation and memory are both based on **clonal selection**, illustrated here for B cells:
 
 
-![Flow chart for clonal selection in B cells from stem cell to memory B and plasma cells.](../images/img_3.jpg)
+![Flow chart for clonal selection in B cells from stem cell to memory B and plasma cells.](../images/img_p1106_3.jpeg)
 
 
 Stem cell (through cell division and gene rearrangement) goes to cells with different antigen receptors on surface. Elimination of self-reactive B cells goes to fewer different cells that differ in antigen specificity. Only one of the cells diagrammed has an antigen receptor that binds an antigen present. That cell undergoes clonal selection, resulting in a formation of activated cell populations. The result is the formation of both memory B cells with receptors on the surface specific to the antigen present, and plasma cells that can secrete antibodies for the antigen present. Antibodies have specific receptors that can bind to the antigens on the surface of a pathogen.

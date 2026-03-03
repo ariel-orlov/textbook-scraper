@@ -8,13 +8,13 @@
 # Chapter 25 Review
 
 
-![An ancient whale skeleton is exposed in the Sahara Desert.](../images/img_0.jpg)
+![An ancient whale skeleton is exposed in the Sahara Desert.](../images/img_p633_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p633_1.png)
 
 
 How does one evaluate evidence from fossils, morphological differences, and/or biochemical differences to determine an evolutionary connection between organisms that span time and space? **(BIG IDEA 1)**
@@ -41,7 +41,7 @@ How does one evaluate evidence from fossils, morphological differences, and/or b
 ### Concept 25.3: Key events in life’s history include the origins of unicellular and multicellular organisms and the colonization of land
 
 
-![A timeline outlines key events in the history of life from 4000 million years ago to present with increments every 500 million years.](../images/img_2.jpg)
+![A timeline outlines key events in the history of life from 4000 million years ago to present with increments every 500 million years.](../images/img_p633_2.jpeg)
 
 
 Events are as follows:

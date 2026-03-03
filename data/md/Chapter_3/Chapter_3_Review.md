@@ -8,13 +8,13 @@
 # Chapter 3 Review
 
 
-![A ringed seal floats on ice.](../images/img_0.jpg)
+![A ringed seal floats on ice.](../images/img_p76_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p76_1.png)
 
 
 How do the polar covalent bonds that form between oxygen and hydrogen atoms in a water molecule contribute to all the different emergent properties of water upon which living systems depend? **(BIG IDEA 2)**
@@ -25,7 +25,7 @@ How do the polar covalent bonds that form between oxygen and hydrogen atoms in a
 - Water is a **polar molecule**. A hydrogen bond forms when a partially negatively charged region on the oxygen of one water molecule is attracted to the partially positively charged hydrogen of a nearby water molecule. Hydrogen bonding between water molecules is the basis for water’s properties.
 
 
-![Hydrogen bonds between water molecules.](../images/img_2.jpg)
+![Hydrogen bonds between water molecules.](../images/img_p76_2.jpeg)
 
 
 Hydrogen bonds between water molecules. The charge regions in a water molecule are due to its polar covalent bonds. Oppositely charged regions of neighboring water molecules are attracted to each other, forming hydrogen bonds. Each molecule can hydrogen-bond to a maximum of four other water molecules, and these associations are constantly changing.
@@ -50,7 +50,7 @@ Hydrogen bonds between water molecules. The charge regions in a water molecule a
 - The concentration of H+ is expressed as ****pH; pH=−log [H+]. A **buffer** consists of an acid-base pair that combines reversibly with hydrogen ions, allowing it to resist pH changes.
 
 
-![p H Scale from 0 to 14. 7 to 0 is Acidic (H plus is greater than O H minus), 7 is neutral, 7 to 14 is basic (H plus is less than O H minus).](../images/img_3.jpg)
+![p H Scale from 0 to 14. 7 to 0 is Acidic (H plus is greater than O H minus), 7 is neutral, 7 to 14 is basic (H plus is less than O H minus).](../images/img_p76_3.jpeg)
 
 
 p H Scale from 0 to 14. 7 to 0 is Acidic (H plus is greater than O H minus), 7 is neutral (H plus = O H minus), 7 to 14 is basic (H plus is less than O H minus). Acids donate H plus in aqueous solutions. Bases donate O H minus or accept H plus in aqueous solutions.

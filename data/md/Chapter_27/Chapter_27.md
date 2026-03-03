@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 659 -->
-![Photograph of a very pink lake against a crusty white shore.](../images/img_0.jpg)
+![Photograph of a very pink lake against a crusty white shore.](../images/img_p659_0.jpeg)
 
 
 # **Chapter 27**
@@ -19,7 +19,7 @@
 The pink color of this lake in Spain is a sign that its waters are much saltier than seawater. Its color is caused not by minerals or other nonliving sources, but by trillions of prokaryotes that thrive in salinities that kill other cells. Other prokaryotes live in environments that are far too cold or hot or acidic for most other organisms.
 
 
-![What characteristics enable prokaryotes to reach huge population sizes and thrive in diverse environments?](../images/img_1.jpg)
+![What characteristics enable prokaryotes to reach huge population sizes and thrive in diverse environments?](../images/img_p659_1.jpeg)
 
 
 Due to the organisms’ small size and rapid reproduction, prokaryotic populations can reach enormous numbers. Because prokaryotic populations are so large, mutations produce high genetic diversity, enabling rapid evolution. Their diverse adaptations enable prokaryotes to live in a wide range of environments. Rapid evolution in prokaryotic populations results in diverse metabolic and structural adaptations. Here, an endospore (a resistant cell that can enable a bacterium to survive harsh conditions) is surrounded by a protective coat.
@@ -35,7 +35,7 @@ Due to the organisms’ small size and rapid reproduction, prokaryotic populatio
 - 27.6**Prokaryotes have both beneficial and harmful impacts on humans**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p659_2.png)
 
 
 Evidence supports the evolution of complex structures and processes in prokaryotes **(BIG IDEA 1)** that use energy to support growth, reproduction, and dynamic homeostasis **(BIG IDEA 2)**. Having evolved through rapid genetic change **(BIG IDEA 3)**, diverse forms of prokaryotes interact with other organisms and play crucial roles in the biosphere **(BIG IDEA 4)**.
@@ -46,7 +46,7 @@ Evidence supports the evolution of complex structures and processes in prokaryot
 **Make a table:** As you read the chapter, identify examples of challenging environments in which prokaryotes thrive. List the structural, metabolic, or other features of prokaryotes that contribute to their success in each of these environments.
 
 
-![A partially filled table lists environmental challenges and prokaryotic features enabling success.](../images/img_3.jpg)
+![A partially filled table lists environmental challenges and prokaryotic features enabling success.](../images/img_p659_3.jpeg)
 
 
 The table is as follows:
@@ -150,7 +150,7 @@ That's incorrect. Try again.
 **Incorrect.** Review the following material: If crossing over occurs between these loci, a portion of the chromosome containing the  B allele will be exchanged with the corresponding portion of the chromosome containing the  b allele.
 
 
-![Series of nested horizontal forked branches leading to organisms; from the top the branch endpoints are Geckos, Snakes, Iguanas, Monitor lizards, and Glass lizards.](../images/img_4.jpg)
+![Series of nested horizontal forked branches leading to organisms; from the top the branch endpoints are Geckos, Snakes, Iguanas, Monitor lizards, and Glass lizards.](../images/img_p659_4.png)
 
 
 Diagram showing a series of horizontal forked branches. The leftmost end point is labeled Ancestral lizard (with limbs). Reading left to right, the first branch point forks into a horizontal line leading to Geckos and another horizontal line, which branches again. This second branch point forks into a horizontal line leading to Snakes and another horizontal line, which branches again. This third branch point forks into a horizontal line leading to Iguanas and another horizontal line, which branches again. This fourth branch point forks into a horizontal line leading to Monitor lizards and another horizontal line, which branches again. This fifth branch point forks into a horizontal line leading to Glass lizards.

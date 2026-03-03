@@ -8,13 +8,13 @@
 # Chapter 12 Review
 
 
-![A visualization of cell division.](../images/img_0.jpg)
+![A visualization of cell division.](../images/img_p303_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p303_1.png)
 
 
 Cells undergoing mitosis in a eukaryote go through a highly conserved and controlled process. There are three major checkpoints in the control system, found in G1, G2, and M phases in a normal cell cycle. However, there are cancer cells that do not follow the same controls. What is out of control in cancer cells? **(BIG IDEA 3)**
@@ -34,7 +34,7 @@ Cells undergoing mitosis in a eukaryote go through a highly conserved and contro
 - Between divisions, a cell is in **interphase**: the G1, **S**, and G2 phases. The cell grows throughout interphase, with DNA being replicated during the synthesis (S) phase. Mitosis and cytokinesis make up the **mitotic (M) phase** of the cell cycle.
 
 
-![Clock diagram of the cell cycle with arrow coming out of M phase and flowing to cells in each phase of mitosis.](../images/img_2.jpg)
+![Clock diagram of the cell cycle with arrow coming out of M phase and flowing to cells in each phase of mitosis.](../images/img_p303_2.jpeg)
 
 
 Cell cycle diagram consists of interphase, which is divided into G 1, S, and G 2 phases. G 2 is followed by the M phase and cytokinesis. M is divided into Prophase (chromosomes condense, the spindle is forming) which flows to Prometaphase (chromosomes attaching to spindle fibers and moving towards metaphase plate) which flows to Metaphase (chromosomes lined up at metaphase plate with spindle fibers attached) which flows to anaphase (sister chromatids pulled apart by spindle fibers) which flows to telophase and cytokinesis (two distinct daughter nuclei have formed with a cleavage furrow between what will become the new daughter cells).

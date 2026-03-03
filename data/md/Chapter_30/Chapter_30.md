@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 728 -->
-![Fireweed (Chamerion angustifolium) on Mount St. Helens.](../images/img_0.jpg)
+![Fireweed (Chamerion angustifolium) on Mount St. Helens.](../images/img_p728_0.jpeg)
 
 
 # **Chapter ﻿30**
@@ -13,7 +13,7 @@
 # Plant Diversity II: The Evolution of Seed Plants
 
 
-![Fireweed seed.](../images/img_1.jpg)
+![Fireweed seed.](../images/img_p728_1.jpeg)
 
 
 #### Figure 30.1
@@ -22,7 +22,7 @@
 In 1980, Mount St. Helens in Washington state erupted, leaving the region covered in ash and devoid of visible life. Just a few years later, seed plants such as fireweed (*Chamerion angustifolium*) had already colonized the barren landscape—an example of seed plants’ versatility and success as the dominant producers on land.
 
 
-![What adaptations have enabled seed plants to make up the vast majority of plant biodiversity?](../images/img_2.jpg)
+![What adaptations have enabled seed plants to make up the vast majority of plant biodiversity?](../images/img_p728_2.jpeg)
 
 
 Reduced male and female gametophytes develop within parental sporophytes, protected from environmental stresses. In gymnosperms, the gametophytes develop within cones. In angiosperms, the gametophytes develop within flowers. Pollen protects male gametophytes (which produce sperm) and can be transported by wind or animals. Ovules protect female gametophytes (which produce eggs). An ovule fertilized by pollen develops into a seed.
@@ -36,7 +36,7 @@ Reduced male and female gametophytes develop within parental sporophytes, protec
 - ******30.4****Human welfare depends on seed plants******
 
 
-![Advanced placement edition](../images/img_3.jpg)
+![Advanced placement edition](../images/img_p728_3.png)
 
 
 Flowering plants regulate the development of pollen and seeds, responding to environmental conditions such as water availability and temperature **(BIG IDEA 2)** in ways that optimize the survival of the next generation **(BIG IDEA 4)**.
@@ -47,7 +47,7 @@ Flowering plants regulate the development of pollen and seeds, responding to env
 **Make flowcharts:** Make simple flowcharts showing the main events in the life cycles of a pine and flowering plant. The example shown is the beginning of a flowchart summarizing the pine life cycle.
 
 
-![A flow chart. Main events in pine life cycle. First. Pollen grain is released from a pollen cone. Second. Pollen grain reaches an ovule and forms a pollen tube.](../images/img_4.jpg)
+![A flow chart. Main events in pine life cycle. First. Pollen grain is released from a pollen cone. Second. Pollen grain reaches an ovule and forms a pollen tube.](../images/img_p728_4.jpeg)
 
 
 Fireweed and other early arrivals reached the blast zone in Figure 30.1 as seeds. A **seed** consists of an embryo and its food supply, surrounded by a protective coat. When mature, seeds are dispersed from their parent by wind or other means, enabling them to colonize distant locations.

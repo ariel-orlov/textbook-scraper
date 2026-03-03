@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 91 -->
-![Model of protein shows a large and complex three-dimensional structure with variation in different regions of the molecule.](../images/img_0.jpg)
+![Model of protein shows a large and complex three-dimensional structure with variation in different regions of the molecule.](../images/img_p91_0.jpeg)
 
 
 # **Chapter ﻿5**
@@ -19,7 +19,7 @@
 Alcohol dehydrogenase, a protein that breaks down alcohol in the body, is shown here as a molecular model. The form of this protein that an individual possesses affects how well that person tolerates drinking alcohol. Proteins are one class of large molecules, or macromolecules.
 
 
-![What are the structures and functions of the four important classes of biological molecules?](../images/img_1.jpg)
+![What are the structures and functions of the four important classes of biological molecules?](../images/img_p91_1.jpeg)
 
 
 Three classes are macromolecules that are polymers (long chains of monomer subunits). This is denoted by circles linked with lines to form a long chain, with one circle labeled monomer.
@@ -47,7 +47,7 @@ The fourth class, lipids, are not polymers or macromolecules. Lipids are a group
 - ******5.6********Genomics and proteomics have transformed biological inquiry and applications******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p91_2.png)
 
 
 All life-forms on Earth share biochemical similarities **(BIG IDEA 1)** that include large, complex molecules synthesized from common building blocks **(BIG IDEA 4).**
@@ -58,7 +58,7 @@ All life-forms on Earth share biochemical similarities **(BIG IDEA 1)** that inc
 **Make a visual study guide:** For each class of biological molecules, draw two examples and list their structural similarities and their functions.
 
 
-![Important biological molecules include carbohydrates, proteins, nucleic acids, and lipids.](../images/img_3.jpg)
+![Important biological molecules include carbohydrates, proteins, nucleic acids, and lipids.](../images/img_p91_3.jpeg)
 
 
 ## Get Ready for This Chapter
@@ -72,7 +72,7 @@ In this chapter, you will learn about the structures and functions of the four c
 The following questions provide a quick check of your basic knowledge in these areas.
 
 
-![Figure showing carbon B with a single line connected to another C and a double line connected to a different C.](../images/img_4.jpg)
+![Figure showing carbon B with a single line connected to another C and a double line connected to a different C.](../images/img_p91_4.png)
 
 
 1. How many hydrogen atoms can be attached to carbon  B?
@@ -114,7 +114,7 @@ That's incorrect. Try again.
 **Incorrect.** Review the following material: Each carbon atom can form four bonds. A double bond counts as two bonds, so carbon  B has a total of three bonds so far, and it can form one more single bond with a hydrogen atom.
 
 
-![A. -OH, B. C with a double bond to O and a single bond to OH, C. -NH2, D. -SH](../images/img_5.jpg)
+![A. -OH, B. C with a double bond to O and a single bond to OH, C. -NH2, D. -SH](../images/img_p91_5.png)
 
 
 2. Which functional group(s) is (are) present in all amino acids?

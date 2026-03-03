@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 560 -->
-![A finch.](../images/img_0.jpg)
+![A finch.](../images/img_p560_0.jpeg)
 
 
 # **Chapter 23**
@@ -19,7 +19,7 @@
 The medium ground finch (*Geospiza fortis*) is a seed-eating bird that inhabits the Galápagos Islands. In 1977, the *G. fortis* population on the island of Daphne Major was decimated by a long period of drought: Of some  1,200 birds, only  180 survived. The surviving birds had larger, deeper beaks, indicating that this population of finches had evolved.
 
 
-![What mechanisms can cause the evolution of populations?](../images/img_1.jpg)
+![What mechanisms can cause the evolution of populations?](../images/img_p560_1.jpeg)
 
 
 Evolution occurs when natural selection, genetic drift, or gene flow alter the allele frequencies of a population over time. Genetic variation results in color variation in a hypothetical beetle population. Three mechanisms are given.
@@ -38,7 +38,7 @@ Evolution occurs when natural selection, genetic drift, or gene flow alter the a
 - 23.4﻿**Natural selection is the only mechanism that consistently causes adaptive evolution**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p560_2.png)
 
 
 Genetic variation within a population makes natural selection and evolution possible. Mathematics can be used to calculate changes **(BIG IDEA 1)** and the distribution of genes or alleles **(BIG IDEA 3)** within a population.
@@ -49,7 +49,7 @@ Genetic variation within a population makes natural selection and evolution poss
 **Make a table:** This chapter discusses different types of selection—disruptive, stabilizing, sexual, balancing, frequency-dependent, and heterozygote advantage. These types of selection are not all mutually exclusive, and some evolutionary changes are examples of more than one. To help you study, make a table like the one shown listing each type of selection, its distinguishing features, and example(s) from the chapter.
 
 
-![The table illustrates the type of selection, its distinguishing features, and example(s)](../images/img_3.jpg)
+![The table illustrates the type of selection, its distinguishing features, and example(s)](../images/img_p560_3.jpeg)
 
 
 The table is as follows:
@@ -74,7 +74,7 @@ Since beak depth is an inherited trait in these birds, the offspring of survivin
 Evidence of selection by food source.
 
 
-![Bar chart showing that the average beak depth (millimeters) for 1976 (similar to prior 3 years) is 8.9 and for 1978 (after drought) it is 9.7.](../images/img_4.jpg)
+![Bar chart showing that the average beak depth (millimeters) for 1976 (similar to prior 3 years) is 8.9 and for 1978 (after drought) it is 9.7.](../images/img_p560_4.jpeg)
 
 *The data represent adult beak depths of finches hatched before and after the 1977 drought. In one generation, natural selection resulted in a larger average beak size in the population.*
 
@@ -89,7 +89,7 @@ Focusing on evolutionary change in populations, we can define evolution on its s
 **Interview with Rosemary and Peter Grant: Studying evolution in the Galápagos finches******
 
 
-![A photograph of Rosemary and Perter Grant, evolutionary biologists studying Darwin's finches.](../images/img_5.jpg)
+![A photograph of Rosemary and Perter Grant, evolutionary biologists studying Darwin's finches.](../images/img_p560_5.jpeg)
 
 
 ## Get Ready for This Chapter

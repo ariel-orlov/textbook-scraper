@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 1019 -->
-![A herring gull eats a starfish.](../images/img_0.jpg)
+![A herring gull eats a starfish.](../images/img_p1019_0.jpeg)
 
 
 # **Chapter 41**
@@ -19,7 +19,7 @@
 ‍For this herring gull, dinnertime has arrived. Once this meal has been taken in, the tissues of the sea star will be taken apart and its nutrients taken up. Paradoxically, the classes of nutrients in the sea star—largely proteins, fats, and carbohydrates—also make up the tissues of the gull.
 
 
-![How can animals extract the nutrients they need from food while not digesting their own tissues?](../images/img_1.jpg)
+![How can animals extract the nutrients they need from food while not digesting their own tissues?](../images/img_p1019_1.jpeg)
 
 
 An animal digests food using compartmentalized processing in a tube-like system. The compartmentalized processing protects body tissues while allowing enzymes and acids to break down nutrients. Food goes into the system and secretions that promote digestion, especially enzymes break it down. Nutrients are transported through epithelial cells from the lumen and absorbed into the bloodstream. Digestive secretions catalyze breakdown of food and release of nutrients. Protective secretions help separate body cells from digestive activity. Waste goes out the end of the tube.
@@ -34,7 +34,7 @@ An animal digests food using compartmentalized processing in a tube-like system.
 - ******41.5********Feedback circuits regulate digestion, energy storage, and appetite******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p1019_2.png)
 
 
 Cooperative interactions within the cells and systems of animals promote efficient use and exchange of energy and matter with the environment **(BIG IDEA 4)**, which all organisms need in order to grow, reproduce, and maintain organization **(BIG IDEA 2)**.
@@ -45,7 +45,7 @@ Cooperative interactions within the cells and systems of animals promote efficie
 **Make a flowchart:** Digestion occurs stepwise in the human alimentary canal. As you study the molecular details, keep track of the overall process by adding to this start of a flowchart listing the overall effect and location of each step.
 
 
-![A flow chart of digestion.](../images/img_3.jpg)
+![A flow chart of digestion.](../images/img_p1019_3.jpeg)
 
 
 The steps are as follows.

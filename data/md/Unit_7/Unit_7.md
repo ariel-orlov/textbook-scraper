@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 994 -->
-![image](../images/img_0.jpg)
+![image](../images/img_p994_0.png)
 
 
 # **Unit 7**
@@ -16,7 +16,7 @@
 ## Steffanie Strathdee
 
 
-![Steffanie Strathdee.](../images/img_1.jpg)
+![Steffanie Strathdee.](../images/img_p994_1.jpeg)
 
 
 **Meet the “phage wrangler,” Steffanie Strathdee,** Professor of Medicine in the Division of Infectious Diseases and Global Public Health at the University of California, San Diego. Born in Canada, she completed her M.Sc. and Ph.D. degrees in epidemiology at the University of Toronto. Since joining the faculty at UC San Diego in 2004, she has focused on HIV research and prevention in the underserved populations of Tijuana, just across the Mexican border. In 2017, extreme personal circumstances prompted a radical shift in her research, as detailed in *The Perfect Predator: A Scientist’s Race to Save Her Husband from a Deadly Superbug*, a book co-authored by Dr. Strathdee and her husband. In 2018, Dr. Strathdee became co-director of the newly established Center for Innovative Phage Applications and Therapeutics at UC San Diego.
@@ -40,7 +40,7 @@ My husband became ill with a superbug infection—an infection caused by a bacte
 My husband and I were in Egypt, and he became very ill. The doctor gave him IV antibiotics and said, “He’ll be fine,” but he wasn’t. It turned out that a gallstone had blocked his bile duct, causing an abscess (cavity) to form, and a superbug moved into that abscess and multiplied. Tom’s particular bacterium had 51 different antibiotic-resistance genes. It was winning its battle against the immune system, none of the standard antibiotic treatments were working, and my husband was dying. I did a literature search and found a hundred-year-old, forgotten cure based on bacteriophages. These viruses, called phages for short, attack bacteria, but not human cells. Each phage is specific for a particular bacterium. Phages inject their DNA into bacteria, turning them into phage factories and killing the bacteria in the process. I emailed Tom’s doctor, who is a colleague of Tom’s and mine, and he thought the idea was worth a shot. So, I had to go out and find people who had phages that were active against Tom’s bacterium, and that felt harder than looking for a needle in a haystack. Luckily, labs at the Naval Medical Research Center in Maryland and at Texas A&M University dedicated themselves to the search and found phages that matched. The phages were grown, purified, and injected into Tom’s body, a billion phages per dose. Three days later, Tom woke up from his coma.
 
 
-![Doctor Steffanie Strathdee and Doctor Tom Patterson hold up a micrograph and artists rendition of a virus and a bacteriophage.](../images/img_2.jpg)
+![Doctor Steffanie Strathdee and Doctor Tom Patterson hold up a micrograph and artists rendition of a virus and a bacteriophage.](../images/img_p994_2.jpeg)
 
 *Dr. Steffanie Strathdee’s husband, Dr. Tom Patterson, holding an electron micrograph of his superbug (left), and Dr. Strathdee, with an artist’s rendition of the bacteriophage that defeated it (right).*
 

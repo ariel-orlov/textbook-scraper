@@ -8,13 +8,13 @@
 # Chapter 2 Review
 
 
-![Wood ants shoot chemicals at their enemies.](../images/img_0.jpg)
+![Wood ants shoot chemicals at their enemies.](../images/img_p63_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p63_1.png)
 
 
 What are the characteristics of the chemical elements common to the molecular building blocks that are needed to capture and store energy in biological systems? **(BIG IDEAS 2)**
@@ -31,7 +31,7 @@ What are the characteristics of the chemical elements common to the molecular bu
 - An **atom**, the smallest unit of an element, has the following components:
 
 
-![An atom is diagrammed.](../images/img_2.jpg)
+![An atom is diagrammed.](../images/img_p63_2.jpeg)
 
 
 An atom is shown with a nucleus including protons (positive charge) which determine element and neutrons (negative charge) which determine isotope. Electrons (negative charge) form negative cloud and determine chemical behavior.
@@ -50,7 +50,7 @@ An atom is shown with a nucleus including protons (positive charge) which determ
  form when atoms interact and complete their valence shells. ******Covalent bonds** form when pairs of electrons are shared:
 
 
-![Two reactions are given.](../images/img_3.jpg)
+![Two reactions are given.](../images/img_p63_3.jpeg)
 
 
  - Part a. Single covalent bond: Two hydrogen atoms, each with a single electron in the outer shell, form a single covalent bond, sharing their one pair of electrons.
@@ -62,7 +62,7 @@ An atom is shown with a nucleus including protons (positive charge) which determ
  is the attraction between two oppositely charged ions:
 
 
-![The lone valence electron of a sodium atom is transferred to join the 7 valence electrons in the third shell of a chlorine atom to form Sodium chloride (N a C l).](../images/img_4.jpg)
+![The lone valence electron of a sodium atom is transferred to join the 7 valence electrons in the third shell of a chlorine atom to form Sodium chloride (N a C l).](../images/img_p63_4.jpeg)
 
 
 The lone valence electron of a sodium atom with one electron in the third shell, eight electrons in the second shell, and two electrons in the first shell, is transferred to join the 7 valence electrons in the third shell of a chlorine atom to form Sodium chloride (N a C l). Each resulting ion has a completed valence shell. An ionic bond can form between the oppositely charged ions. N a plus has eight electrons in the second shell and two electrons in the first shell. C l minus has 8 electrons in the third shell, eight electrons in the second shell, and two electrons in the first shell.

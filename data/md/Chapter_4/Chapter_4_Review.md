@@ -8,13 +8,13 @@
 # Chapter 4 Review
 
 
-![A mother primate and her offspring.](../images/img_0.jpg)
+![A mother primate and her offspring.](../images/img_p89_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p89_1.png)
 
 
 Of all the elements in the periodic table, why is carbon central to all forms of life? **(BIG IDEA 2)**
@@ -41,7 +41,7 @@ Of all the elements in the periodic table, why is carbon central to all forms of
 - **ATP (adenosine triphosphate)** consists of adenosine attached to three phosphate groups. ATP can react with water or other molecules, forming ADP (adenosine diphosphate) and inorganic phosphate. This reaction releases energy that can be used by the cell.
 
 
-![A T P reacts with water to produce inorganic phosphate, A D P and energy.](../images/img_2.jpg)
+![A T P reacts with water to produce inorganic phosphate, A D P and energy.](../images/img_p89_2.jpeg)
 
 
 The reactant A T P (an adenosine attached to 3 P’s representing phosphate groups) reacts with water, producing P sub i (inorganic phosphate), A D P (adenosine attached to 2 P’s) and energy.

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 867 -->
-![image](../images/img_0.jpg)
+![image](../images/img_p867_0.png)
 
 
 # **Unit 6**
@@ -16,7 +16,7 @@
 ## Dennis Gonsalves
 
 
-![Dennis Gonsalves.](../images/img_1.jpg)
+![Dennis Gonsalves.](../images/img_p867_1.jpeg)
 
 
 **Meet the man who saved the papaya industry in Hawaii, Dennis Gonsalves.** Dr. Gonsalves received a B.S. in Horticulture and a M.S. in Plant Pathology from the University of Hawaii, Manoa, and a Ph.D. in Plant Pathology from the University of California, Davis. He became an Associate Professor of plant pathology at the University of Florida and later a Liberty Hyde Bailey Professor at Cornell University. He and his colleagues created virus-resistant papaya plants that rescued the papaya-growing industry in Hawaii from the devastating effects of the ringspot virus. He then served as the Director of the Agricultural Research Center in Hilo, Hawaii, until he retired in 2012. He received the Humboldt Prize for renowned scientific research in 1992 and the Lee Hutchison Award for accomplishments in research, mentoring, and outreach to developing countries.
@@ -36,13 +36,13 @@ I went to UC Davis for my Ph.D. I understood the material. I could do the resear
 The virus produces a ring spot on the fruit, but more importantly, the leaves turn yellow, the growth gets stunted, and often the plant won’t produce fruit. It is rapidly transmitted by aphids, small sap-sucking insects. An aphid can land on an infected papaya, feed for less than a minute, then jump to a healthy papaya plant and infect it. In 1978, I returned to Hawaii for a short vacation and I met a colleague who told me, “Dennis, there is this virus disease on the Big Island where they grow 95% of the papaya, and it’s close to the papaya-growing areas. People are trying to prevent it from spreading.” So, when I returned to Cornell, I tried to figure out how to control the papaya ringspot virus.
 
 
-![A photograph of a papaya tree infected with the ringspot virus. The tree has yellow leaves, is stunted, and bears fewer fruits.](../images/img_2.jpg)
+![A photograph of a papaya tree infected with the ringspot virus. The tree has yellow leaves, is stunted, and bears fewer fruits.](../images/img_p867_2.jpeg)
 
 
-![A photograph of a virus-infected papaya fruit with numerous ring spots.](../images/img_3.jpg)
+![A photograph of a virus-infected papaya fruit with numerous ring spots.](../images/img_p867_3.jpeg)
 
 
-![A papaya tree bearing healthy fruit.](../images/img_4.jpg)
+![A papaya tree bearing healthy fruit.](../images/img_p867_4.jpeg)
 
 *Top: A papaya tree infected with ringspot virus. Inset: An infected papaya fruit. Bottom: A “Rainbow” papaya tree that is resistant to ringspot virus.*
 

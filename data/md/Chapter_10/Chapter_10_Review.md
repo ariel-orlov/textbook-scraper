@@ -8,13 +8,13 @@
 # Chapter 10 Review
 
 
-![Sunlight shines through a tree canopy, as seen from below.](../images/img_0.jpg)
+![Sunlight shines through a tree canopy, as seen from below.](../images/img_p258_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p258_1.png)
 
 
 Photosynthetic pigments alone cannot capture and store the energy in light. What evidence do you need to justify that claim? Could you design an experiment to prove the claim? **(BIG IDEA 2)**
@@ -43,7 +43,7 @@ Photosynthetic pigments alone cannot capture and store the energy in light. What
 - **Linear electron flow** during the light reactions uses both photosystems and produces NADPH, ATP, and oxygen:
 
 
-![How linear electron flow during the light reactions generates A T P and N A D P H.](../images/img_2.jpg)
+![How linear electron flow during the light reactions generates A T P and N A D P H.](../images/img_p258_2.jpeg)
 
 
 A photon of light strikes one of the pigment molecules in a light-harvesting complex of P S 2, boosting one of its electrons of a higher energy level. A primary electron acceptor relays the electron through the electron transport chain, which gives off A T P. This chain leads to P S 1, hitting P 700. More light hits pigment molecules in this system, which also leads to P 700. This excites an electron to a primary electron acceptor, which then relays it into another part of the electron transport chain where N A D P plus reductase releases N A D P H.
@@ -60,7 +60,7 @@ A photon of light strikes one of the pigment molecules in a light-harvesting com
 - One molecule of G3P exits the cycle per three CO2 molecules fixed and is converted to glucose and other organic molecules.
 
 
-![Sketch of the Calvin Cycle showing the changes in carbon molecules.](../images/img_3.jpg)
+![Sketch of the Calvin Cycle showing the changes in carbon molecules.](../images/img_p258_3.jpeg)
 
 
 3 carbon dioxide molecules enter the Calvin Cycle, they go through the process of carbon fixation to form 6 X 3 carbon molecules. After reduction, 1 G 3 P exits the cycle (taking with it 3 carbon molecules) leaving 5 X 3 carbon molecules. After regeneration of the carbon dioxide acceptor, there are 3 X 5 carbon molecules and this concludes the cycle.

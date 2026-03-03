@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 120 -->
-![image](../images/img_0.jpg)
+![image](../images/img_p120_0.png)
 
 
 # **Unit 2**
@@ -16,7 +16,7 @@
 ## Dr. Diana Bautista
 
 
-![Diana Bautista.](../images/img_1.jpg)
+![Diana Bautista.](../images/img_p120_1.jpeg)
 
 
 **Dr. Diana Bautista** is an Associate Professor of Molecular and Cell Biology at the University of California, Berkeley, and a Howard Hughes Medical Institute Faculty Scholar. Recipient of the Gill Transformative Investigator Award and the Society for Neuroscience Young Investigator Award, she received a B.S. in Biology from the University of Oregon and a Ph.D. in Neuroscience from Stanford University. Dr. Bautista grew up in Chicago, the first in her family to attend college and to pursue a career in science. She and her laboratory members investigate the cell-signaling pathways associated with pain and itch and how their misregulation can result in chronic pain and chronic itch. Her research is interdisciplinary: Dr. Bautista collaborates with computational biologists, immunologists, and physiologists. She believes that science benefits most from a diverse group of colleagues, each bringing a different perspective.
@@ -36,7 +36,7 @@ After my Ph.D., I wanted to continue working on cell signaling but from a more o
 We are interested in the sense of touch. Touch-sensitive neurons innervate the skin and mediate gentle touch sensations and texture preferences: Do you like wool sweaters, or do you find them itchy? Touch-sensitive neurons also innervate our musculature, allowing us to detect limb position and mediating coordinated movements, such as our ability to text or to walk in a straight line without staring at our feet. In someone suffering from chronic pain, a gentle touch feels incredibly painful, while a chronic itch sufferer experiences light touch as itchy and pain as pleasure. When you scratch an itch, you’re scratching really hard—if you didn’t have an itch it would hurt, but when you do have an itch it feels good. We have no idea how our body processes the same type of stimulus under different injury or disease conditions, and that’s what really excited me when I started my own lab.
 
 
-![Diana Bautista works with electronic equipment.](../images/img_2.jpg)
+![Diana Bautista works with electronic equipment.](../images/img_p120_2.jpeg)
 
 *Dr. Bautista studies cell responses to stimuli using equipment that measures electrical signals.*
 

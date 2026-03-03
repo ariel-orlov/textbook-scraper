@@ -8,13 +8,13 @@
 # Chapter 18 Review
 
 
-![Anableps anableps with head raised so that eyes are half out of the water and half under water.](../images/img_0.jpg)
+![Anableps anableps with head raised so that eyes are half out of the water and half under water.](../images/img_p454_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p454_1.png)
 
 
 *In situ* hybridization using fluorescent tags shows that certain probes built from *Drosophila* genes label not only specific locations within *Drosophila* embryos, but also similar locations in the embryos of many species of arthropods. Explain this result. **(BIG IDEA 1)**
@@ -25,7 +25,7 @@
 - Cells control metabolism by regulating enzyme activity or the expression of genes coding for enzymes. In bacteria, genes are often clustered into **operons**, with one promoter serving several adjacent genes. An ******operator****** site on the DNA switches the operon on or off, resulting in coordinate regulation of the genes.
 
 
-![Operon diagrammed, with promoter, operator, genes, m R N A transcript and resulting polypeptides shown.](../images/img_2.jpg)
+![Operon diagrammed, with promoter, operator, genes, m R N A transcript and resulting polypeptides shown.](../images/img_p454_2.jpeg)
 
 
 Operon diagrammed left to right: D N A with promoter with R N A polymerase bound; followed by operator, genes (A, B, C) being transcribed into continuous m R N A transcript. Transcript has start and stop codons for each gene. Polypeptides A, B and C are translated from the m R N A transcript for each gene.
@@ -34,7 +34,7 @@ Operon diagrammed left to right: D N A with promoter with R N A polymerase bound
 - Both repressible and inducible operons are examples of negative gene regulation. In either type of operon, binding of a specific ******repressor** protein to the operator shuts off transcription. (The repressor is encoded by a separate **regulatory gene**.) In a repressible operon (usually encoding anabolic enzymes), the repressor is active when bound to a **corepressor**, often the end product of the pathway.
 
 
-![Repressible operon diagrammed.](../images/img_3.jpg)
+![Repressible operon diagrammed.](../images/img_p454_3.jpeg)
 
 
 Part a. R N A polymerase bound at promoter. Repressor molecule is inactive and does not bind to operator (just downstream of promoter). Genes (downstream of operator) are expressed.
@@ -47,7 +47,7 @@ Part b. Genes not expressed. Active repressor with bound corepressors; binds to 
  to an innately active repressor inactivates the repressor and turns on transcription.
 
 
-![Inducible operon.](../images/img_4.jpg)
+![Inducible operon.](../images/img_p454_4.jpeg)
 
 
 Part a. Genes not expressed. Repressor active; no inducer present. Binds to operator (downstream of promoter); R N A polymerase can not bind; genes not expressed.
@@ -65,7 +65,7 @@ Part b. Gene expressed. Inactive repressor with bound inducer. Does not bind to 
 ### Concept 18.2: Eukaryotic gene expression is regulated at many stages
 
 
-![Eukaryotic gene expression regulation at many stages: In nucleus: Chromatin modification, transcription, R N A processing. In cytoplasm: m R N A degradation, translation, protein processing and degradation.](../images/img_5.jpg)
+![Eukaryotic gene expression regulation at many stages: In nucleus: Chromatin modification, transcription, R N A processing. In cytoplasm: m R N A degradation, translation, protein processing and degradation.](../images/img_p454_5.jpeg)
 
 
 Eukaryotic gene expression regulation at many stages:
@@ -95,7 +95,7 @@ Eukaryotic gene expression regulation at many stages:
 ### Concept 18.3: Noncoding RNAs play multiple roles in controlling gene expression
 
 
-![Non-coding R N As play multiple roles in controlling gene expression: chromatin modification, m R N A degradation, and translation.](../images/img_6.jpg)
+![Non-coding R N As play multiple roles in controlling gene expression: chromatin modification, m R N A degradation, and translation.](../images/img_p454_6.jpeg)
 
 
 Non-coding R N As play multiple roles in controlling gene expression: chromatin modification, m R N A degradation, translation.
@@ -129,7 +129,7 @@ Non-coding R N As play multiple roles in controlling gene expression: chromatin 
 - Many proto-oncogenes and tumor-suppressor genes encode components of growth-stimulating and growth-inhibiting signaling pathways, respectively, and mutations in them can interfere with normal cell-signaling pathways. A hyperactive version of a protein in a stimulatory pathway, such as **Ras** (a G protein), functions as an oncogene protein. A defective version of a protein in an inhibitory pathway, such as p53 (a transcription activator), fails to act as a tumor suppressor.
 
 
-![Effects of mutations: cell cycle over stimulated or cell cycle not inhibited; both result in increased cell division.](../images/img_7.jpg)
+![Effects of mutations: cell cycle over stimulated or cell cycle not inhibited; both result in increased cell division.](../images/img_p454_7.jpeg)
 
 
 Effects of mutations: cell cycle over stimulated; protein overexpressed; leads to increased cell division (mass of cells). Or, if cell cycle not inhibited, inhibitor protein absent, and cell division increased (mass of cells).

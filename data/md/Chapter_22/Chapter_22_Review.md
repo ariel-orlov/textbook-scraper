@@ -8,13 +8,13 @@
 # Chapter 22 Review
 
 
-![A mantis blends in with a flower.](../images/img_0.jpg)
+![A mantis blends in with a flower.](../images/img_p557_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p557_1.png)
 
 
 Does evolution proceed in a one-way direction or is it reversible? Justify your claim. (**BIG IDEA 1)**
@@ -33,7 +33,7 @@ Does evolution proceed in a one-way direction or is it reversible? Justify your 
 - In *The Origin of Species*, Darwin proposed that over long periods of time, descent with modification produced the rich diversity of life through the mechanism of ******natural selection**.
 
 
-![Observations: individual heritable characteristics vary and organisms produce more offspring than the environment can support. Inferences: individuals well suited to their environment leave more offspring and favorable traits accumulate.](../images/img_2.jpg)
+![Observations: individual heritable characteristics vary and organisms produce more offspring than the environment can support. Inferences: individuals well suited to their environment leave more offspring and favorable traits accumulate.](../images/img_p557_2.jpeg)
 
 
 Flowchart showing observations. 1, individuals in a population vary in their heritable characteristics and 2, organisms produce more offspring than the environment can support. Inferences are, 1, individuals that are well suited to their environment tend to leave more offspring than other individuals, and 2, Over time, favorable traits accumulate in the population.

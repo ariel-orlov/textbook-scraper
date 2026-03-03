@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 746 -->
-![Small mushroom of genus Russula, with a short white stalk and bright red cap.](../images/img_0.jpg)
+![Small mushroom of genus Russula, with a short white stalk and bright red cap.](../images/img_p746_0.jpeg)
 
 
 # **Chapter 31**
@@ -19,7 +19,7 @@
 These little mushrooms are just the small aboveground extension of a vast network of filaments located below the forest floor. Such underground fungal networks, called mycelia, in some cases link mushrooms that are hundreds of meters apart. In fact, the largest known mycelium spreads beneath  965 hectares of forest—more than the area of  1,800 football fields.
 
 
-![How do structure and function in fungi related to their role in ecosystems?](../images/img_1.jpg)
+![How do structure and function in fungi related to their role in ecosystems?](../images/img_p746_1.jpeg)
 
 
 As they grow, multicellular fungi extend filaments called hyphae into their surroundings. Spores enable fungi to colonize new environments. The spores germinate and grow when conditions are favorable. Hyphae secrete enzymes that break down organic matter, releasing nutrients. Hyphae absorb the released nutrients. Almost any organic molecule can be digested by at least some fungi, making them highly effective decomposers in ecosystems.
@@ -34,7 +34,7 @@ As they grow, multicellular fungi extend filaments called hyphae into their surr
 - ******31.5********Fungi play key roles in nutrient cycling, ecological interactions, and human welfare******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p746_2.png)
 
 
 Molecular evidence indicates that fungi were among the earliest colonizers of land **(BIG IDEA 3)**, successfully using their large surface area to absorb water and nutrients **(BIG IDEA 2)**. They diverged from animals over 1 billion years ago **(BIG IDEA 1)** and play a critical role in the environment through mutualistic relationships and nutrient recycling **(BIG IDEA 4)**.
@@ -45,7 +45,7 @@ Molecular evidence indicates that fungi were among the earliest colonizers of la
 **Draw a diagram:** To help you recognize key differences between the life cycles of fungi and humans, draw and label simple diagrams like the partial example shown here depicting the life stages at which meiosis, mitosis, gamete formation, a multicellular organism, and fertilization occur in humans and in fungi.
 
 
-![Human life cycle.](../images/img_3.jpg)
+![Human life cycle.](../images/img_p746_3.jpeg)
 
 
 A diploid multicellular organism, depicted as a circle with 2 n and a stick figure of a human next to it. The 2 n organism undergoes meiosis and forms haploid gametes, n. One gamete, n, fuses with another gamete, n, and undergoes fertilization.

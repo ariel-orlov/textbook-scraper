@@ -8,13 +8,13 @@
 # Chapter 29 Review
 
 
-![Ferns cover a forest floor.](../images/img_0.jpg)
+![Ferns cover a forest floor.](../images/img_p726_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p726_1.png)
 
 
 As plants began to colonize land, how was the cycling of
@@ -28,7 +28,7 @@ As plants began to colonize land, how was the cycling of
 - Derived traits that distinguish plants from charophytes, their closest algal relatives, include ******cuticles**, ******stomata**, multicellular dependent embryos, walled spores produced in sporangia, and the two shown here:
 
 
-![Alternation of generations diagram and apical meristems.](../images/img_2.jpg)
+![Alternation of generations diagram and apical meristems.](../images/img_p726_2.jpeg)
 
 
 1. Alternation of generations diagram in which the gametophyte (n) produces haploid gametes by mitosis. Gamete (n) from another plant is introduced and the two gametes unite (fertilization) and form a diploid zygote. The zygote (2 n) develops into a multicellular diploid sporophyte by mitosis. The sporophyte produces unicellular haploid spores by meiosis. The spores (n) develop into multicellular haploid gametophytes and the cycle begins again.

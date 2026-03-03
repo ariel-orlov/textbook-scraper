@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 1110 -->
-![Albatrosses float in the sea.](../images/img_0.jpg)
+![Albatrosses float in the sea.](../images/img_p1110_0.jpeg)
 
 
 # **Chapter****44******
@@ -19,7 +19,7 @@
 At  3.5 m, the wingspan of a wandering albatross (*Diomedea exulans*) is the largest of any living bird. This massive bird remains at sea day and night throughout the year, returning to land only to reproduce. Despite drinking only seawater, the albatross keeps its body salts and water in balance.
 
 
-![How do animals regulate water and salt concentrations in their tissues?](../images/img_1.jpg)
+![How do animals regulate water and salt concentrations in their tissues?](../images/img_p1110_1.jpeg)
 
 
 Lacking a means to pump water across cell membranes, animals transport salts and thereby direct water movement into or out of cells by osmosis, in which water undergoes net diffusion from an area of higher free H 2 O concentration (lower solute concentration) to an area of lower free H 2 O concentration (higher solute concentration).
@@ -43,7 +43,7 @@ Cell shrivels: Cell is hypoosmotic to surroundings when net flow of water is out
 - 44.5**Hormonal circuits link kidney function, water balance, and blood pressure**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p1110_2.png)
 
 
 Organisms have various mechanisms for eliminating wastes and maintaining dynamic homeostasis **(BIG IDEA 2)** that are specialized for life in a particular environment and are more efficient with cooperative interactions **(BIG IDEA 4)**.
@@ -54,7 +54,7 @@ Organisms have various mechanisms for eliminating wastes and maintaining dynamic
 **Make a table:** As you read Concept 44.2, complete a table like the one shown to help organize information about the major forms of nitrogenous waste. In the first three rows, use the terms “high,” “medium,” or “low” to describe the relevant properties of these forms.
 
 
-![An unfilled table is given for waste attributes and waste products.](../images/img_3.jpg)
+![An unfilled table is given for waste attributes and waste products.](../images/img_p1110_3.jpeg)
 
 
 The table is as follows:

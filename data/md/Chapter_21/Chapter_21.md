@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 509 -->
-![An elephant shark (Callorhinchus milii) swims underwater.](../images/img_0.jpg)
+![An elephant shark (Callorhinchus milii) swims underwater.](../images/img_p509_0.jpeg)
 
 
 # **Chapter ﻿21**
@@ -19,7 +19,7 @@
 The elephant shark (*Callorhinchus milii*) looks vaguely prehistoric and has been called a “living fossil.” In fact, it has the slowest-evolving genome of any vertebrate sequenced so far. Comparing rates of genome change in different species provides insights into the evolutionary past.
 
 
-![What are some questions that can be explored by sequencing and comparing genomes?](../images/img_1.jpg)
+![What are some questions that can be explored by sequencing and comparing genomes?](../images/img_p509_1.jpeg)
 
 
 What are the functions of the human genome?
@@ -56,7 +56,7 @@ An elephant shark has a slower-evolving genome while a tiger tail seahorse has a
 - ******21.6********Comparing genome sequences provides clues to evolution and development******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p509_2.png)
 
 
 Using scientific evidence from different disciplines, humans have been able to sequence the genome of many species **(BIG IDEA 3)**, providing evidence of shared ancestry and evolution **(BIG IDEA 1)**.
@@ -67,7 +67,7 @@ Using scientific evidence from different disciplines, humans have been able to s
 **Write genomic analysis questions:** As you go through the chapter, make a table of genomic analyses that are discussed and write down some questions they can address. You can include questions not covered in the text.
 
 
-![A partially filled table lists genomic projects and websites and the corresponding questions that can be addressed.](../images/img_3.jpg)
+![A partially filled table lists genomic projects and websites and the corresponding questions that can be addressed.](../images/img_p509_3.jpeg)
 
 
 The table is as follows:

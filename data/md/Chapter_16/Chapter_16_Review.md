@@ -8,13 +8,13 @@
 # Chapter 16 Review
 
 
-![Image of D N A double helix, which resembles a twisted ladder.](../images/img_0.jpg)
+![Image of D N A double helix, which resembles a twisted ladder.](../images/img_p388_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p388_1.png)
 
 
 Hershey and Chase concluded that DNA is the source of heritable information. Select the data from their experiments that support that claim. **(BIG IDEA 3)**
@@ -26,7 +26,7 @@ Hershey and Chase concluded that DNA is the source of heritable information. Sel
 - Watson and Crick deduced that DNA is a **double helix** and built a structural model. Two ******antiparallel** sugar-phosphate chains wind around the outside of the molecule; the nitrogenous bases project into the interior, where they hydrogen-bond in specific pairs, A with T, G with C.
 
 
-![D N A double helix shown with sugar-phosphate backbone as blue ribbons and bases A, T, C and G forming hydrogen bonds between complementary pairs (dashed lines) in the interior of helix.](../images/img_2.jpg)
+![D N A double helix shown with sugar-phosphate backbone as blue ribbons and bases A, T, C and G forming hydrogen bonds between complementary pairs (dashed lines) in the interior of helix.](../images/img_p388_2.jpeg)
 
 
 *What does it mean when we say that the two DNA strands in the double helix are antiparallel? What would an end of the double helix look like if the strands were parallel?*
@@ -37,7 +37,7 @@ Hershey and Chase concluded that DNA is the source of heritable information. Sel
 - DNA replication at one **replication fork** is summarized here:
 
 
-![Diagram of D N A replication at one replication fork (also see Figure 16.17).](../images/img_3.jpg)
+![Diagram of D N A replication at one replication fork (also see Figure 16.17).](../images/img_p388_3.jpeg)
 
 
 Left side replication fork shown. Top parental D N A strand runs (left to right) 5 prime to 3 prime. Bottom strand runs 3 prime to 5 prime. D N A pol 3 synthesizes leading (top template) strand continuously from the origin of replication (point near the middle of the replication bubble on both the top and bottom template strands) towards the replication fork. RNA primer is drawn for a few base lengths at the origin. Sliding clamp pushes D N A pol 3 towards the replication fork. Single strand binding proteins and helicase also on parental template near the fork. In this diagram, the bottom parental strand (3 prime at the left and 5 prime at the right) is the template for the lagging strand.

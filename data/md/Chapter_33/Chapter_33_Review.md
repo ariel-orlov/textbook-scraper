@@ -8,13 +8,13 @@
 # Chapter 33 Review
 
 
-![Photo of a blue dragon (Glaucus atlanticus) floating in water shows a bright blue body that tapers to a point, with spiderlike appendages.](../images/img_0.jpg)
+![Photo of a blue dragon (Glaucus atlanticus) floating in water shows a bright blue body that tapers to a point, with spiderlike appendages.](../images/img_p820_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p820_1.png)
 
 
 The vast majority of animals are invertebrates, which have niches in every ecosystem on Earth. Justify the claim that one group of invertebrates, dung beetles, has a huge ecological impact. **(BIG IDEAS 2 & 4)**
@@ -23,7 +23,7 @@ The vast majority of animals are invertebrates, which have niches in every ecosy
 This table recaps the animal groups surveyed in this chapter.
 
 
-![A table illustrates key concepts, phylum, and description of sponges, cnidarians, lophotrochozoans, ecdysozoans, and echinoderms.](../images/img_2.jpg)
+![A table illustrates key concepts, phylum, and description of sponges, cnidarians, lophotrochozoans, ecdysozoans, and echinoderms.](../images/img_p820_2.jpeg)
 
 
 An evolutionary tree is given along the table. All 11 rows are metazoa. The bottom 10 are eumetazoa. The bottom 9 are bilateria. Rows 3 through 7 are lophotrochozoa. Rows 8 and 9 are ecdysozoa. Rows 10 and 11 are deuterostomia.

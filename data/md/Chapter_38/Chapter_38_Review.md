@@ -8,13 +8,13 @@
 # Chapter 38 Review
 
 
-![ An orchid is pollinated by a male wasp.](../images/img_0.jpg)
+![ An orchid is pollinated by a male wasp.](../images/img_p959_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p959_1.png)
 
 
 A flowering plant has blue flowers, a different color pattern that is visualized under ultraviolet light, and a scent. Predict some characteristics of its likely pollinator and justify your claim. **(BIG IDEA 4)**
@@ -27,7 +27,7 @@ A flowering plant has blue flowers, a different color pattern that is visualized
 - **Pollination**, which precedes **fertilization**, is the placing of pollen on the stigma of a carpel. After pollination, the **pollen tube** discharges two sperm into the female gametophyte. Two sperm are needed for **double fertilization**, a process in which one sperm fertilizes the egg, forming a zygote and eventually an embryo, while the other sperm combines with the polar nuclei, giving rise to the food-storing endosperm.
 
 
-![In a tube nucleus, one sperm cell will fuse with two polar nuclei, forming an endosperm nucleus (3 n). One sperm will fuse with the egg, forming a zygote (2 n).](../images/img_2.jpg)
+![In a tube nucleus, one sperm cell will fuse with two polar nuclei, forming an endosperm nucleus (3 n). One sperm will fuse with the egg, forming a zygote (2 n).](../images/img_p959_2.jpeg)
 
 
 - A **seed** consists of a dormant embryo along with a food supply stocked in either the **endosperm** or the **cotyledons**. Seed **dormancy** ensures that seeds germinate only when conditions for seedling survival are optimal. The breaking of dormancy often requires environmental cues, such as temperature or lighting changes.

@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 1 -->
-![Campbell Biology, twelfth edition cover.](../images/img_0.jpg)
+![Campbell Biology, twelfth edition cover.](../images/img_p1_0.jpeg)
 
 ---
 
@@ -13,7 +13,7 @@
 # Campbell Biology
 
 
-![Campbell Biology, twelfth edition cover.](../images/img_0.jpg)
+![Campbell Biology, twelfth edition cover.](../images/img_p2_0.jpeg)
 
 
 **TWELFTH EDITION**
@@ -43,7 +43,7 @@ COLLIN COLLEGE, PLANO, TEXAS
 BISHOP’S UNIVERSITY, QUEBEC, CANADA
 
 
-![Pearson Logo.](../images/img_1.jpg)
+![Pearson Logo.](../images/img_p2_1.jpeg)
 
 ---
 
@@ -137,7 +137,7 @@ ISBN 13: 978-0-13-648687-9 (High School Binding)
 www.savvas.com/advanced
 
 
-![Pearson Logo.](../images/img_0.jpg)
+![Pearson Logo.](../images/img_p3_0.jpeg)
 
 ---
 
@@ -158,7 +158,7 @@ While we work hard to present unbiased, fully accessible content, we want to hea
 - For accessibility-related issues, such as using assistive technology with Pearson products, alternative text requests, or accessibility documentation, email the Pearson Disability Support team at **disability.support@pearson.com****.**
 
 
-![image](../images/img_0.jpg)
+![image](../images/img_p4_0.jpeg)
 
 ---
 
@@ -261,7 +261,7 @@ Develop and justify scientific arguments using evidence.
 The College Board’s Advanced Placement® Biology Course Framework (effective Fall 2019) organizes content into eight units of study grounded in four Big Ideas: Evolution, Energetics, Information Storage and Transmission, and Systems Interactions. The chart below lists the Key Concepts in *Campbell Biology* 12e, AP® Edition, that teach the Essential Knowledge contributing to the Enduring Understandings for each of the Framework’s eight units. All the details of the Framework, plus a full correlation to specific page numbers of this textbook, can be found at PearsonSchool.com/AdvancedCorrelations.
 
 
-![A table lists the items under the AP Course Framework Units 1 through 3.](../images/img_0.jpg)
+![A table lists the items under the AP Course Framework Units 1 through 3.](../images/img_p6_0.png)
 
 
 | A P, registered trademark, Course Framework Unit 1: Chemistry of Life |
@@ -282,7 +282,7 @@ The College Board’s Advanced Placement® Biology Course Framework (effective F
 | Systems Interactions (S Y I) | S Y I-3: Naturally occurring diversity among and between components within biological systems affects interactions with the environment. | 23.1 |
 
 
-![A table lists the items under the AP Course Framework Units 4 through 7.](../images/img_1.jpg)
+![A table lists the items under the AP Course Framework Units 4 through 7.](../images/img_p6_1.png)
 
 
 | A P, registered trademark, Course Framework Unit 4: Cell |
@@ -309,7 +309,7 @@ The College Board’s Advanced Placement® Biology Course Framework (effective F
 | Systems and Interactions (S Y I) | S Y I-3: Naturally occurring diversity among and between components within biological systems affects interactions with the environment. | 23.1, 23.4, 25.1, 25.3, 56.2 |
 
 
-![A table lists the items under the AP Course Framework Unit 8: Ecology.](../images/img_2.jpg)
+![A table lists the items under the AP Course Framework Unit 8: Ecology.](../images/img_p6_2.png)
 
 
 | A P, registered trademark, Course Framework Unit 8: Ecology |
@@ -332,46 +332,46 @@ The College Board’s Advanced Placement® Biology Course Framework (effective F
 The author team’s contributions reflect their biological expertise as researchers and their teaching sensibilities gained from years of experience as instructors at diverse institutions. They are also experienced textbook authors, having written *Campbell Biology in Focus* in addition to *Campbell Biology*.
 
 
-![A group photo of the authors. From left to right, Rebecca Orr, Lisa A. Urry, Michael Cain, Steven Wasserman, and Peter Minorsky.](../images/img_0.jpg)
+![A group photo of the authors. From left to right, Rebecca Orr, Lisa A. Urry, Michael Cain, Steven Wasserman, and Peter Minorsky.](../images/img_p7_0.jpeg)
 
 
-![A photograph of Lisa A. Urry, one of the authors of Campbell biology.](../images/img_1.jpg)
+![A photograph of Lisa A. Urry, one of the authors of Campbell biology.](../images/img_p7_1.jpeg)
 
 
 **Lisa A. Urry** (Chapter 1 and Units 1–3) is Professor of Biology and Co-Chair of the Biology Department at Mills College at Northeastern University in Oakland, California. After earning a B.A. at Tufts University, she completed her Ph.D. at the Massachusetts Institute of Technology (MIT). Lisa has conducted research on gene expression during embryonic and larval development in sea urchins. Deeply committed to promoting opportunities in science for women and underrepresented minorities, she has taught courses ranging from introductory and developmental biology to an immersive course on the U.S./Mexico border.
 
 
-![A photograph of Michael Cain, one of the authors of Campbell biology.](../images/img_2.jpg)
+![A photograph of Michael Cain, one of the authors of Campbell biology.](../images/img_p7_2.jpeg)
 
 
 **Michael L. Cain** (Units 4, 5, and 8) is an ecologist and evolutionary biologist who is now writing full-time. Michael earned an A.B. from Bowdoin College, an M.Sc. from Brown University, and a Ph.D. from Cornell University. As a faculty member at New Mexico State University, he taught introductory biology, ecology, evolution, botany, and conservation biology. Michael is the author of dozens of scientific papers on topics that include foraging behavior in insects and plants, long-distance seed dispersal, and speciation in crickets. He is also a coauthor of an ecology textbook.
 
 
-![A photograph of Steven Wasserman, one of the authors of Campbell biology.](../images/img_3.jpg)
+![A photograph of Steven Wasserman, one of the authors of Campbell biology.](../images/img_p7_3.jpeg)
 
 
 **Steven A. Wasserman** (Unit 7) is Professor of Biology at the University of California, San Diego (UCSD). He earned an A.B. from Harvard University and a Ph.D. from MIT. Working on the fruit fly *Drosophila*, Steve has done research on developmental biology, reproduction, and immunity. Having taught genetics, development, and physiology to undergraduate, graduate, and medical students, he now focuses on introductory biology, for which he has been honored with UCSD’s Distinguished Teaching Award.
 
 
-![A photograph of Peter Minorsky, one of the authors of Campbell biology.](../images/img_4.jpg)
+![A photograph of Peter Minorsky, one of the authors of Campbell biology.](../images/img_p7_4.jpeg)
 
 
 **Peter V. Minorsky** (Unit 6) is Professor of Biology at Mercy College in New York, where he teaches introductory biology, ecology, and botany. He received his A.B. from Vassar College and his Ph.D. from Cornell University. Peter taught at Kenyon College, Union College, Western Connecticut State University, and Vassar College; he is also the science writer for the journal *Plant Physiology*. His research interests concern how plants sense environmental change. Peter received the 2008 Award for Teaching Excellence at Mercy College.
 
 
-![A photograph of Rebecca Orr, one of the authors of Campbell biology.](../images/img_5.jpg)
+![A photograph of Rebecca Orr, one of the authors of Campbell biology.](../images/img_p7_5.jpeg)
 
 
 **Rebecca B. Orr** (Ready-to-Go Teaching Modules, Interactive Visual Activities, eTextbook Media Integration) is Professor of Biology at Collin College in Plano, Texas, where she teaches introductory biology. She earned her B.S. from Texas A&M University and her Ph.D. from University of Texas Southwestern Medical Center at Dallas. Rebecca has a passion for investigating strategies that result in more effective learning and retention, and she is a certified Team-Based Learning Collaborative Trainer Consultant. She enjoys focusing on the creation of learning opportunities that both engage and challenge students.
 
 
-![A photograph of Kerry L. Hull, one of the authors of Campbell biology.](../images/img_6.jpg)
+![A photograph of Kerry L. Hull, one of the authors of Campbell biology.](../images/img_p7_6.jpeg)
 
 
 **Kerry L. Hull** (Unit 7) is the Dean of Science and a Professor in the Department of Biology and Biochemistry at Bishop’s University in Quebec, Canada. She holds a B.Sc. in Biology and a Ph.D. in Physiology (Endocrinology), both from the University of Alberta (Canada). She teaches Physiology and Anatomy courses to undergraduates, using guided inquiry and case studies as her primary teaching approaches. A comparative endocrinologist by training, her current research focuses on the development and implementation of active learning strategies in Anatomy and Physiology courses.
 
 
-![Neil Campbell.](../images/img_7.jpg)
+![Neil Campbell.](../images/img_p7_7.jpeg)
 
 
 **Neil A. Campbell** (1946–2004) earned his M.A. from the University of California, Los Angeles, and his Ph.D. from the University of California, Riverside. His research focused on desert and coastal plants. Neil’s 30 years of teaching included introductory biology courses at Cornell University, Pomona College, and San Bernardino Valley College, where he received the college’s first Outstanding Professor Award in 1986. For many years he was also a visiting scholar at UC Riverside. Neil was the founding author of *Campbell Biology*.
@@ -386,7 +386,7 @@ The author team’s contributions reflect their biological expertise as research
 # Preface
 
 
-![Decorative image.](../images/img_0.jpg)
+![Decorative image.](../images/img_p8_0.jpeg)
 
 
 We are honored to present the Twelfth Edition of *Campbell Biology*. For the last three decades, *Campbell Biology* has been the leading college text in the biological sciences. It has been translated into 19 languages and has provided millions of students with a solid foundation in college-level biology. This success is a testament not only to Neil Campbell’s original vision but also to the dedication of hundreds of reviewers who, together with editors, artists, and contributors, have shaped and inspired this work.
@@ -510,7 +510,7 @@ Our main goal for this unit was to make the material more accessible, inviting, 
 #### Figure 8.1
 
 
-![Figure 8.1 shows a diagram of thermodynamics and the biological process.](../images/img_0.jpg)
+![Figure 8.1 shows a diagram of thermodynamics and the biological process.](../images/img_p9_0.jpeg)
 
 
 Chapter 9 includes new information on human brown fat usage, the role of fermentation during the production of chocolate, and recent research on the role of lactate in mammalian metabolism. Chapter 10 begins with a new concept that puts photosynthesis into a big-picture ecological context. Chapter 10 also includes a discussion of the 2018 discovery of a new form of chlorophyll found in cyanobacteria that can carry out photosynthesis using far-red light. In Chapter 11, the relevance of synaptic signaling is underscored by mentioning that it is a target for treatment of depression, anxiety, and PTSD. In Chapter 12, the cell cycle figure (Figure 12.6) now includes cell images and labels describing the events of each phase.
@@ -532,7 +532,7 @@ The revision of Unit 4 uses an evidence-based approach to strengthen how we help
         Lack of variation in a population can limit adaptation.
 
 
-![Figure 23.19 shows two photos of two different rabbits.](../images/img_1.jpg)
+![Figure 23.19 shows two photos of two different rabbits.](../images/img_p9_1.jpeg)
 
 
 ## Unit 5 The Evolutionary History of Biological Diversity
@@ -545,7 +545,7 @@ In keeping with our goal of developing students’ skills in interpreting visual
         The rise of antibiotic resistance.
 
 
-![Figure 27.22 shows a horizontal stacked bar graph of antibiotic resistance.](../images/img_2.jpg)
+![Figure 27.22 shows a horizontal stacked bar graph of antibiotic resistance.](../images/img_p9_2.jpeg)
 
 
 The x-axis (years): 1930 to 2010 in increments of 20 units. The y-axis: Antibiotics: Ceftaroline, Daptomycin, Linezolid, Imipenem, Vancomycin, Methicillin, Colistin, Erythromycin, Tetracycline, and Penicillin. Each stacked bar contains antibiotic discovered (grey circle), medical usage begins (black circle), and resistance observed (red bar). Ceftaroline: antibiotic discovered (2001), medical usage begins (2010), and resistance observed (after 2010). Daptomycin: antibiotic discovered (1988), medical usage begins (2001), and resistance observed (2005). Linezolid: antibiotic discovered (1998), medical usage begins (2000), and resistance observed (after 2001). Imipenem: antibiotic discovered (1980), medical usage begins (1985), and resistance observed (1988).  Vancomycin: antibiotic discovered (1953), medical usage begins (1972), and resistance observed (1989).  Methicillin: antibiotic discovered (1958), medical usage begins (1959), and resistance observed (1962). Colistin: antibiotic discovered (1949), medical usage begins (1959), and resistance observed (2011). Erythromycin: antibiotic discovered (1948), medical usage begins (1952), and resistance observed (1968). Tetracycline: antibiotic discovered (1942), medical usage begins (1950), and resistance observed (1959). Penicillin: antibiotic discovered (1928), medical usage begins (1942), and resistance observed (1940).
@@ -566,7 +566,7 @@ The Unit 7 revisions feature pedagogical innovations coupled with updates for cu
         Comparison of pathways in the motor and autonomic nervous systems.
 
 
-![Figure 49.8 shows two diagrams of the motor and autonomic nervous systems.](../images/img_3.jpg)
+![Figure 49.8 shows two diagrams of the motor and autonomic nervous systems.](../images/img_p9_3.jpeg)
 
 
 ## Unit 8 Ecology
@@ -579,7 +579,7 @@ Complementary goals of the Unit 8 revision were to strengthen our coverage of co
         A dead zone arising from nitrogen pollution in the Mississippi basin.
 
 
-![Figure 56.23 shows two maps of nitrogen pollution.](../images/img_4.jpg)
+![Figure 56.23 shows two maps of nitrogen pollution.](../images/img_p9_4.jpeg)
 
 ---
 
@@ -679,7 +679,7 @@ For all the glossary terms, this resource provides definitions in Spanish.
 - **Lecture Presentations in PowerPoint**® for each chapter with lecture notes, editable figures (art and photos with enlarged, customizable labels), tables, and links to animations and videos:
 
 
-![Concept 7.1 Cellular membranes are fluid mosaics of lipids and proteins. ](../images/img_0.jpg)
+![Concept 7.1 Cellular membranes are fluid mosaics of lipids and proteins. ](../images/img_p10_0.jpeg)
 
 
  - Phospholipids are the most abundant lipid in most membranes.
@@ -687,25 +687,25 @@ For all the glossary terms, this resource provides definitions in Spanish.
  - A phospholipid bilayer can exist as a stable boundary between two aqueous compartments.
 
 
-![Decorative image.](../images/img_1.jpg)
+![Decorative image.](../images/img_p10_1.jpeg)
 
 
-![Cross section of the phospholipid bilayer.](../images/img_2.jpg)
+![Cross section of the phospholipid bilayer.](../images/img_p10_2.jpeg)
 
 
 Phospholipid bilayer with hydrophilic heads drawn as circles and two squiggly hydrophobic tails attached to each head. Tails point towards each other so that only the heads contact water. Cutaway diagram zooms in on the structure of two molecules in the phospholipid bilayer, where hydrophilic heads interact with water molecules on both sides of the membrane, but the hydrophobic tails are tucked away from water.
 
 
-![The structure of an idealized flower.](../images/img_3.jpg)
+![The structure of an idealized flower.](../images/img_p10_3.jpeg)
 
 
 At the top of the stem is the receptacle. On this is the ovary, in which are the ovules. Sepals extend to either side of the receptacle. Around the ovary are petals, and within this are stamen and single carpel (simple pistil). Stamen has a filament and an anther. Single carpel includes the ovary, the style from the ovary, and the stigma at the end of the style.
 
 
-![3 D structure of a protein. ](../images/img_4.jpg)
+![3 D structure of a protein. ](../images/img_p10_4.jpeg)
 
 
-![Do fungal endophytes benefit a woody plant?](../images/img_5.jpg)
+![Do fungal endophytes benefit a woody plant?](../images/img_p10_5.jpeg)
 
 
 Experiment. Fungal endophytes are symbiotic fungi found within the bodies of all plants examined to date. Researchers tested whether fungal endophytes benefit the cacao tree (Theobroma cacao). This tree, whose name means food of the gods in Greek, is the course of the beans used to make chocolate, and it is cultivated throughout the tropics. A particular mixture of fungal endophytes was added to the leaves of some cacao seedlings, but not others. (In cacao, fungal endophytes colonize leaves after the seedling germinates.) The seedlings were then inoculated with a virulent pathogen, the protist Phytophthora.
@@ -723,7 +723,7 @@ Conclusion. The presence of endophytes appears to benefit cacao trees by reducin
 - **Clicker Questions in PowerPoint,** which can be used to stimulate effective classroom discussions (for use with or without clickers):
 
 
-![A multiple choice question on the intermediate disturbance hypothesis. ](../images/img_6.jpg)
+![A multiple choice question on the intermediate disturbance hypothesis. ](../images/img_p10_6.jpeg)
 
 
 New Zealand ecologists recorded the numbers of invertebrate species in streambeds that experienced different intensities and frequencies of flooding. The largest numbers of species were present in streambeds with blank disturbances.
@@ -744,7 +744,7 @@ D. intense
 Graph of number of taxa versus index of disturbance intensity. The x-axis is index of disturbance intensity (log scale), ranging from 0.9 to 2.0. The y-axis is number of taxa, ranging from 10 to 35. The curve is hump-shaped, with peak number of taxa at intermediate disturbance levels.
 
 
-![A multiple choice question on evapotranspiration. ](../images/img_7.jpg)
+![A multiple choice question on evapotranspiration. ](../images/img_p10_7.jpeg)
 
 
 Evapotranspiration, the evaporation of water from soil and plants, is much higher in hot areas with abundant rainfall than in cooler or low precipitation areas. Which statement describes the relationship between potential evapotranspiration and vertebrate species richness?
@@ -778,7 +778,7 @@ Graph of vertebrate species richness versus potential evapotranspiration. The x-
 Learning Catalytics allows students to use their smartphone, tablet, or laptop to respond to questions in class. For more information, visit learningcatalytics.com.
 
 
-![Decorative image.](../images/img_8.jpg)
+![Decorative image.](../images/img_p10_8.jpeg)
 
 
 ### Learning Management Systems
@@ -2423,7 +2423,7 @@ and Function
 - ******5.16**Visualizing Proteins
 
 
-![Figure 5.16 Visualizing proteins. Structural models of proteins: space-filling model, ribbon model, and wireframe model are shown. Simplified diagrams of proteins in terms of functions: transparent shape, solid shape, simple shape, and as a dot.](../images/img_0.jpg)
+![Figure 5.16 Visualizing proteins. Structural models of proteins: space-filling model, ribbon model, and wireframe model are shown. Simplified diagrams of proteins in terms of functions: transparent shape, solid shape, simple shape, and as a dot.](../images/img_p16_0.jpeg)
 
 
 - ******6.32**Visualizing the Scale of the Molecular Machinery in a Cell

@@ -8,13 +8,13 @@
 # Chapter 32 Review
 
 
-![A chameleon uses its tail and hind limbs to brace itself as it shoots out its tongue to capture an insect.](../images/img_0.jpg)
+![A chameleon uses its tail and hind limbs to brace itself as it shoots out its tongue to capture an insect.](../images/img_p786_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p786_1.png)
 
 
 Do organisms with radial symmetry, such as sea anemones, have *Hox* genes? Explain your thinking. **(BIG IDEAS 1 & 3)**
@@ -35,7 +35,7 @@ Do organisms with radial symmetry, such as sea anemones, have *Hox* genes? Expla
 - Genomic analyses suggest that key steps in the origin of animals involved new ways of using proteins that were encoded by genes found in choanoflagellates.
 
 
-![A timeline of the history of animals from 1000 million years ago to the present showing the Neoproterozoic, Paleozoic, Mesozoic, and Cenozoic Eras.](../images/img_2.jpg)
+![A timeline of the history of animals from 1000 million years ago to the present showing the Neoproterozoic, Paleozoic, Mesozoic, and Cenozoic Eras.](../images/img_p786_2.jpeg)
 
 
 From left to right, Neoproterozoic Era from 1000 to 541 million years ago. 560 million years ago: Ediacaran animals; 535 to 525 million years ago; Cambrian explosion. Paleozoic Era from 541 to 252 million years ago; 365 million years ago: Early land animals. Mesozoic Era from 252 to 66 million years ago (origin and diversification of dinosaurs). Cenozoic Era from 66 million years ago to present (increased diversity of mammals).
@@ -56,7 +56,7 @@ From left to right, Neoproterozoic Era from 1000 to 541 million years ago. 560 m
 - This phylogenetic tree shows key steps in animal evolution:
 
 
-![Phylogenetic tree showing key steps in animal evolution.](../images/img_3.jpg)
+![Phylogenetic tree showing key steps in animal evolution.](../images/img_p786_3.jpeg)
 
 
 Phylogenetic tree with key steps in animal evolution. Tree is described as a list.

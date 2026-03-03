@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 605 -->
-![An ancient whale skeleton is exposed in the Sahara Desert.](../images/img_0.jpg)
+![An ancient whale skeleton is exposed in the Sahara Desert.](../images/img_p605_0.jpeg)
 
 
 # **Chapter ﻿25**
@@ -19,7 +19,7 @@
 In the 1870s, researchers working in the searing heat of the Sahara Desert were startled to discover fossils of ancient whales. These fossils were spectacular not only for where they were found, but also for documenting the transition from life on land to life in the sea—just one example of the sweeping changes seen in the history of life on Earth.
 
 
-![How has life on Earth changed over time?](../images/img_1.jpg)
+![How has life on Earth changed over time?](../images/img_p605_1.jpeg)
 
 
 As documented in the fossil record, groups of organisms arise, diversify, and fall over time. Older fossils are found in older stratum. Large-scale processes that cause changes over time include the following: continent drift, where land masses move over time, affecting extinction and speciation rates; mass extinction, where many species become extinct worldwide; and adaptive radiation, where a lineage gives rise to many new species.
@@ -35,7 +35,7 @@ As documented in the fossil record, groups of organisms arise, diversify, and fa
 - 25.6﻿**Evolution is not goal oriented**
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p605_2.png)
 
 
 Speciation and extinction have occurred throughout Earth’s history **(BIG IDEA 1)**, with changes in the conditions on Earth leading to divergence in homeostatic **(BIG IDEA 2)** and developmental mechanisms **(BIG IDEA 3)**.
@@ -46,7 +46,7 @@ Speciation and extinction have occurred throughout Earth’s history **(BIG IDEA
 **Draw a time line:** Draw a time line like the example shown here, and mark when the following key evolutionary events occurred: “oxygen revolution,” origin of eukaryotes, first multicellular organisms, colonization of land by large eukaryotes, origin of tetrapods, and the Permian mass extinction. Briefly describe the significance of each event. You can also add more events to your time line as you study.
 
 
-![A timeline goes from 4 billion years ago to the present day. At 3.5 billion years ago were the first unicellular organisms (life on Earth begins; all early cells are prokaryotes).](../images/img_3.jpg)
+![A timeline goes from 4 billion years ago to the present day. At 3.5 billion years ago were the first unicellular organisms (life on Earth begins; all early cells are prokaryotes).](../images/img_p605_3.jpeg)
 
 
 The whale fossils discovered in the Sahara Desert (see Figure 25.1) are one example of evidence that past organisms were very different from those presently living. The sweeping changes in life on Earth as revealed by such fossils illustrate **macroevolution**, the broad pattern of evolution above the species level. Examples of macroevolutionary change include the emergence of terrestrial vertebrates through a series of speciation events, the impact of mass extinctions on biodiversity, and the origin of key adaptations such as flight.
@@ -143,7 +143,7 @@ That's correct.
 **Correct!** If you had trouble with this question, review the following material: Allopatric speciation occurs when a population becomes geographically isolated from other members of its species; in contrast, sympatric speciation occurs in populations that are not geographically isolated. Polyploidy, sexual selection, and natural selection can all promote speciation, but they can do so in sympatric populations as well as allopatric populations.
 
 
-![Series of horizontal forked branches leading to organisms; from the top the branch endpoints are Lungfishes, Amphibians, Mammals, Lizards and snakes, Crocodiles, Ostriches, and Hawks and other birds.](../images/img_4.jpg)
+![Series of horizontal forked branches leading to organisms; from the top the branch endpoints are Lungfishes, Amphibians, Mammals, Lizards and snakes, Crocodiles, Ostriches, and Hawks and other birds.](../images/img_p605_4.png)
 
 
 Diagram showing a series of horizontal forked branches. From the left, the first branch point forks into a horizontal line leading to Lungfishes and another horizontal line, which branches again. This second branch point forks into a horizontal line leading to Amphibians and another horizontal line, which branches again. This third branch point forks into a horizontal line leading to Mammals and another horizontal line, which branches again. This fourth branch point forks into a horizontal line leading to Lizards and snakes and another horizontal line, which branches again. This fifth branch point forks into a horizontal line leading to Crocodiles and another horizontal line, which branches a final time into two groups, Ostriches at the end of the top branch and Hawks and other birds at the end of the bottom branch. At the far right of the diagram, a vertical bar labeled Birds spans these two branches. Another vertical bar labeled Reptiles spans the Birds and also the Crocodiles and Lizards and snakes branches. Another vertical bar labeled Amniotes spans the Reptiles and also the Mammals branches. Another vertical bar labeled Tetrapods spans the Amniotes and also the Amphibians branch.

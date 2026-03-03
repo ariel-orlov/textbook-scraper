@@ -8,13 +8,13 @@
 # Chapter 40 Review
 
 
-![Penguins swim through ocean waters.](../images/img_0.jpg)
+![Penguins swim through ocean waters.](../images/img_p1017_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p1017_1.png)
 
 
 Why are most animal homeostatic mechanisms controlled by negative feedback? Is that a characteristic of all organisms? **(BIG IDEA 2)**
@@ -35,7 +35,7 @@ Why are most animal homeostatic mechanisms controlled by negative feedback? Is t
 - Homeostatic mechanisms are usually based on **negative feedback**, in which the **response** reduces the **stimulus**. In contrast, **positive feedback** involves amplification of a stimulus by the response and often brings about a change in state, such as the transition from pregnancy to childbirth.
 
 
-![Circular flow chart depicting negative feedback.](../images/img_2.jpg)
+![Circular flow chart depicting negative feedback.](../images/img_p1017_2.jpeg)
 
 
 A cyclical illustration shows how the process of negative feedback works. An internal variable has a set point. Due to a stimulus, a change in this set point is detected by a sensor and it sends the information to the control cortex. An appropriate response is made to return the variable to its set point. Arrows are present between categories: normal range for an internal variable to stimulus (change in internal variable) to sensor to control center to response back to normal range.

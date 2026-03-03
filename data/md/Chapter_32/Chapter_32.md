@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 771 -->
-![A chameleon uses its tail and hind limbs to brace itself as it shoots out its tongue to capture an insect.](../images/img_0.jpg)
+![A chameleon uses its tail and hind limbs to brace itself as it shoots out its tongue to capture an insect.](../images/img_p771_0.jpeg)
 
 
 # **Chapter 32**
@@ -19,7 +19,7 @@
 This chameleon can wield its long, sticky tongue with blinding speed to capture its prey. Other predatory animals use strength, concealed traps, or toxins to capture prey. Likewise, herbivorous animals can strip plants bare of leaves or seeds, while parasitic animals weaken their hosts by consuming their tissues or body fluids. Overall, we can think of animals as a kingdom of consumers.
 
 
-![What key characteristics of animals make them such efficient consumers?](../images/img_1.jpg)
+![What key characteristics of animals make them such efficient consumers?](../images/img_p771_1.jpeg)
 
 
 Animals are heterotrophs: They obtain energy and nutrients by eating other organisms. Animals have tissues, collections of specialized cells that function as a unit. Tissues form from layers of embryonic cells. Animals process their food inside their bodies. Many animals have an efficient digestive system that has a mouth at one end and an anus at the other. The tissues of animals include those composed of unique nerve and muscle cells. Their nerve and muscle cells enable animals to move as well as to detect and capture potential prey.
@@ -33,7 +33,7 @@ Animals are heterotrophs: They obtain energy and nutrients by eating other organ
 - ******32.4********Views of animal phylogeny continue to be shaped by new molecular and morphological data******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p771_2.png)
 
 
 Animals are linked by lines of descent from common ancestors **(BIG IDEA 1)**. Speciation leads to different mechanisms that enable animals to respond to changes in their external environment and to capture energy from other organisms **(BIG IDEA 2)**.
@@ -44,7 +44,7 @@ Animals are linked by lines of descent from common ancestors **(BIG IDEA 1)**. S
 **Draw a time line:** Create a time line like the one shown here, and mark when the following occurred: first biochemical evidence of animals, Edicaran biota, Cambrian explosion, colonization of land by vertebrates, and dinosaur extinction. Briefly describe the significance of each event.
 
 
-![A timeline has a mark at 710 million years ago. Here is the first biochemical evidence of animals: sediments containing steroids from sponges.](../images/img_3.jpg)
+![A timeline has a mark at 710 million years ago. Here is the first biochemical evidence of animals: sediments containing steroids from sponges.](../images/img_p771_3.jpeg)
 
 
 ## Get Ready for This Chapter

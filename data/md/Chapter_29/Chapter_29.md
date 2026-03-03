@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 710 -->
-![Lush landscape filled with ferns, moss, and trees.](../images/img_0.jpg)
+![Lush landscape filled with ferns, moss, and trees.](../images/img_p710_0.jpeg)
 
 
 # **Chapter 29**
@@ -19,7 +19,7 @@
 For much of Earth’s history, the land surface was largely lifeless. Some prokaryotes lived on land  3.2 billion years ago, but it was only within the last  500 million years that small plants, fungi, and animals joined them ashore. Finally, by  385 million years ago, the first forests appeared (but with different species than those of today).
 
 
-![What were the major developments in the evolution of plants?](../images/img_1.jpg)
+![What were the major developments in the evolution of plants?](../images/img_p710_1.jpeg)
 
 
 Plants originated from green algae about 470 million years ago. By 425 million years ago, some early plants had traits facilitating life on land. These traits include reproductive structures, photosynthetic branches, and structures that anchor the plant to the soil. Over time, early plants gave rise to a rich diversity of plants, including the following: nonvascular plants (such as mosses), seedless vascular plants (such as ferns), and seed plants (such as cone-bearing plants and flowering plants).
@@ -32,7 +32,7 @@ Plants originated from green algae about 470 million years ago. By 425 million y
 - 29.3**Ferns and other seedless vascular plants were the first plants to grow tall******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p710_2.png)
 
 
 As organisms colonized land, the changed environment acted as a selective mechanism for particular traits that ensured reproductive success **(BIG IDEA 1)** and led to differentiation in the use of energy as organisms exchanged matter with the environment **(BIG IDEA 2)** and interacted with each other, recycling matter **(BIG IDEA 4)**.
@@ -43,7 +43,7 @@ As organisms colonized land, the changed environment acted as a selective mechan
 **Make a table:** As you read the chapter, make a table of adaptations for life on land that evolved in plants after they diverged from their close aquatic relatives, a group of charophyte algae.
 
 
-![A partially filled table lists adaptation, description, and how it facilitates life on land.](../images/img_3.jpg)
+![A partially filled table lists adaptation, description, and how it facilitates life on land.](../images/img_p710_3.jpeg)
 
 
 The table is as follows:

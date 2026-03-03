@@ -8,13 +8,13 @@
 # Chapter 15 Review
 
 
-![Chromosomes.](../images/img_0.jpg)
+![Chromosomes.](../images/img_p373_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p373_1.png)
 
 
 What observed action of chromosomes made them the likely location of the genetic factors Mendel postulated as carriers of genetic information? **(BIG IDEA 3)**
@@ -37,7 +37,7 @@ What observed action of chromosomes made them the likely location of the genetic
 ### Concept 15.3: Linked genes tend to be inherited together because they are located near each other on the same chromosome
 
 
-![P generation gametes: 3 chromosomes carry six genes (A B C D E F). Chromosomes in sperm (blue) carry all dominant alleles; chromosomes in egg (red) carry all recessive alleles. F 1 cell with chromosomes. labeled.](../images/img_2.jpg)
+![P generation gametes: 3 chromosomes carry six genes (A B C D E F). Chromosomes in sperm (blue) carry all dominant alleles; chromosomes in egg (red) carry all recessive alleles. F 1 cell with chromosomes. labeled.](../images/img_p373_2.jpeg)
 
 
 P generation gametes:

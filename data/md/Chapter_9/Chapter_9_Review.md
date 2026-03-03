@@ -8,13 +8,13 @@
 # Chapter 9 Review
 
 
-![A hoary marmot eats a flower.](../images/img_0.jpg)
+![A hoary marmot eats a flower.](../images/img_p228_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p228_1.png)
 
 
 What controls the different mechanisms and structural features that organisms use to capture, store, and use energy? (**BIG IDEAS 2, 3, & 4)**
@@ -26,7 +26,7 @@ What controls the different mechanisms and structural features that organisms us
 - The cell taps the energy stored in food molecules through **redox reactions**, in which one substance partially or totally shifts electrons to another. **Oxidation** is the total or partial loss of electrons, while **reduction** is the total or partial addition of electrons. During aerobic respiration, glucose C6H12O6 is oxidized to CO2, and O2 is reduced to H2O:
 
 
-![C 6 H 12 O 6 plus 6 O 2 yields 6 C O 2 plus 6 H 2 O plus energy. C 6 H 12 O 6 becomes oxidized as 6 C O 2. 6 O 2 becomes reduced as 6 H 2 O.](../images/img_2.jpg)
+![C 6 H 12 O 6 plus 6 O 2 yields 6 C O 2 plus 6 H 2 O plus energy. C 6 H 12 O 6 becomes oxidized as 6 C O 2. 6 O 2 becomes reduced as 6 H 2 O.](../images/img_p228_2.jpeg)
 
 
 - Electrons lose potential energy during their transfer from glucose or other organic compounds to O2. Electrons are usually passed first to **NAD****+**, reducing it to **NADH**, and are then passed from NADH to an **electron transport chain**, which conducts the electrons to O2 in energy-releasing steps. The energy that is released is used to make ATP.
@@ -40,7 +40,7 @@ What controls the different mechanisms and structural features that organisms us
 - Glycolysis (“splitting of sugar”) is a series of reactions that breaks down glucose into two pyruvate molecules, which may go on to enter the citric acid cycle, and nets 2 ATP and 2 NADH per glucose molecule.
 
 
-![Glycolysis input is glucose. Outputs are 2 pyruvate plus 2 A T P plus 2 N A D H.](../images/img_3.jpg)
+![Glycolysis input is glucose. Outputs are 2 pyruvate plus 2 A T P plus 2 N A D H.](../images/img_p228_3.jpeg)
 
 
 *Which reactions in glycolysis are the source of energy for the formation of ATP and NADH?*
@@ -51,7 +51,7 @@ What controls the different mechanisms and structural features that organisms us
 - In eukaryotic cells, pyruvate enters the mitochondrion and is oxidized to **acetyl CoA**, which is further oxidized in the citric acid cycle.
 
 
-![Citric Acid Cycle: Inputs: 2 Pyruvate goes to 2 Acetyl Co A, 2 oxaloacetate. Outputs: 2 A T P, 8 N A D H, 6 C O 2, 2 F A D H 2.](../images/img_4.jpg)
+![Citric Acid Cycle: Inputs: 2 Pyruvate goes to 2 Acetyl Co A, 2 oxaloacetate. Outputs: 2 A T P, 8 N A D H, 6 C O 2, 2 F A D H 2.](../images/img_p228_4.jpeg)
 
 
 *What molecular products indicate the complete oxidation of glucose during cellular respiration?*
@@ -61,7 +61,7 @@ What controls the different mechanisms and structural features that organisms us
 - NADH and FADH2 transfer electrons to the electron transport chain. Electrons move down the chain, losing energy in several energy-releasing steps. Finally, electrons are passed to O2, reducing it to H2O.
 
 
-![The electron transport chain.](../images/img_5.jpg)
+![The electron transport chain.](../images/img_p228_5.jpeg)
 
 
 In the electron transport chain, electron transport through a series of protons embedded in the inner mitochondrial membrane causes protons to be pumped, creating an H-plus gradient across the membrane. The inner mitochondrial membrane separates mitochondrial matrix from the intermembrane space. N A D H carries electrons from food to the electron transport chain, a series of protein complexes of electron carriers embedded in the inner mitochondrial membrane. The electrons are passed through Complex 1, and a proton is pumped into the intermembrane space. The electrons then pass downhill to Q, then to Complex 3, where a proton is pumped into the intermembrane space. The electrons pass through Cyt c and then to Complex 4, where a proton is pumped into the intermembrane space, and at the bottom of this last complex, electrons join 2 H plus and one-half O 2 to form H 2 O. Electrons from F A D H 2 can also join the electron transport chain at Q, from which point they will follow the same path as electrons from N A D H.
@@ -70,7 +70,7 @@ In the electron transport chain, electron transport through a series of protons 
 - Along the electron transport chain, electron transfer causes protein complexes to move H+ from the mitochondrial matrix (in eukaryotes) to the intermembrane space, storing energy as a **proton-motive force** (H+ gradient). As H+ diffuses back into the matrix through **ATP synthase**, its passage drives the phosphorylation of ADP to form ATP, called **chemiosmosis**.
 
 
-![A T P synthase is powered by the flow of H plus back across the inner mitochondrial membrane, forming A T P.](../images/img_6.jpg)
+![A T P synthase is powered by the flow of H plus back across the inner mitochondrial membrane, forming A T P.](../images/img_p228_6.jpeg)
 
 
 Protons pumped into the intermembrane space during the electron transport chain fall back down their concentration gradient through the A T P synthase (embedded in the inner mitochondrial membrane), causing inorganic phosphate to be added to A D P, forming A T P.

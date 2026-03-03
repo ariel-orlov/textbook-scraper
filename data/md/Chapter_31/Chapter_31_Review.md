@@ -8,13 +8,13 @@
 # Chapter 31 Review
 
 
-![Small mushroom of genus Russula, with a short white stalk and bright red cap.](../images/img_0.jpg)
+![Small mushroom of genus Russula, with a short white stalk and bright red cap.](../images/img_p768_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p768_1.png)
 
 
 Many lichens are very sensitive to changes in atmospheric chemistry, and lichen die-offs can serve as environmental indicators of air pollution. Which of the mutualistic organisms that make up lichens (fungi or algae/cyanobacteria) is most likely to be affected by changes in the air, causing the entire lichen to die? **(BIG IDEAS 2 & 4)**
@@ -47,7 +47,7 @@ Many lichens are very sensitive to changes in atmospheric chemistry, and lichen 
 ### Concept 31.4: Fungi have radiated into a diverse set of lineages
 
 
-![A table is given.](../images/img_2.jpg)
+![A table is given.](../images/img_p768_2.jpeg)
 
 
 The table is as follows:

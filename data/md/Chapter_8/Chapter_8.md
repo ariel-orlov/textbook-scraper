@@ -5,7 +5,7 @@
 ---
 
 <!-- Page 181 -->
-![A termite mound is covered in glowing green spots.](../images/img_0.jpg)
+![A termite mound is covered in glowing green spots.](../images/img_p181_0.jpeg)
 
 
 An image depicting a phenomenon known as bioluminescence, where organisms convert chemical energy to light energy. Pyrophorus nyctophanus, the click beetle, uses bioluminescence in its larval stages to attract termites from the termite mound for its food.
@@ -22,7 +22,7 @@ An image depicting a phenomenon known as bioluminescence, where organisms conver
 The green glowing spots on the outside of this Brazilian termite mound are larvae of the click beetle, *Pyrophorus nyctophanus*. These larvae convert the energy stored in organic molecules to light, a process called bioluminescence, which attracts termites that the larvae eat. Bioluminescence and other metabolic activities in a cell are energy transformations that are subject to physical laws.
 
 
-![How do the laws of thermodynamics relate to biological processes?](../images/img_1.jpg)
+![How do the laws of thermodynamics relate to biological processes?](../images/img_p181_1.jpeg)
 
 
 The first law of thermodynamics: Energy can be transferred and transformed, but it cannot be created or destroyed. For example: Light from the sun is transformed into chemical energy in organic molecules in plants. That is transformed by termites to chemical energy in organic molecules in termites. That is then transformed by click beetle larvae to light energy produced by bioluminescence.
@@ -40,7 +40,7 @@ The second law of thermodynamics: Every energy transfer or transformation increa
 - ******8.5********Regulation of enzyme activity helps control metabolism******
 
 
-![Advanced placement edition](../images/img_2.jpg)
+![Advanced placement edition](../images/img_p181_2.png)
 
 
 All living organisms require a constant input of energy, which is used for organization, growth, and reproduction **(BIG IDEA 2)**. Common to life are core processes that depend on enzymes to regulate the chemical reactions that drive the metabolic activities of life **(BIG IDEAS 1 & 4).**
@@ -51,7 +51,7 @@ All living organisms require a constant input of energy, which is used for organ
 **Make a table:** Fill in the following table for each process you read about in this chapter, such as water spilling over a dam or a chemical reaction.
 
 
-![A partially filled table lists the process, relative energy levels of starting and ending materials, and the spontaneity of the process.](../images/img_3.jpg)
+![A partially filled table lists the process, relative energy levels of starting and ending materials, and the spontaneity of the process.](../images/img_p181_3.jpeg)
 
 
 The table is as follows:

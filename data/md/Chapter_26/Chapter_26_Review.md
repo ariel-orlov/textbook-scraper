@@ -8,13 +8,13 @@
 # Chapter 26 Review
 
 
-![A snake with stripes on its body.](../images/img_0.jpg)
+![A snake with stripes on its body.](../images/img_p657_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p657_1.png)
 
 
 Could the early tree of life be a ring? What evidence could be used to support a circular lineage for early life? **(BIG IDEAS 1 & 3)**
@@ -27,7 +27,7 @@ Could the early tree of life be a ring? What evidence could be used to support a
 - Systematists depict evolutionary relationships as branching **phylogenetic trees**. Many systematists propose that classification be based entirely on evolutionary relationships.
 
 
-![A phylogenetic tree with 5 nodes.](../images/img_2.jpg)
+![A phylogenetic tree with 5 nodes.](../images/img_p657_2.jpeg)
 
 
 The tree has branches that begin to the left. The first node is labeled Most recent common ancestor. It branches to Taxon F (basal taxon) and to another branch. That other branch goes to 2 more branch points. One branch point goes to taxons D and E. Another branches yet again. It goes to Taxon A and another branch. This final branch point goes to taxons B and C, which are sister taxa.
@@ -52,7 +52,7 @@ The tree has branches that begin to the left. The first node is labeled Most rec
 - A **clade** is a monophyletic group that includes an ancestral species and all of its descendants.
 
 
-![A phylogenetic tree with 3 highlighted parts.](../images/img_3.jpg)
+![A phylogenetic tree with 3 highlighted parts.](../images/img_p657_3.jpeg)
 
 
 A tree has 1 common branch. In one direction, it goes to a branch point that leads to taxon A and 2 another branch. The other branch goes to taxa B and C. Taxa A, B, and C are a monophyletic group. Returning to the common branch, it splits to a branch point. This point goes to 2 more branch points. One splits into taxa D and E, and the other splits to taxa F and G. Taxa D, E, and F are a paraphyletic group. In the third highlighted part, taxa A, B, C, and D are a polyphyletic group.

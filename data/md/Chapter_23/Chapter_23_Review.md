@@ -8,13 +8,13 @@
 # Chapter 23 Review
 
 
-![A finch.](../images/img_0.jpg)
+![A finch.](../images/img_p580_0.jpeg)
 
 
 ## Summary of Key Concepts
 
 
-![Advanced placement edition](../images/img_1.jpg)
+![Advanced placement edition](../images/img_p580_1.png)
 
 
 Are the p and q allele frequencies always equal when a population is in Hardy-Weinberg equilibrium? Explain your response.**(BIG IDEA 1)**
@@ -48,7 +48,7 @@ Are the p and q allele frequencies always equal when a population is in Hardy-We
 - One organism has greater **relative fitness** than another organism if it leaves more fertile descendants. The modes of natural selection differ in their effect on phenotype:
 
 
-![Three types of selection given as curves.](../images/img_2.jpg)
+![Three types of selection given as curves.](../images/img_p580_2.jpeg)
 
 
 The original population is represented by a bell-shaped curve. In the graph for directional selection, the curve for the evolved population is bell-shaped, but it peaks to the right of the original population. An arrow points down to the left side of the original population. Below the graph are 3 mice from light brown to dark brown, with the second darkest mouse under the evolved population peak.
