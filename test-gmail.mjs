@@ -1,11 +1,14 @@
 import { ImapFlow } from "imapflow";
 import { simpleParser } from "mailparser";
+import { config } from "dotenv";
+
+config();
 
 const client = new ImapFlow({
   host: "imap.gmail.com",
   port: 993,
   secure: true,
-  auth: { user: "orlovariel7@gmail.com", pass: "fljyfxfjvhbuandw" },
+  auth: { user: process.env.GMAIL_USER, pass: process.env.GMAIL_APP_PASSWORD },
   logger: false,
 });
 

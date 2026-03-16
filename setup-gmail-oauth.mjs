@@ -1,9 +1,12 @@
 import puppeteer from "puppeteer";
 import fs from "fs/promises";
 import path from "path";
+import { config } from "dotenv";
 
-const GMAIL = "orlovariel7@gmail.com";
-const PASSWORD = "2020RealMadrid";
+config();
+
+const GMAIL = process.env.GMAIL_USER;
+const PASSWORD = process.env.GMAIL_PASSWORD;
 const SCREENSHOTS_DIR = "./output/screenshots/gmail-setup";
 let screenshotCounter = 0;
 
