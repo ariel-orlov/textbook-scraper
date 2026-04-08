@@ -207,12 +207,15 @@ async function goToPage(page, targetPage) {
 }
 
 async function goToNextPage(page) {
-  const clicked = await page.evaluate(() => {
-    const btn = document.querySelector('button[aria-label*="next page"]');
-    if (btn && !btn.disabled) { btn.click(); return true; }
-    return false;
-  });
-  if (clicked) await new Promise((r) => setTimeout(r, 2000));
+  let clicked = false;
+  try {
+    clicked = await page.evaluate(() => {
+      const btn = document.querySelector('button[aria-label*="next page"]');
+      if (btn && !btn.disabled) { btn.click(); return true; }
+      return false;
+    });
+  } catch (e) { clicked = false; }
+  if (clicked) await new Promise((r) => setTimeout(r, 3500));
   return clicked;
 }
 
@@ -229,13 +232,51 @@ async function getTotalPages(page) {
 }
 
 async function getCurrentPage(page) {
-  return page.evaluate(() => {
-    const inputs = document.querySelectorAll("input");
-    for (const input of inputs) {
-      if (/^\d+$/.test(input.value.trim())) return parseInt(input.value.trim());
-    }
-    return null;
-  });
+  try {
+    return await page.evaluate(() => {
+      const inputs = document.querySelectorAll("input");
+      for (const input of inputs) {
+        if (/^\d+$/.test(input.value.trim())) return parseInt(input.value.trim());
+      }
+      return null;
+    });
+  } catch (e) { return null; }
+}
+
+async function hasNextPage(page) {
+  try {
+    return await page.evaluate(() => {
+      const btn = document.querySelector('button[aria-label*="next page"]');
+      return !!(btn && !btn.disabled);
+    });
+  } catch (e) { return true; } // assume more pages if we can't check
+}
+
+async function isReaderLoaded(page) {
+  try {
+    return await page.evaluate(() => {
+      const hasIframe = !!document.querySelector('#contentIframe, iframe[id*="content"], iframe[src*="pearson"]');
+      const hasLoginForm = !!document.querySelector('input[type="password"]');
+      return hasIframe && !hasLoginForm;
+    });
+  } catch (e) {
+    // Frame temporarily detached during navigation — not a logout
+    return true;
+  }
+}
+
+async function ensureLoggedIn(page, pageNum) {
+  // Let any in-flight navigation settle before evaluating
+  await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 6000 }).catch(() => {});
+  let loaded = true;
+  try { loaded = await isReaderLoaded(page); } catch (e) { loaded = false; }
+  if (!loaded) {
+    console.log(`\n⚠️  Session expired at page ${pageNum}! Re-logging in...`);
+    await login(page);
+    await goToPage(page, pageNum);
+    await new Promise(r => setTimeout(r, 3000));
+    console.log(`  ✅ Re-logged in, back at page ${pageNum}`);
+  }
 }
 
 async function extractPageContent(page) {
@@ -415,17 +456,23 @@ async function main() {
 
     for (let p = startPage; p <= endPage; p++) {
       if (p > startPage) {
-        const hasNext = await goToNextPage(page);
-        if (!hasNext) {
+        // Check end-of-book WITHOUT clicking (avoids frame detachment)
+        const more = await hasNextPage(page);
+        if (!more) {
           console.log(`\nNo more pages after page ${p - 1}. End of textbook.`);
           break;
         }
+        // Navigate by typing the page number — no iframe detachment
+        await goToPage(page, p);
       }
+
+      await ensureLoggedIn(page, p);
 
       // Verify current page
       const actual = await getCurrentPage(page);
 
-      const content = await extractPageContent(page);
+      let content;
+      try { content = await extractPageContent(page); } catch (e) { content = { md: "", raw: "", images: [] }; }
       let text = (content.md || "").replace(/\n{3,}/g, "\n\n").replace(/[ \t]+$/gm, "").trim();
       const rawText = (content.raw || "").trim();
       const finalText = text.length > 20 ? text : rawText;
@@ -441,7 +488,7 @@ async function main() {
 
       // Detect chapter changes from title
       const sectionTitle = content.title || "";
-      const chapterMatch = sectionTitle.match(/^(Chapter\s+\d+|Unit\s+\d+|Appendix|Index|Glossary)/i);
+      const chapterMatch = sectionTitle.match(/^(Chapter[\s\u00A0\uFEFF\u200B]*\d+|Unit[\s\u00A0\uFEFF]*\d+|Appendix|Index|Glossary)/i);
 
       // If we detect a new chapter and have accumulated content, save the previous chapter
       if (chapterMatch && currentChapterPages.length > 0) {
